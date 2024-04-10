@@ -1,0 +1,124 @@
+{
+    "id": 5714,
+    "date": "2024-04-08T16:23:19",
+    "date_gmt": "2024-04-08T16:23:19",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//jamie-bennett-2/"
+    },
+    "modified": "2024-04-08T16:23:19",
+    "modified_gmt": "2024-04-08T16:23:19",
+    "slug": "jamie-bennett-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/sussex/jamie-bennett-2/",
+    "title": {
+        "rendered": "Jamie Bennett"
+    },
+    "content": {
+        "rendered": "<p>Dear Neighbour,</p>\n<p>The men and women who serve in our&nbsp;police and emergency services do an&nbsp;incredible job working to keep us safe.&nbsp;But they, and the public they serve, are&nbsp;being let down by the Conservatives.</p>\n<p>The Conservatives have taken people in our county for granted for far too long, especially people living in rural areas who rarely see a police officer anymore.</p>\n<p>We need to reduce wasteful Police and Crime Commissioner spending and use that money on the frontline.</p>\n<p>We need to increase Police numbers to keep our towns and villages safe.</p>\n<p>We need to be working with local agencies and organisations to help improve crime prevention so people are kept safe in our area.</p>\n<p>We need to listen to local people so Sussex Police responds to their needs not just what the Conservatives want.</p>\n<p>It&rsquo;s time we did things differently.&nbsp;</p>\n<p>As a Councillor I have seen first hand what the years of cuts have done to our Police force and am used to fighting for services in our area.</p>\n<p>Across Sussex more and more people are saying they know only the Liberal Democrats can beat the Conservatives so please consider lending me your vote on May 2nd.</p>\n<p>Yours Faithfully,</p>\n<p>Cllr Jamie Bennett.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Prepared by C Gibson on behalf of J Bennett (Liberal Democrats) both at 100 Seaside Road, Eastbourne, East Sussex, BN21 3PF&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.southeastlibdems.org.uk/pcc-elections-2024/jamie-bennett-for-sussex </p>\n<p>https://www.facebook.com/profile.php?id=61557278283593</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Dear Neighbour, The men and women who serve in our&nbsp;police and emergency services do an&nbsp;incredible job working to keep us safe.&nbsp;But they, and the public they serve, are&nbsp;being let down by the Conservatives. The Conservatives have taken people in our county for granted for far too long, especially people living in rural areas who rarely [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Jamie",
+        "surname": "Bennett",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.southeastlibdems.org.uk/pcc-elections-2024/jamie-bennett-for-sussex",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/profile.php?id=61557278283593</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Jamie",
+        "ballot_surname": "Bennett",
+        "police_force": 66,
+        "party": "Liberal Democrat",
+        "user": 270,
+        "statement": "<p>Dear Neighbour,</p>\n<p>The men and women who serve in our&nbsp;police and emergency services do an&nbsp;incredible job working to keep us safe.&nbsp;But they, and the public they serve, are&nbsp;being let down by the Conservatives.</p>\n<p>The Conservatives have taken people in our county for granted for far too long, especially people living in rural areas who rarely see a police officer anymore.</p>\n<p>We need to reduce wasteful Police and Crime Commissioner spending and use that money on the frontline.</p>\n<p>We need to increase Police numbers to keep our towns and villages safe.</p>\n<p>We need to be working with local agencies and organisations to help improve crime prevention so people are kept safe in our area.</p>\n<p>We need to listen to local people so Sussex Police responds to their needs not just what the Conservatives want.</p>\n<p>It&rsquo;s time we did things differently.&nbsp;</p>\n<p>As a Councillor I have seen first hand what the years of cuts have done to our Police force and am used to fighting for services in our area.</p>\n<p>Across Sussex more and more people are saying they know only the Liberal Democrats can beat the Conservatives so please consider lending me your vote on May 2nd.</p>\n<p>Yours Faithfully,</p>\n<p>Cllr Jamie Bennett.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Prepared by C Gibson on behalf of J Bennett (Liberal Democrats) both at 100 Seaside Road, Eastbourne, East Sussex, BN21 3PF&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5063,
+        "emblem_image_id": 5244,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        66
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5714
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5714"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5714/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5714"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5714"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5714"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

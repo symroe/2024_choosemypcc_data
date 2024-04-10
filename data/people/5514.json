@@ -1,0 +1,124 @@
+{
+    "id": 5514,
+    "date": "2024-04-08T16:16:42",
+    "date_gmt": "2024-04-08T16:16:42",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//david-stokes-2/"
+    },
+    "modified": "2024-04-08T16:16:42",
+    "modified_gmt": "2024-04-08T16:16:42",
+    "slug": "david-stokes-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/dorset/david-stokes-2/",
+    "title": {
+        "rendered": "David Stokes"
+    },
+    "content": {
+        "rendered": "<p><strong>David Stokes for Dorset PCC</strong></p>\n<p>Over the past 12 months my team and I have spoken to thousands of people on the doorstep across Dorset. &nbsp;Time and again crime has been a major concern. Whether it is anti-social-behaviour, knife crime, domestic violence, rampant shop lifting or violence towards retail staff, Dorset certainly doesn&rsquo;t feel like a safe place to live anymore.&nbsp;</p>\n<p>As your Police and Crime Commissioner, I would work to see more police on the street. More neighbourhood and community policing working alongside specialist units to concentrate on violence against women and girls, drug dealing and serious violent crime.&nbsp;</p>\n<p>Shockingly, across the country 90% of crimes now go unsolved. &nbsp;We need to restore confidence in the criminal justice system, to raise standards and get more crimes solved.</p>\n<p>We also face increasing threats from cybercrime, fraud and ingenious scams that will affect more and more people. We need to take these new and emerging crimes seriously. &nbsp;</p>\n<p>The Police and Crime Commissioner must focus on all the challenges that face the whole community. Co-operation, community and partnership work are things that come naturally to those of us in the Labour and Co-operative Party. They will be key themes that will underline my new administration as Police and Crime Commissioner for Dorset.</p>\n<p>&nbsp;</p>\n<p>About the candidate:-</p>\n<p>David is 63 years old, married with three grown up children. He was born in Bournemouth and has lived here all his life, apart from 13 years working overseas on construction projects. He now works for a local firm as a Senior Quantity Surveyor and is active in his local Church. He is a member of Unite the Union.&nbsp;</p>\n<p>&nbsp;</p>\n<p>This election address has been prepared by me, Patrick Canavan, acting as Agent for David Stokes both at 29 Green Park, Manor Road, Bournemouth BH1 3HR</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07880 965558 </p>\n<p> David4DorsetPCC@gmail.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>David Stokes for Dorset PCC Over the past 12 months my team and I have spoken to thousands of people on the doorstep across Dorset. &nbsp;Time and again crime has been a major concern. Whether it is anti-social-behaviour, knife crime, domestic violence, rampant shop lifting or violence towards retail staff, Dorset certainly doesn&rsquo;t feel like [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "David",
+        "surname": "Stokes",
+        "phone": "07880 965558",
+        "email": "David4DorsetPCC@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "David",
+        "ballot_surname": "Stokes",
+        "police_force": 40,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p><strong>David Stokes for Dorset PCC</strong></p>\n<p>Over the past 12 months my team and I have spoken to thousands of people on the doorstep across Dorset. &nbsp;Time and again crime has been a major concern. Whether it is anti-social-behaviour, knife crime, domestic violence, rampant shop lifting or violence towards retail staff, Dorset certainly doesn&rsquo;t feel like a safe place to live anymore.&nbsp;</p>\n<p>As your Police and Crime Commissioner, I would work to see more police on the street. More neighbourhood and community policing working alongside specialist units to concentrate on violence against women and girls, drug dealing and serious violent crime.&nbsp;</p>\n<p>Shockingly, across the country 90% of crimes now go unsolved. &nbsp;We need to restore confidence in the criminal justice system, to raise standards and get more crimes solved.</p>\n<p>We also face increasing threats from cybercrime, fraud and ingenious scams that will affect more and more people. We need to take these new and emerging crimes seriously. &nbsp;</p>\n<p>The Police and Crime Commissioner must focus on all the challenges that face the whole community. Co-operation, community and partnership work are things that come naturally to those of us in the Labour and Co-operative Party. They will be key themes that will underline my new administration as Police and Crime Commissioner for Dorset.</p>\n<p>&nbsp;</p>\n<p>About the candidate:-</p>\n<p>David is 63 years old, married with three grown up children. He was born in Bournemouth and has lived here all his life, apart from 13 years working overseas on construction projects. He now works for a local firm as a Senior Quantity Surveyor and is active in his local Church. He is a member of Unite the Union.&nbsp;</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>This election address has been prepared by me, Patrick Canavan, acting as Agent for David Stokes both at 29 Green Park, Manor Road, Bournemouth BH1 3HR</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4626,
+        "emblem_image_id": 4627,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        40
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5514
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5514"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5514/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5514"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5514"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5514"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

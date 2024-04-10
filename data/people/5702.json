@@ -1,0 +1,124 @@
+{
+    "id": 5702,
+    "date": "2024-04-08T16:22:55",
+    "date_gmt": "2024-04-08T16:22:55",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//david-dickason-2/"
+    },
+    "modified": "2024-04-08T16:22:55",
+    "modified_gmt": "2024-04-08T16:22:55",
+    "slug": "david-dickason-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/lincolnshire/david-dickason-2/",
+    "title": {
+        "rendered": "David Dickason"
+    },
+    "content": {
+        "rendered": "<p>The Chief Constable is responsible for policing, the Police and Crime Commissioner is elected to hold the Chief Constable to account on behalf of the community.</p>\n<p>To set the budgets in order to have effective and efficient policing, the English Democrats will do this.</p>\n<p>Our candidate David Dickason has the knowledge and understanding of what&rsquo;s required.</p>\n<p>David is a retired senior police officer, following retirement he was a director of a homeless charity and has a good understanding of how people can end up in a spiral of decline.</p>\n<p>David is a proven senior police manager with several years&#8217; experience in policing and police budgets.</p>\n<p>He is experienced and trained in the management of serious incidents including acts of terrorism.</p>\n<p>David will examine the budgets and where the money is being spent and will ensure budgets are spent on front line policing and not on politically correct projects.</p>\n<p>Operational effectiveness will be improved, starting with-</p>\n<p>Examining the budget and the actual number of officers / staff against the role and establishment budget.</p>\n<p>Setting visibility targets measured by the community.</p>\n<p>Improvement around communication with the force will be examined.</p>\n<p>There will be targets for answering calls.</p>\n<p>All reports of burglaries for example will be attended, training budgets will be increased or adjusted where possible, to train response officers in basic evidence gathering (including lifting prints where needed).</p>\n<p>Scrap &#8216;diversity targets&#8217; and ensure that the best qualified candidates are awarded the job.</p>\n<p>Partnership working with outside agencies will be further developed.</p>\n<p>If you want common sense policing, a visual deterrent, an end to politically correct policing then please vote for David who will be tough on crime and the fear of crime.</p>\n<p>&nbsp;</p>\n<p>&nbsp;Election address prepared by David Dickason Coronation Cottage South, Bull Drove, Boston, Lincolnshire, PE22 9DW</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> Enquiries@EnglishDemocrats.Party  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Chief Constable is responsible for policing, the Police and Crime Commissioner is elected to hold the Chief Constable to account on behalf of the community. To set the budgets in order to have effective and efficient policing, the English Democrats will do this. Our candidate David Dickason has the knowledge and understanding of what&rsquo;s [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "David",
+        "surname": "Dickason",
+        "phone": "",
+        "email": "Enquiries@EnglishDemocrats.Party",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "David",
+        "ballot_surname": "Dickason",
+        "police_force": 53,
+        "party": "English Democrats \u2013 \u201cMore Police \u2013 catching criminals!\u201d",
+        "user": 0,
+        "statement": "<p>The Chief Constable is responsible for policing, the Police and Crime Commissioner is elected to hold the Chief Constable to account on behalf of the community.</p>\n<p>To set the budgets in order to have effective and efficient policing, the English Democrats will do this.</p>\n<p>Our candidate David Dickason has the knowledge and understanding of what&rsquo;s required.</p>\n<p>David is a retired senior police officer, following retirement he was a director of a homeless charity and has a good understanding of how people can end up in a spiral of decline.</p>\n<p>David is a proven senior police manager with several years' experience in policing and police budgets.</p>\n<p>He is experienced and trained in the management of serious incidents including acts of terrorism.</p>\n<p>David will examine the budgets and where the money is being spent and will ensure budgets are spent on front line policing and not on politically correct projects.</p>\n<p>Operational effectiveness will be improved, starting with-</p>\n<p>Examining the budget and the actual number of officers / staff against the role and establishment budget.</p>\n<p>Setting visibility targets measured by the community.</p>\n<p>Improvement around communication with the force will be examined.</p>\n<p>There will be targets for answering calls.</p>\n<p>All reports of burglaries for example will be attended, training budgets will be increased or adjusted where possible, to train response officers in basic evidence gathering (including lifting prints where needed).</p>\n<p>Scrap 'diversity targets' and ensure that the best qualified candidates are awarded the job.</p>\n<p>Partnership working with outside agencies will be further developed.</p>\n<p>If you want common sense policing, a visual deterrent, an end to politically correct policing then please vote for David who will be tough on crime and the fear of crime.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>&nbsp;Election address prepared by David Dickason Coronation Cottage South, Bull Drove, Boston, Lincolnshire, PE22 9DW</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4294,
+        "emblem_image_id": 4295,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        53
+    ],
+    "political-party": [
+        379
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5702
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5702"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5702/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5702"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5702"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5702"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

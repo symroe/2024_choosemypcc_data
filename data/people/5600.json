@@ -1,0 +1,130 @@
+{
+    "id": 5600,
+    "date": "2024-04-08T16:19:28",
+    "date_gmt": "2024-04-08T16:19:28",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//david-watts-2/"
+    },
+    "modified": "2024-04-09T13:40:46",
+    "modified_gmt": "2024-04-09T13:40:46",
+    "slug": "david-watts-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/nottinghamshire/david-watts-2/",
+    "title": {
+        "rendered": "David Watts"
+    },
+    "content": {
+        "rendered": "<p><strong>Honesty, Integrity, Experience, Ability and Competence: The key attributes needed to be a successful Police and Crime Commissioner.</strong></p>\n<p>Nottinghamshire Police are in special measures. We need a Police and Crime Commissioner who can get to grips with this and raise standards. I believe that I am that person.</p>\n<p>I have worked in criminal law, both prosecuting and defending cases, for over 35 years. I have degrees in Business Law and in Criminal Justice Studies so I am both a practicing solicitor advocate and a criminologist. I am a previous leader of Broxtowe Borough Council and so I also have experience of running a large organisation.</p>\n<p>My vision for the police in Nottinghamshire is that we will have a force who serve the local community. That means that the police must be visible and accessible to local people. It\u2019s no good having officers hidden away in offices and police cars. It also means that crimes must be investigated properly. When a crime happens people don\u2019t just want a crime number, they want the police to investigate it and catch the people responsible.</p>\n<p>The job of the Commissioner isn\u2019t just to make sure that crimes are investigated, it\u2019s to ensure that crime is reduced in the first place. I want to ensure that we take every opportunity to bring crime figures down, and also to make sure that people no longer fear crime.</p>\n<p>I hope I can bring honesty, experience and integrity to the role. If elected I will use my experience and training to ensure that the police provide a quality service for local people. I would be honoured if you would place your trust in me.</p>\n<p>Thank you.</p>\n<p>David</p>\n<p>Prepared by Andrew Kingdon, agent for David Watts, Liberal Democrats, 50 Bankfield Drive, Bramcote, Nottingham, NG9 3EG</p>\n<p><strong>Contact Details</strong></p>\n<p>https://www.broxtowelibdems.org.uk/</p>\n<p>d.k.watts@hotmail.com</p>\n<p>https://www.facebook.com/DavidKennethWatts</p>\n<p><span>https://twitter.com/DavidWatts12</span></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Honesty, Integrity, Experience, Ability and Competence: The key attributes needed to be a successful Police and Crime Commissioner. Nottinghamshire Police are in special measures. We need a Police and Crime Commissioner who can get to grips with this and raise standards. I believe that I am that person. I have worked in criminal law, both [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "David",
+        "surname": "Watts ",
+        "phone": "",
+        "email": "d.k.watts@hotmail.com",
+        "email_welsh": "",
+        "website": "https://www.broxtowelibdems.org.uk/",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/DavidKennethWatts</p>\n<p>https://twitter.com/DavidWatts12</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "David",
+        "ballot_surname": "Watts ",
+        "police_force": 60,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p><strong>Honesty, Integrity, Experience, Ability and Competence: The key attributes needed to be a successful Police and Crime Commissioner.</strong></p>\n<p>Nottinghamshire Police are in special measures. We need a Police and Crime Commissioner who can get to grips with this and raise standards. I believe that I am that person.</p>\n<p>I have worked in criminal law, both prosecuting and defending cases, for over 35 years. I have degrees in Business Law and in Criminal Justice Studies so I am both a practicing solicitor advocate and a criminologist. I am a previous leader of Broxtowe Borough Council and so I also have experience of running a large organisation.</p>\n<p>My vision for the police in Nottinghamshire is that we will have a force who serve the local community. That means that the police must be visible and accessible to local people. It&rsquo;s no good having officers hidden away in offices and police cars. It also means that crimes must be investigated properly. When a crime happens people don&rsquo;t just want a crime number, they want the police to investigate it and catch the people responsible.</p>\n<p>The job of the Commissioner isn&rsquo;t just to make sure that crimes are investigated, it&rsquo;s to ensure that crime is reduced in the first place. I want to ensure that we take every opportunity to bring crime figures down, and also to make sure that people no longer fear crime.</p>\n<p>I hope I can bring honesty, experience and integrity to the role. If elected I will use my experience and training to ensure that the police provide a quality service for local people. I would be honoured if you would place your trust in me.</p>\n<p>Thank you.</p>\n<p>David</p>",
+        "agent_statement": "<p>Prepared by Andrew Kingdon, agent for David Watts, Liberal Democrats, 50 Bankfield Drive, Bramcote, Nottingham, NG9 3EG</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4760,
+        "emblem_image_id": 4993,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        60
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5600
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5600"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5600/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5897,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5600/revisions/5897"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5600"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5600"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5600"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

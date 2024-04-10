@@ -1,0 +1,124 @@
+{
+    "id": 5736,
+    "date": "2024-04-08T16:23:59",
+    "date_gmt": "2024-04-08T16:23:59",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//nigel-frederick-boddy-2/"
+    },
+    "modified": "2024-04-08T16:23:59",
+    "modified_gmt": "2024-04-08T16:23:59",
+    "slug": "nigel-frederick-boddy-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/durham/nigel-frederick-boddy-2/",
+    "title": {
+        "rendered": "Nigel Frederick Boddy"
+    },
+    "content": {
+        "rendered": "<p><strong>We deserve better from policing in Durham.</strong></p>\n<p>Whether it&#8217;s spending hours on hold to 101, or the fact that only 11% of burglaries in Durham and Darlington were solved between October 2022 to September 2023, residents in Durham and Darlington deserve better. I will be a Police and Crime Commissioner who isn&#8217;t afraid to get stuck in across County Durham and Darlington. You won&#8217;t find me behind a desk, but out and about with our hardworking police officers, working to tackle the important issues that actually matter to residents.&nbsp;</p>\n<p>As a professional solicitor, I have spent a lot of time with the police seeing the best, and sadly the worst of our area. I know our criminal justice system like the back of my hand and I know what we need to do to get this broken system working again.</p>\n<p>To make residents feel safe, we need to address poverty and work with young people at risk of being drawn into antisocial and criminal behaviour. We need our police to be valued and trusted, and to spend more of their time on crime and its prevention, to build a strong and caring society. And we need to listen more to residents and victims of crime and ensure we respond to their priorities too.</p>\n<p><strong>If you elect me on May 2nd, I will be a Police and Crime Commissioner who listens to you, who you see out and about and who is ready to tackle crime at its roots. Place your trust in me, vote Liberal Democrat on May 2nd. &nbsp;&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>The election address has been produced by Thom Campion. Published and promoted by Thom Campion on the behalf of Nigel Boddy (Liberal Democrat) both at 4 Witney Court, Greencroft Close, Darlington, DL3 8JG</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.northeastlibdems.org.uk </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>We deserve better from policing in Durham. Whether it&#8217;s spending hours on hold to 101, or the fact that only 11% of burglaries in Durham and Darlington were solved between October 2022 to September 2023, residents in Durham and Darlington deserve better. I will be a Police and Crime Commissioner who isn&#8217;t afraid to get [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Nigel Frederick",
+        "surname": "Boddy",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.northeastlibdems.org.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Nigel Frederick",
+        "ballot_surname": "Boddy",
+        "police_force": 41,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p><strong>We deserve better from policing in Durham.</strong></p>\n<p>Whether it's spending hours on hold to 101, or the fact that only 11% of burglaries in Durham and Darlington were solved between October 2022 to September 2023, residents in Durham and Darlington deserve better. I will be a Police and Crime Commissioner who isn't afraid to get stuck in across County Durham and Darlington. You won't find me behind a desk, but out and about with our hardworking police officers, working to tackle the important issues that actually matter to residents.&nbsp;</p>\n<p>As a professional solicitor, I have spent a lot of time with the police seeing the best, and sadly the worst of our area. I know our criminal justice system like the back of my hand and I know what we need to do to get this broken system working again.</p>\n<p>To make residents feel safe, we need to address poverty and work with young people at risk of being drawn into antisocial and criminal behaviour. We need our police to be valued and trusted, and to spend more of their time on crime and its prevention, to build a strong and caring society. And we need to listen more to residents and victims of crime and ensure we respond to their priorities too.</p>\n<p><strong>If you elect me on May 2nd, I will be a Police and Crime Commissioner who listens to you, who you see out and about and who is ready to tackle crime at its roots. Place your trust in me, vote Liberal Democrat on May 2nd. &nbsp;&nbsp;</strong></p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>The election address has been produced by Thom Campion. Published and promoted by Thom Campion on the behalf of Nigel Boddy (Liberal Democrat) both at 4 Witney Court, Greencroft Close, Darlington, DL3 8JG</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4817,
+        "emblem_image_id": 4954,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        41
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5736
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5736"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5736/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5736"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5736"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5736"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

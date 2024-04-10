@@ -1,0 +1,124 @@
+{
+    "id": 5766,
+    "date": "2024-04-08T16:24:53",
+    "date_gmt": "2024-04-08T16:24:53",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//mustaque-rahman-2/"
+    },
+    "modified": "2024-04-08T16:24:53",
+    "modified_gmt": "2024-04-08T16:24:53",
+    "slug": "mustaque-rahman-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/northumbria/mustaque-rahman-2/",
+    "title": {
+        "rendered": "Mustaque Rahman"
+    },
+    "content": {
+        "rendered": "<p>I&#8217;m a former Crown Prosecutor. I understand how our criminal justice system operates.</p>\n<p>Before I was a prosecutor, I was a legal adviser to the magistrates. Since leaving the CPS, I&#8217;ve been doing private work.</p>\n<p>There are too many incidents where the Police are failing the public. The responsibility for this lies with the PCC, not the front line officers.</p>\n<p>According to ONS statistics, since 2019, knife crime in England and Wales has decreased by 8%. In Northumbria it has risen by 43%. 100% of Burglaries reported in whole wards in Northumbria remain unsolved. Over 60% of police desks have been closed. 64 Northumbria Police officers have been accused of domestic violence and sexual assault. A shoplifting epidemic is blighting our high streets causing local businesses to go under. 100,000 anti-social behaviour calls have not been attended.</p>\n<p>Yet we&#8217;ve been charged a 36% increase in council tax. &nbsp;This isn&#8217;t good value for money.</p>\n<p>The public have lost confidence in their political leadership. National Parties treat this role as a career stepping stone. We need someone with experience, independent of political control, to put things right.</p>\n<p>I will focus on getting criminal cases processed. Wheels of justice are too slow, taking years for a case to come to court. Too many criminals believe they can offend without consequences, then ask for other offences to be taken into account.</p>\n<p>I will focus on rehabilitation. &nbsp;Far too many petty criminals serve short sentences, and then go back into crime. &nbsp;We need to help them get off drugs, find jobs and homes, and get their lives back on track.</p>\n<p>Party Politicians treating rising crime as a &ldquo;public health issue&rdquo;. &nbsp;It&#8217;s not. &nbsp;It&#8217;s about enforcing the law to keep people safe.</p>\n<p>Prepared by Habib Rahman, 2 Friars Street, Newcastle, NE1 4XA, Agent for Mustaque Rahman.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> http://www.Rahman4pcc.org </p>\n<p> staqrahman@gmail.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I&#8217;m a former Crown Prosecutor. I understand how our criminal justice system operates. Before I was a prosecutor, I was a legal adviser to the magistrates. Since leaving the CPS, I&#8217;ve been doing private work. There are too many incidents where the Police are failing the public. The responsibility for this lies with the PCC, [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Mustaque",
+        "surname": "Rahman",
+        "phone": "",
+        "email": "staqrahman@gmail.com",
+        "email_welsh": "",
+        "website": "http://www.Rahman4pcc.org",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Mustaque",
+        "ballot_surname": "Rahman",
+        "police_force": 59,
+        "party": "Independent",
+        "user": 0,
+        "statement": "<p>I'm a former Crown Prosecutor. I understand how our criminal justice system operates.</p>\n<p>Before I was a prosecutor, I was a legal adviser to the magistrates. Since leaving the CPS, I've been doing private work.</p>\n<p>There are too many incidents where the Police are failing the public. The responsibility for this lies with the PCC, not the front line officers.</p>\n<p>According to ONS statistics, since 2019, knife crime in England and Wales has decreased by 8%. In Northumbria it has risen by 43%. 100% of Burglaries reported in whole wards in Northumbria remain unsolved. Over 60% of police desks have been closed. 64 Northumbria Police officers have been accused of domestic violence and sexual assault. A shoplifting epidemic is blighting our high streets causing local businesses to go under. 100,000 anti-social behaviour calls have not been attended.</p>\n<p>Yet we've been charged a 36% increase in council tax. &nbsp;This isn't good value for money.</p>\n<p>The public have lost confidence in their political leadership. National Parties treat this role as a career stepping stone. We need someone with experience, independent of political control, to put things right.</p>\n<p>I will focus on getting criminal cases processed. Wheels of justice are too slow, taking years for a case to come to court. Too many criminals believe they can offend without consequences, then ask for other offences to be taken into account.</p>\n<p>I will focus on rehabilitation. &nbsp;Far too many petty criminals serve short sentences, and then go back into crime. &nbsp;We need to help them get off drugs, find jobs and homes, and get their lives back on track.</p>\n<p>Party Politicians treating rising crime as a &ldquo;public health issue&rdquo;. &nbsp;It's not. &nbsp;It's about enforcing the law to keep people safe.</p>",
+        "agent_statement": "<p>Prepared by Habib Rahman, 2 Friars Street, Newcastle, NE1 4XA, Agent for Mustaque Rahman.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5190,
+        "emblem_image_id": 0,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        59
+    ],
+    "political-party": [
+        8
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5766
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5766"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5766/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5766"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5766"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5766"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

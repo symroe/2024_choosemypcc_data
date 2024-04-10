@@ -1,0 +1,130 @@
+{
+    "id": 5741,
+    "date": "2024-04-08T16:24:08",
+    "date_gmt": "2024-04-08T16:24:08",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//ian-harrison-2/"
+    },
+    "modified": "2024-04-09T14:24:27",
+    "modified_gmt": "2024-04-09T14:24:27",
+    "slug": "ian-harrison-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/dyfed-powys/ian-harrison-2/",
+    "title": {
+        "rendered": "Ian Harrison"
+    },
+    "content": {
+        "rendered": "<p>Ian Harrison is a family man with 3 grown children, married to Anne, living in Guilsfield near Welshpool.</p>\n<p>Now retired and a County Councillor, Ian&#8217;s expertise are in global operations and innovation management, gained in the Brewing and Distilling industry and then Ethical Global Pharmaceuticals. He originally trained and qualified as a Master Brewer with a major UK Brewing Company. Following closure of the brewery where he was a packaging manager, he undertook the MBA course at Cranfield and moved into Corporate Management, firstly within Brewing and Distilling, and then Pharmaceuticals. His roles involved management troubleshooting, business process improvement, and improving competitive advantage.</p>\n<p>These roles, whether within an operational or corporate context, involved significant attention to health and safety matters and, in the case of pharmaceuticals, strict attention to regulatory frameworks designed to ensure the safety and efficacy of new products and technologies. Hence, although he has no experience of policing, he fully appreciates the highly controlled framework within which they must operate.</p>\n<p>If elected as Police and Crime Commissioner for Dyfed Powys Ian&#8217;s immediate priorities will be focused upon Force performance within the context of the Annual HMIC reports and he would plan to come to an early agreement with the Chief Constable to address this issue.</p>\n<p>Residents tell Ian that they want to see more police officers, and that they want action on anti-social behaviour, tackling County Lines gangs, domestic violence and rural crime.</p>\n<p>Dyfed Powys is an enormous rural area to police, and Ian intends to spend his time visiting and listening to many stakeholders and interest groups as he develops specific plans and initiatives to reduce crime, make residents safer and reinforce interfaces with victim support groups.</p>\n<p>This statement has been prepared by Ian Harrison&#8217;s agent Christopher Kirkham, of 20 High St, Welshpool SY21 7JP</p>\n<p><strong>Contact Details</strong></p>\n<p>https://www.everycrimematters.cymru</p>\n<p>ian.harrison@everycrimematters.cymru</p>\n<p>https://www.facebook.com/profile.php?id=61555497877847</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Ian Harrison is a family man with 3 grown children, married to Anne, living in Guilsfield near Welshpool. Now retired and a County Councillor, Ian&#8217;s expertise are in global operations and innovation management, gained in the Brewing and Distilling industry and then Ethical Global Pharmaceuticals. He originally trained and qualified as a Master Brewer with [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Ian",
+        "surname": "Harrison",
+        "phone": "",
+        "email": "ian.harrison@everycrimematters.cymru",
+        "email_welsh": "",
+        "website": "https://www.everycrimematters.cymru",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/profile.php?id=61555497877847</p>\n<p>&nbsp;</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Ian",
+        "ballot_surname": "Harrison",
+        "police_force": 42,
+        "party": "Conservative Candidate \u2013 More Police, Safer Streets",
+        "user": 0,
+        "statement": "<p>Ian Harrison is a family man with 3 grown children, married to Anne, living in Guilsfield near Welshpool.</p>\n<p>Now retired and a County Councillor, Ian's expertise are in global operations and innovation management, gained in the Brewing and Distilling industry and then Ethical Global Pharmaceuticals. He originally trained and qualified as a Master Brewer with a major UK Brewing Company. Following closure of the brewery where he was a packaging manager, he undertook the MBA course at Cranfield and moved into Corporate Management, firstly within Brewing and Distilling, and then Pharmaceuticals. His roles involved management troubleshooting, business process improvement, and improving competitive advantage.</p>\n<p>These roles, whether within an operational or corporate context, involved significant attention to health and safety matters and, in the case of pharmaceuticals, strict attention to regulatory frameworks designed to ensure the safety and efficacy of new products and technologies. Hence, although he has no experience of policing, he fully appreciates the highly controlled framework within which they must operate.</p>\n<p>If elected as Police and Crime Commissioner for Dyfed Powys Ian's immediate priorities will be focused upon Force performance within the context of the Annual HMIC reports and he would plan to come to an early agreement with the Chief Constable to address this issue.</p>\n<p>Residents tell Ian that they want to see more police officers, and that they want action on anti-social behaviour, tackling County Lines gangs, domestic violence and rural crime.</p>\n<p>Dyfed Powys is an enormous rural area to police, and Ian intends to spend his time visiting and listening to many stakeholders and interest groups as he develops specific plans and initiatives to reduce crime, make residents safer and reinforce interfaces with victim support groups.</p>",
+        "agent_statement": "<p>This statement has been prepared by Ian Harrison's agent Christopher Kirkham, of 20 High St, Welshpool SY21 7JP</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5092,
+        "emblem_image_id": 5093,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        42
+    ],
+    "political-party": [
+        308
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5741
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5741"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5741/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5912,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5741/revisions/5912"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5741"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5741"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5741"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

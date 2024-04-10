@@ -1,0 +1,124 @@
+{
+    "id": 5678,
+    "date": "2024-04-08T16:22:07",
+    "date_gmt": "2024-04-08T16:22:07",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//mike-johnson-2/"
+    },
+    "modified": "2024-04-08T16:22:07",
+    "modified_gmt": "2024-04-08T16:22:07",
+    "slug": "mike-johnson-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cumbria/mike-johnson-2/",
+    "title": {
+        "rendered": "Mike Johnson"
+    },
+    "content": {
+        "rendered": "<p>I have a track record of delivery. I have been Deputy PFCC over the last year. In that time, we&rsquo;ve secured significant Government funding, crime is down, and average response times for both Police and Fire are the quickest on record.</p>\n<p>We have more Police Officers in Cumbria than ever before. I have listened to your requests for greater visibility and have introduced Community Beat Officers (CBOs). In one area alone, anti-social behaviour fell by 47% following the introduction.</p>\n<p>I&#8217;ve worked to protect our rural communities by establishing a dedicated rural crime team and have increased the number of &lsquo;safe and well&rsquo; visits in rural communities undertaken by the Fire Service.</p>\n<p>I&rsquo;ve also launched a new dedicated Roads Policing Unit, only made possible through record police numbers, making our roads safer.</p>\n<p>YOUR PRIORITIES ARE MY PRIORITIES:</p>\n<p>&bull; I will boost police numbers past the current record levels and further invest in CBOs, who will be visible to you, where it matters most.<br />&bull; I will work to ensure that Cumbria remains a &lsquo;no go&rsquo; zone for criminals and is as safe as it can be, with a focus on rural crime, roads policing and antisocial behaviour.<br />&bull; I will ensure that victims are at the heart of what we do. No-one should be a victim of crime, but for those who are, I will ensure they receive the appropriate support.<br />&bull; I will make our roads safer and will work with young people to educate them about the dangers. I will ensure the response to road traffic collisions is the best it can be.<br />&bull; I will accelerate collaborative work between all blue light services, and I&rsquo;m committed to maintaining front line services in an affordable way.</p>\n<p>Prepared by the candidate&rsquo;s agent, Andy Pratt, Boadle Ground, Carleton, Holmrook, CA19 1YX</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07557005573 </p>\n<p> contact@mikejohnson.org.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I have a track record of delivery. I have been Deputy PFCC over the last year. In that time, we&rsquo;ve secured significant Government funding, crime is down, and average response times for both Police and Fire are the quickest on record. We have more Police Officers in Cumbria than ever before. I have listened to [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Mike",
+        "surname": "Johnson",
+        "phone": "07557005573",
+        "email": "contact@mikejohnson.org.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Mike",
+        "ballot_surname": "Johnson",
+        "police_force": 37,
+        "party": "Conservative Candidate - More Police, Safer Streets",
+        "user": 0,
+        "statement": "<p>I have a track record of delivery. I have been Deputy PFCC over the last year. In that time, we&rsquo;ve secured significant Government funding, crime is down, and average response times for both Police and Fire are the quickest on record.</p>\n<p>We have more Police Officers in Cumbria than ever before. I have listened to your requests for greater visibility and have introduced Community Beat Officers (CBOs). In one area alone, anti-social behaviour fell by 47% following the introduction.</p>\n<p>I've worked to protect our rural communities by establishing a dedicated rural crime team and have increased the number of &lsquo;safe and well&rsquo; visits in rural communities undertaken by the Fire Service.</p>\n<p>I&rsquo;ve also launched a new dedicated Roads Policing Unit, only made possible through record police numbers, making our roads safer.</p>\n<p>YOUR PRIORITIES ARE MY PRIORITIES:</p>\n<p>&bull; I will boost police numbers past the current record levels and further invest in CBOs, who will be visible to you, where it matters most.<br>&bull; I will work to ensure that Cumbria remains a &lsquo;no go&rsquo; zone for criminals and is as safe as it can be, with a focus on rural crime, roads policing and antisocial behaviour.<br>&bull; I will ensure that victims are at the heart of what we do. No-one should be a victim of crime, but for those who are, I will ensure they receive the appropriate support.<br>&bull; I will make our roads safer and will work with young people to educate them about the dangers. I will ensure the response to road traffic collisions is the best it can be.<br>&bull; I will accelerate collaborative work between all blue light services, and I&rsquo;m committed to maintaining front line services in an affordable way.<br><br></p>",
+        "agent_statement": "<p>Prepared by the candidate&rsquo;s agent, Andy Pratt, Boadle Ground, Carleton, Holmrook, CA19 1YX</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4431,
+        "emblem_image_id": 4575,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        37
+    ],
+    "political-party": [
+        363
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5678
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5678"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5678/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5678"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5678"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5678"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

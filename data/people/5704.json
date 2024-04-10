@@ -1,0 +1,124 @@
+{
+    "id": 5704,
+    "date": "2024-04-08T16:22:58",
+    "date_gmt": "2024-04-08T16:22:58",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//tim-bearder-2/"
+    },
+    "modified": "2024-04-08T16:22:58",
+    "modified_gmt": "2024-04-08T16:22:58",
+    "slug": "tim-bearder-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/thames-valley/tim-bearder-2/",
+    "title": {
+        "rendered": "Tim Bearder"
+    },
+    "content": {
+        "rendered": "<p>Tim Bearder has a wealth of experience serving the area and managing big budgets with a number of important cabinet positions on Oxfordshire County Council. &nbsp;He has an in-depth knowledge of the wider patch and its problems, having worked as a journalist for BBC South.</p>\n<p>As the election date of the 2nd of May looms, it is anticipated to be a hotly contested battle between the Liberal Democrats and the Conservative Party.</p>\n<p>Responding to his selection, Councillor Bearder highlighted his key priorities:</p>\n<p>&#8220;Communities across the Thames Valley are yearning for substantive change. The Conservative Party has consistently fallen short on recruitment goals and made cutbacks to community policing, notably in areas like Oxford and Reading.</p>\n<p>This has led to increased response times and a concerning drop in convictions, particularly for offences such as domestic burglary which are close to an all-time low. &nbsp;Residents have lost faith in the Conservative Party&#8217;s ability to effectively manage our police force, underscoring the urgent need for an alternative approach.</p>\n<p>The Liberal Democrats are committed to restoring community policing, providing residents the assurance that law enforcement will be present and responsive when needed.&#8221;</p>\n<p>Layla Moran MP, Member of Parliament for Oxford West and Abingdon, applauded Cllr Bearder&rsquo;s candidacy:</p>\n<p>&#8220;With Tim Bearder at the helm, we have the opportunity to elect a passionate community advocate who will champion tough, innovative policing in one of the nation&#8217;s largest forces.</p>\n<p>This election address has been prepared by me the agent Richard Cole at C5 Grange Court Business Park, Barton Ln, Abingdon OX14 3NB</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07789754727 </p>\n<p> https://www.southcentrallibdems.org.uk/pcc-2024 </p>\n<p> tim@bearder.com  </p>\n<p>https://www.facebook.com/TimBearderUK</p>\n<p><a class=\"twitter-timeline\" data-width=\"500\" data-height=\"750\" data-dnt=\"true\" href=\"https://twitter.com/timbearder?ref_src=twsrc%5Etfw\">Tweets by timbearder</a><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Tim Bearder has a wealth of experience serving the area and managing big budgets with a number of important cabinet positions on Oxfordshire County Council. &nbsp;He has an in-depth knowledge of the wider patch and its problems, having worked as a journalist for BBC South. As the election date of the 2nd of May looms, [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Tim",
+        "surname": "Bearder",
+        "phone": "07789754727",
+        "email": "tim@bearder.com",
+        "email_welsh": "",
+        "website": "https://www.southcentrallibdems.org.uk/pcc-2024",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/TimBearderUK</p>\n<p>https://twitter.com/timbearder</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Tim",
+        "ballot_surname": "Bearder",
+        "police_force": 67,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>Tim Bearder has a wealth of experience serving the area and managing big budgets with a number of important cabinet positions on Oxfordshire County Council. &nbsp;He has an in-depth knowledge of the wider patch and its problems, having worked as a journalist for BBC South.</p>\n<p>As the election date of the 2nd of May looms, it is anticipated to be a hotly contested battle between the Liberal Democrats and the Conservative Party.</p>\n<p>Responding to his selection, Councillor Bearder highlighted his key priorities:</p>\n<p>\"Communities across the Thames Valley are yearning for substantive change. The Conservative Party has consistently fallen short on recruitment goals and made cutbacks to community policing, notably in areas like Oxford and Reading.</p>\n<p>This has led to increased response times and a concerning drop in convictions, particularly for offences such as domestic burglary which are close to an all-time low. &nbsp;Residents have lost faith in the Conservative Party's ability to effectively manage our police force, underscoring the urgent need for an alternative approach.</p>\n<p>The Liberal Democrats are committed to restoring community policing, providing residents the assurance that law enforcement will be present and responsive when needed.\"</p>\n<p>Layla Moran MP, Member of Parliament for Oxford West and Abingdon, applauded Cllr Bearder&rsquo;s candidacy:</p>\n<p>\"With Tim Bearder at the helm, we have the opportunity to elect a passionate community advocate who will champion tough, innovative policing in one of the nation's largest forces.</p>",
+        "agent_statement": "<p>This election address has been prepared by me the agent Richard Cole at C5 Grange Court Business Park, Barton Ln, Abingdon OX14 3NB</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5264,
+        "emblem_image_id": 0,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        67
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5704
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5704"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5704/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5704"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5704"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5704"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

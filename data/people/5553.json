@@ -1,0 +1,124 @@
+{
+    "id": 5553,
+    "date": "2024-04-08T16:18:01",
+    "date_gmt": "2024-04-08T16:18:01",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//anna-smith-2/"
+    },
+    "modified": "2024-04-08T16:18:01",
+    "modified_gmt": "2024-04-08T16:18:01",
+    "slug": "anna-smith-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cambridgeshire/anna-smith-2/",
+    "title": {
+        "rendered": "Anna Smith"
+    },
+    "content": {
+        "rendered": "<p>A Fresh Start for Policing in Cambridgeshire and Peterborough</p>\n<p>I bring a lifetime of public service leadership. I&rsquo;ve been a school leader, council leader, Deputy Mayor and Acting Mayor. I know and love our region. I know how to lead it.</p>\n<p>I am driven by a desire to serve and improve lives, to make everyone safer and more secure. I have the right experience, energy and vision.</p>\n<p>I will deliver a fresh start for policing across Peterborough and Cambridgeshire.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; A responsive police service, there when you need it.</p>\n<p>Everyone should feel safe at home, at work, and in daily life. I&rsquo;ll champion neighbourhood policing.&nbsp;</p>\n<p>Our police are under-funded. I&rsquo;ll fight for a fair deal, and for our share of the 13,000 extra neighbourhood police and PCSOs promised by Labour.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Prevent Crime</p>\n<p>We must promote safer streets, businesses and homes. And as a former teacher, I know we must stop young people being drawn into crime.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Break the cycle of crime by joining up services</p>\n<p>I&rsquo;ll work with agencies, businesses and voluntary groups to get results for residents. I did this during lockdown, I did this addressing domestic abuse. I will do it as PCC.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Zero-tolerance for violence</p>\n<p>I&rsquo;ll tackle attitudes that lead to gang violence, knife crime and the abuse of women. I have practical experience in youth work, safeguarding and working with the police.&nbsp;</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Making your voice heard</p>\n<p>I&rsquo;ll help our hard-working police deliver your priorities, and improve standards. I will hold the police to account. We all deserve the best.</p>\n<p>Polls predict Labour will win, but it&rsquo;s close. Vote for me for a fresh start for policing in Cambridgeshire and Peterborough.</p>\n<p>&nbsp;</p>\n<p>Prepared by David Jermy (agent) at Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.anna4labour.com </p>\n<p>@anna4labour</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A Fresh Start for Policing in Cambridgeshire and Peterborough I bring a lifetime of public service leadership. I&rsquo;ve been a school leader, council leader, Deputy Mayor and Acting Mayor. I know and love our region. I know how to lead it. I am driven by a desire to serve and improve lives, to make everyone [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Anna",
+        "surname": "Smith",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.anna4labour.com",
+        "website_welsh": "",
+        "social_media": "<p>@anna4labour</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Anna",
+        "ballot_surname": "Smith",
+        "police_force": 34,
+        "party": "Labour and Co-operative",
+        "user": 229,
+        "statement": "<p>A Fresh Start for Policing in Cambridgeshire and Peterborough</p>\n<p>I bring a lifetime of public service leadership. I&rsquo;ve been a school leader, council leader, Deputy Mayor and Acting Mayor. I know and love our region. I know how to lead it.</p>\n<p>I am driven by a desire to serve and improve lives, to make everyone safer and more secure. I have the right experience, energy and vision.</p>\n<p>I will deliver a fresh start for policing across Peterborough and Cambridgeshire.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; A responsive police service, there when you need it.</p>\n<p>Everyone should feel safe at home, at work, and in daily life. I&rsquo;ll champion neighbourhood policing.&nbsp;</p>\n<p>Our police are under-funded. I&rsquo;ll fight for a fair deal, and for our share of the 13,000 extra neighbourhood police and PCSOs promised by Labour.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Prevent Crime</p>\n<p>We must promote safer streets, businesses and homes. And as a former teacher, I know we must stop young people being drawn into crime.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Break the cycle of crime by joining up services</p>\n<p>I&rsquo;ll work with agencies, businesses and voluntary groups to get results for residents. I did this during lockdown, I did this addressing domestic abuse. I will do it as PCC.</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Zero-tolerance for violence</p>\n<p>I&rsquo;ll tackle attitudes that lead to gang violence, knife crime and the abuse of women. I have practical experience in youth work, safeguarding and working with the police.&nbsp;</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; Making your voice heard</p>\n<p>I&rsquo;ll help our hard-working police deliver your priorities, and improve standards. I will hold the police to account. We all deserve the best.</p>\n<p>Polls predict Labour will win, but it&rsquo;s close. Vote for me for a fresh start for policing in Cambridgeshire and Peterborough.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Prepared by David Jermy (agent) at Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4893,
+        "emblem_image_id": 4895,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        34
+    ],
+    "political-party": [
+        367
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5553
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5553"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5553/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5553"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5553"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5553"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "id": 5916,
+    "date": "2024-04-09T14:35:41",
+    "date_gmt": "2024-04-09T14:35:41",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/?post_type=candidate&#038;p=5916"
+    },
+    "modified": "2024-04-09T19:07:15",
+    "modified_gmt": "2024-04-09T19:07:15",
+    "slug": "hannah-jarvis",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/cy/candidates/gwent-cy/hannah-jarvis/",
+    "title": {
+        "rendered": "Hannah Jarvis"
+    },
+    "content": {
+        "rendered": "<p>I am a hardworking, self-employed army veteran, committed to serving the public. In Gwent, we need a firmer approach to tackling crime to retain confidence in our police force.</p>\n<p>My priorities:</p>\n<ul>\n<li><strong>20mph speed limits</strong> I will take a pragmatic approach to enforcing this in areas where it is unnecessary. When budgets are stretched, we should not be wasting resources on policing ill-thought out policies.</li>\n<li><strong>Rural crime</strong> Welsh farmers are facing extremely challenging times. I will increase funding to the Rural Crime Team and ensure crime is not one of the burdens they need face.</li>\n<li><strong>Anti-social behaviour</strong> I will increase police patrols in known areas of anti-social behaviour \u2013 no one should feel intimidated in their own home.</li>\n<li><strong>Cyber-crime </strong>I will order a review into rising cyber-crime and commission a Digital Dog \u2013 to sniff out electronic devices, providing critical evidence to prosecute criminals who hide in the cybersphere.</li>\n<li><strong>Organised crime</strong> I will back additional anti-drugs operations in Gwent to disrupt county lines gangs and end exploitation of our young and vulnerable.</li>\n<li><strong>Public confidence</strong> I will conduct a review into disciplinary procedures, taking a zero-tolerance approach to sexual misconduct and all forms of discrimination. If a police officer falls short of the high standards expected, they should be dealt with swiftly and robustly.</li>\n</ul>\n<p>Crime in all forms destroys lives. I understand it is not always the headline-making crime that blights lives, I will tackle crime on all levels and be as accessible as I can, to ensure I support people from all communities to the best of my ability.</p>\n<p>I have a background of service, I hope you will support me in becoming Police and Crime Commissioner for Gwent, to serve you and your interests.</p>\n<p>Promoted by Richard John on behalf of Hannah Jarvis, both at 16 Maryport Street, Usk, NP15 1AB.</p>\n<p><strong>Manylion Cyswllt</strong></p>\n<p>https://www.conservatives.com</p>\n<p>hanelizabeth@hotmail.com</p>\n<p>Twitter: @hannahhjjarvis</p>\n<p>Facebook: Hannah for Gwent Police and Crime Commissioner</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I am a hardworking, self-employed army veteran, committed to serving the public. In Gwent, we need a firmer approach to tackling crime to retain confidence in our police force. My priorities: 20mph speed limits I will take a pragmatic approach to enforcing this in areas where it is unnecessary. When budgets are stretched, we should [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 117,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Hannah",
+        "surname": "Jarvis",
+        "phone": "",
+        "email": "hanelizabeth@hotmail.com",
+        "email_welsh": "",
+        "website": "https://www.conservatives.com",
+        "website_welsh": "",
+        "social_media": "<p>Twitter: @hannahhjjarvis</p>\n<p>Facebook: Hannah for Gwent Police and Crime Commissioner</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Hannah",
+        "ballot_surname": "Jarvis",
+        "police_force": 46,
+        "party": "Conservative Candidate - More Police, Safer Streets",
+        "user": 0,
+        "statement": "<p>I am a hardworking, self-employed army veteran, committed to serving the public. In Gwent, we need a firmer approach to tackling crime to retain confidence in our police force.</p>\n<p>My priorities:</p>\n<ul>\n<li><strong>20mph speed limits</strong> I will take a pragmatic approach to enforcing this in areas where it is unnecessary. When budgets are stretched, we should not be wasting resources on policing ill-thought out policies.</li>\n<li><strong>Rural crime</strong> Welsh farmers are facing extremely challenging times. I will increase funding to the Rural Crime Team and ensure crime is not one of the burdens they need face.</li>\n<li><strong>Anti-social behaviour</strong> I will increase police patrols in known areas of anti-social behaviour &ndash; no one should feel intimidated in their own home.</li>\n<li><strong>Cyber-crime </strong>I will order a review into rising cyber-crime and commission a Digital Dog &ndash; to sniff out electronic devices, providing critical evidence to prosecute criminals who hide in the cybersphere.</li>\n<li><strong>Organised crime</strong> I will back additional anti-drugs operations in Gwent to disrupt county lines gangs and end exploitation of our young and vulnerable.</li>\n<li><strong>Public confidence</strong> I will conduct a review into disciplinary procedures, taking a zero-tolerance approach to sexual misconduct and all forms of discrimination. If a police officer falls short of the high standards expected, they should be dealt with swiftly and robustly.</li>\n</ul>\n<p>Crime in all forms destroys lives. I understand it is not always the headline-making crime that blights lives, I will tackle crime on all levels and be as accessible as I can, to ensure I support people from all communities to the best of my ability.</p>\n<p>I have a background of service, I hope you will support me in becoming Police and Crime Commissioner for Gwent, to serve you and your interests.</p>",
+        "agent_statement": "<p>Promoted by Richard John on behalf of Hannah Jarvis, both at 16 Maryport Street, Usk, NP15 1AB.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5137,
+        "emblem_image_id": 5138,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        162
+    ],
+    "political-party": [
+        363
+    ],
+    "acf": [],
+    "translations": {
+        "cy": 5916
+    },
+    "lang": "cy",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5916"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/117"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5916/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5995,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5916/revisions/5995"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5916"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5916"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5916"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "id": 5688,
+    "date": "2024-04-08T16:22:29",
+    "date_gmt": "2024-04-08T16:22:29",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//matt-fisher/"
+    },
+    "modified": "2024-04-09T15:20:15",
+    "modified_gmt": "2024-04-09T15:20:15",
+    "slug": "matt-fisher",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/hertfordshire/matt-fisher/",
+    "title": {
+        "rendered": "Matt Fisher"
+    },
+    "content": {
+        "rendered": "<p>I aspire to make a significant, enduring impact on the world, leveraging my natural ability to unite people and foster community spirit. My commitment to environmental sustainability and strong leadership skills underpins my goal to create lasting change.</p>\n<p>During my formative years, I demonstrated exceptional team skills, recognized through awards including the Lord Lieutenant&#8217;s Cadet and the Best Sea Cadet in Great Britain. I achieved the Gold Duke of Edinburgh Award and scholarships in both flying and maritime skills.</p>\n<p>My experiences range from teaching in South Africa to serving as a Special Constable. As a Royal Navy Officer Air Crew, I honed my leadership abilities, particularly while working with Special Forces. This military background instilled in me the motto &#8220;The Team Works,&#8221; which I embody in all endeavours.</p>\n<p>In my career as a portrait and event photographer, I&#8217;ve connected with diverse individuals, successfully collaborating with national and international brands. This enabled me to refine my persuasive skills, evident in my volunteer work with Project Harar, producing films to support facial reconstructive surgery in Ethiopia.</p>\n<p>I have a strong moral compass, a sense of duty, and an innovative mindset. These qualities make me eager to collaborate with various community groups to develop strategies for safer, more vibrant communities.</p>\n<p>Currently serving as a Green district councillor in St Albans, I excel in resolving conflicts and challenges with empathy and respect. My abilities to engage, inspire, and inform have been proven in numerous capacities. I am excited about this role, seeing it as a perfect alignment with my skills and passions.</p>\n<p>This address has been prepared by the election agent, Candy Whittome, whose contact address is St Albans Green Party, 21 Marlborough Gate, St Albans AL1 3TX.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I aspire to make a significant, enduring impact on the world, leveraging my natural ability to unite people and foster community spirit. My commitment to environmental sustainability and strong leadership skills underpins my goal to create lasting change. During my formative years, I demonstrated exceptional team skills, recognized through awards including the Lord Lieutenant&#8217;s Cadet [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Matt",
+        "surname": "Fisher",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Matt",
+        "ballot_surname": "Fisher",
+        "police_force": 48,
+        "party": "Green Party",
+        "user": 0,
+        "statement": "<p>I aspire to make a significant, enduring impact on the world, leveraging my natural ability to unite people and foster community spirit. My commitment to environmental sustainability and strong leadership skills underpins my goal to create lasting change.</p>\n<p>During my formative years, I demonstrated exceptional team skills, recognized through awards including the Lord Lieutenant's Cadet and the Best Sea Cadet in Great Britain. I achieved the Gold Duke of Edinburgh Award and scholarships in both flying and maritime skills.</p>\n<p>My experiences range from teaching in South Africa to serving as a Special Constable. As a Royal Navy Officer Air Crew, I honed my leadership abilities, particularly while working with Special Forces. This military background instilled in me the motto \"The Team Works,\" which I embody in all endeavours.</p>\n<p>In my career as a portrait and event photographer, I've connected with diverse individuals, successfully collaborating with national and international brands. This enabled me to refine my persuasive skills, evident in my volunteer work with Project Harar, producing films to support facial reconstructive surgery in Ethiopia.</p>\n<p>I have a strong moral compass, a sense of duty, and an innovative mindset. These qualities make me eager to collaborate with various community groups to develop strategies for safer, more vibrant communities.</p>\n<p>Currently serving as a Green district councillor in St Albans, I excel in resolving conflicts and challenges with empathy and respect. My abilities to engage, inspire, and inform have been proven in numerous capacities. I am excited about this role, seeing it as a perfect alignment with my skills and passions.</p>",
+        "agent_statement": "<p>This address has been prepared by the election agent, Candy Whittome, whose contact address is St Albans Green Party, 21 Marlborough Gate, St Albans AL1 3TX.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5284,
+        "emblem_image_id": 5285,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        48
+    ],
+    "political-party": [
+        361
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5688
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5688"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5688/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5939,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5688/revisions/5939"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5688"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5688"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5688"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

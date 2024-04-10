@@ -1,0 +1,130 @@
+{
+    "id": 5686,
+    "date": "2024-04-08T16:22:21",
+    "date_gmt": "2024-04-08T16:22:21",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//katy-grant-2/"
+    },
+    "modified": "2024-04-08T22:27:02",
+    "modified_gmt": "2024-04-08T22:27:02",
+    "slug": "katy-grant-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/avon-and-somerset/katy-grant-2/",
+    "title": {
+        "rendered": "Katy Grant"
+    },
+    "content": {
+        "rendered": "<p>I am a councillor in Bristol, and an Avon and Somerset magistrate. Before that, I worked for twenty years with the UN on child protection and violence against women in conflict and humanitarian settings in the global south.</p>\n<p>As Police and Crime Commissioner, I will focus on:</p>\n<ul>\n<li>Preventing crime; working with community, schools, youth service providers and families to tackle the structural/social causes of crime, especially knife violence. I want to see trusted, neighbourhood police officers participating in community-wide actions to provide young people with alternatives. The police will play a role at all levels, as community support officers in schools, joining peer group support plans, building resilience.</li>\n<li>Better police presence in the community in the aftermath of violence, with enhanced services to families of victims.</li>\n<li>Improving results on the prosecution of sexual violence, domestic violence and assault. I will make sure we have the systems to deliver (and metrics to demonstrate) greater safety for women and girls in their homes and on our streets. This will include specialist outreach to prevent child exploitation and abuse.</li>\n<li>In rural areas, I will strengthen policing of county lines drug operations, and reduce related violence in Somerset towns. Rural police teams need better resourcing to prevent agricultural theft, burglary, vandalism and wildlife crime.</li>\n<li>I will ask the police to lead on a collective commitment to a five-pillar Vision Zero strategy to eliminate traffic fatalities in Avon and Somerset. We will work with councils, schools and others to prioritise road safety.</li>\n<li>Improved performance and standards within the force. This will include greater independence for misconduct panels. I will work tirelessly with the Avon and Somerset Police to get closer to and regain the trust of the communities we serve.</li>\n</ul>\n<p>Prepared by the election agent, Thomas Daw, 1 Stonewell Park Road, Congresbury, BS49 5DP.</p>\n<p><strong>Contact Details</strong></p>\n<p>katy.grant@bristolgreenparty.org</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I am a councillor in Bristol, and an Avon and Somerset magistrate. Before that, I worked for twenty years with the UN on child protection and violence against women in conflict and humanitarian settings in the global south. As Police and Crime Commissioner, I will focus on: Preventing crime; working with community, schools, youth service [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Katy",
+        "surname": "Grant",
+        "phone": "",
+        "email": "katy.grant@bristolgreenparty.org",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Katy",
+        "ballot_surname": "Grant",
+        "police_force": 32,
+        "party": "Green Party",
+        "user": 0,
+        "statement": "<p>I am a councillor in Bristol, and an Avon and Somerset magistrate. Before that, I worked for twenty years with the UN on child protection and violence against women in conflict and humanitarian settings in the global south.</p>\n<p>As Police and Crime Commissioner, I will focus on:</p>\n<ul>\n<li>Preventing crime; working with community, schools, youth service providers and families to tackle the structural/social causes of crime, especially knife violence. I want to see trusted, neighbourhood police officers participating in community-wide actions to provide young people with alternatives. The police will play a role at all levels, as community support officers in schools, joining peer group support plans, building resilience.</li>\n<li>Better police presence in the community in the aftermath of violence, with enhanced services to families of victims.</li>\n<li>Improving results on the prosecution of sexual violence, domestic violence and assault. I will make sure we have the systems to deliver (and metrics to demonstrate) greater safety for women and girls in their homes and on our streets. This will include specialist outreach to prevent child exploitation and abuse.</li>\n<li>In rural areas, I will strengthen policing of county lines drug operations, and reduce related violence in Somerset towns. Rural police teams need better resourcing to prevent agricultural theft, burglary, vandalism and wildlife crime.</li>\n<li>I will ask the police to lead on a collective commitment to a five-pillar Vision Zero strategy to eliminate traffic fatalities in Avon and Somerset. We will work with councils, schools and others to proritise road safety.</li>\n<li>Improved performance and standards within the force. This will include greater independence for misconduct panels. I will work tirelessly with the Avon and Somerset Police to get closer to and regain the trust of the communities we serve.</li>\n</ul>",
+        "agent_statement": "<p>Prepared by the election agent, Thomas Daw, 1 Stonewell Park Road, Congresbury, BS49 5DP.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5267,
+        "emblem_image_id": 5272,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        32
+    ],
+    "political-party": [
+        361
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5686
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5686"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5686/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5841,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5686/revisions/5841"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5686"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5686"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5686"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 5665,
+    "date": "2024-04-08T16:21:41",
+    "date_gmt": "2024-04-08T16:21:41",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//christopher-david-carubia-2/"
+    },
+    "modified": "2024-04-08T16:21:41",
+    "modified_gmt": "2024-04-08T16:21:41",
+    "slug": "christopher-david-carubia-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/merseyside/christopher-david-carubia-2/",
+    "title": {
+        "rendered": "Christopher David Carubia"
+    },
+    "content": {
+        "rendered": "<p>Under the banner of &lsquo;More Feet On The Street&rsquo; Wirral councillor and campaigner Chris Carubia is the Liberal Democrat candidate for the Police &amp; Crime Commissioner election in Merseyside.</p>\n<p>A substantial candidate with extensive experience working in business at senior management levels, and as a councillor in Wirral for ten years, Chris understands the need for our local police to work within our communities to protect our local&nbsp;neighbourhoods.</p>\n<p>&ldquo;We need first and foremost to restore proper community policing. We need to have police officers visible, trusted, and approachable allowing the wider force to&nbsp;focus on the more serious crimes.&rdquo;</p>\n<p>It is vital that we build a well-rounded approach for local policing to both care for victims and reduce repeat offences. Recognising the pressing issues of violent crime, such as gun and knife crime, violence against women and domestic abuse.</p>\n<p>Chris vows to also prioritise these critical areas. Drawing on years of experience and a deep understanding of local dynamics, he will work tirelessly to implement targeted strategies to address these specific challenges head-on. With a focus on prevention, Chris aims to reduce crime at its roots, investing in community initiatives, youth programs, and early intervention strategies.</p>\n<p>&ldquo;We need a multi-agency approach, and by working with social services, health&nbsp;workers and schools, the police can become more proactive in tackling antisocial behaviour at its source. We can also reduce reoffending by working closely with the&nbsp;Prison Service to improve rehabilitation and strengthen supervision of offenders in&nbsp;the community.&rdquo;</p>\n<p>A winning vote for Chris Carubia will give policing in Merseyside the leadership and change our residents deserve.</p>\n<p>This election address has been prepared by Patrick Moloney of 24 Whitcroft Road, Liverpool L6 8NJ, acting as the agent for Christopher David Carubia Liberal Democrats.&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Under the banner of &lsquo;More Feet On The Street&rsquo; Wirral councillor and campaigner Chris Carubia is the Liberal Democrat candidate for the Police &amp; Crime Commissioner election in Merseyside. A substantial candidate with extensive experience working in business at senior management levels, and as a councillor in Wirral for ten years, Chris understands the need [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Christopher David",
+        "surname": "Carubia",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Christopher David",
+        "ballot_surname": "Carubia",
+        "police_force": 54,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>Under the banner of &lsquo;More Feet On The Street&rsquo; Wirral councillor and campaigner Chris Carubia is the Liberal Democrat candidate for the Police &amp; Crime Commissioner election in Merseyside.</p>\n<p>A substantial candidate with extensive experience working in business at senior management levels, and as a councillor in Wirral for ten years, Chris understands the need for our local police to work within our communities to protect our local&nbsp;neighbourhoods.</p>\n<p>&ldquo;We need first and foremost to restore proper community policing. We need to have police officers visible, trusted, and approachable allowing the wider force to&nbsp;focus on the more serious crimes.&rdquo;</p>\n<p>It is vital that we build a well-rounded approach for local policing to both care for victims and reduce repeat offences. Recognising the pressing issues of violent crime, such as gun and knife crime, violence against women and domestic abuse.</p>\n<p>Chris vows to also prioritise these critical areas. Drawing on years of experience and a deep understanding of local dynamics, he will work tirelessly to implement targeted strategies to address these specific challenges head-on. With a focus on prevention, Chris aims to reduce crime at its roots, investing in community initiatives, youth programs, and early intervention strategies.</p>\n<p>&ldquo;We need a multi-agency approach, and by working with social services, health&nbsp;workers and schools, the police can become more proactive in tackling antisocial behaviour at its source. We can also reduce reoffending by working closely with the&nbsp;Prison Service to improve rehabilitation and strengthen supervision of offenders in&nbsp;the community.&rdquo;</p>\n<p>A winning vote for Chris Carubia will give policing in Merseyside the leadership and change our residents deserve.</p>",
+        "agent_statement": "<p>This election address has been prepared by Patrick Moloney of 24 Whitcroft Road, Liverpool L6 8NJ, acting as the agent for Christopher David Carubia Liberal Democrats.&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5139,
+        "emblem_image_id": 5140,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        54
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5665
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5665"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5665/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5665"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5665"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5665"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

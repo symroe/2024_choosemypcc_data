@@ -1,0 +1,124 @@
+{
+    "id": 5613,
+    "date": "2024-04-08T16:19:53",
+    "date_gmt": "2024-04-08T16:19:53",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//gary-anthony-godden-2/"
+    },
+    "modified": "2024-04-08T16:19:53",
+    "modified_gmt": "2024-04-08T16:19:53",
+    "slug": "gary-anthony-godden-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/nottinghamshire/gary-anthony-godden-2/",
+    "title": {
+        "rendered": "Gary Anthony Godden"
+    },
+    "content": {
+        "rendered": "<p>On May 2 you have the opportunity to shape the future of our community.</p>\n<p><strong>I served as a police officer for 15 years</strong> and I am honoured to be your Labour candidate.</p>\n<p>Having been proud to call Nottinghamshire home for over 25 years, I have dedicated myself to serving and protecting its residents.&nbsp;</p>\n<p>With my experience as a police officer, and now working within the NHS, I understand the complex nature of our communities.&nbsp;</p>\n<p><strong>I know first hand how to keep people safe</strong>.&nbsp;</p>\n<p>Honesty and integrity are paramount to this role and as your PCC, I will uphold these values and ensure transparency in all my actions. Trust is the cornerstone of effective governance, and I am committed to fostering trust through open communication and ethical conduct.</p>\n<p>My pledges to you are clear and actionable. I will:</p>\n<ul>\n<li>Rebuild neighbourhood policing by <strong>recruiting more officers </strong>and establishing named officers for every community, alongside the creation of community hubs.</li>\n<li>Take a <strong>zero-tolerance approach to anti-social behaviour</strong>, bolstering neighbourhood policing, enhancing community intelligence, and implementing problem-solving strategies to increase convictions.</li>\n<li><strong>Tackle violence against women and girls </strong>through partnership working, empowering communities to report crimes, and implementing robust monitoring of violent perpetrators in collaboration with the courts.</li>\n<li><strong>Combat knife crime </strong>by establishing Young Futures hubs and collaborating with local authorities, integrated care boards, schools, and youth services to provide effective interventions.</li>\n<li>Prioritise road safety by <strong>targeting speeding and reckless driving</strong>, implementing zero-tolerance policies on drink and drug driving, and working tirelessly to reduce car fatalities.</li>\n</ul>\n<p>A vote for me is a vote for a safer Nottinghamshire for us all. Together, we can build a safer and more secure community.&nbsp;</p>\n<p>Statement prepared by Neil Rayner, election agent, at 23 Barratt Lane, Attenborough, NG9 6AD</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.garygodden.com/ </p>\n<p> gg@garygodden.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>On May 2 you have the opportunity to shape the future of our community. I served as a police officer for 15 years and I am honoured to be your Labour candidate. Having been proud to call Nottinghamshire home for over 25 years, I have dedicated myself to serving and protecting its residents.&nbsp; With my [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Gary Anthony",
+        "surname": "Godden",
+        "phone": "",
+        "email": "gg@garygodden.com",
+        "email_welsh": "",
+        "website": "https://www.garygodden.com/",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Gary Anthony",
+        "ballot_surname": "Godden",
+        "police_force": 60,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>On May 2 you have the opportunity to shape the future of our community.</p>\n<p><strong>I served as a police officer for 15 years</strong> and I am honoured to be your Labour candidate.</p>\n<p>Having been proud to call Nottinghamshire home for over 25 years, I have dedicated myself to serving and protecting its residents.&nbsp;</p>\n<p>With my experience as a police officer, and now working within the NHS, I understand the complex nature of our communities.&nbsp;</p>\n<p><strong>I know first hand how to keep people safe</strong>.&nbsp;</p>\n<p>Honesty and integrity are paramount to this role and as your PCC, I will uphold these values and ensure transparency in all my actions. Trust is the cornerstone of effective governance, and I am committed to fostering trust through open communication and ethical conduct.</p>\n<p>My pledges to you are clear and actionable. I will:</p>\n<ul>\n<li>Rebuild neighbourhood policing by <strong>recruiting more officers </strong>and establishing named officers for every community, alongside the creation of community hubs.</li>\n<li>Take a <strong>zero-tolerance approach to anti-social behaviour</strong>, bolstering neighbourhood policing, enhancing community intelligence, and implementing problem-solving strategies to increase convictions.</li>\n<li><strong>Tackle violence against women and girls </strong>through partnership working, empowering communities to report crimes, and implementing robust monitoring of violent perpetrators in collaboration with the courts.</li>\n<li><strong>Combat knife crime </strong>by establishing Young Futures hubs and collaborating with local authorities, integrated care boards, schools, and youth services to provide effective interventions.</li>\n<li>Prioritise road safety by <strong>targeting speeding and reckless driving</strong>, implementing zero-tolerance policies on drink and drug driving, and working tirelessly to reduce car fatalities.</li>\n</ul>\n<p>A vote for me is a vote for a safer Nottinghamshire for us all. Together, we can build a safer and more secure community.&nbsp;</p>",
+        "agent_statement": "<p>Statement prepared by Neil Rayner, election agent, at 23 Barratt Lane, Attenborough, NG9 6AD</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4998,
+        "emblem_image_id": 5095,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        60
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5613
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5613"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5613/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5613"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5613"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5613"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

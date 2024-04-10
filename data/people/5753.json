@@ -1,0 +1,124 @@
+{
+    "id": 5753,
+    "date": "2024-04-08T16:24:30",
+    "date_gmt": "2024-04-08T16:24:30",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//james-sandbach-2/"
+    },
+    "modified": "2024-04-08T16:24:30",
+    "modified_gmt": "2024-04-08T16:24:30",
+    "slug": "james-sandbach-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/suffolk/james-sandbach-2/",
+    "title": {
+        "rendered": "James  Sandbach"
+    },
+    "content": {
+        "rendered": "<p><strong>The Liberal Democrats in Suffolk have a clear commitment to abolish the office of the Police and Crime Commissioner and put that money into frontline police services, crime prevention and victim support.</strong></p>\n<p>The functions of the PCC such as budget setting, scrutiny and crime prevention could be handled at County Council level. We have not seen any added value from the PCC role in Suffolk with no significant change in the funding formula, the poor deal that Suffolk policing gets from central Government (ours is the fourth lowest funded force per resident in the country) or a priority focus on rural policing. Instead, demands for yet more savings, increases in precepts, police station and front desk closures have resulted. There are now just three police stations in Suffolk open for public enquiries, and Suffolk Police have lost 75% of their Police Community Support Officers (PCSOs) since 2015.</p>\n<p>Yet the office of Suffolk PCC has cost the taxpayer around &pound;4.5 million in the last 5 years in running costs, salaries and expenses for the office. This election is your chance to send a message that this waste of money must end. With local crime services stretched, more money should be put directly into the frontline, not political &#8220;sinecures&#8221;. If elected I will refuse to take up the position and will not claim any salary or expenses. My mission will be to campaign to get rid of the PCC in Suffolk and see resources redirected to fighting crime and supporting victims.&nbsp;</p>\n<p><strong>As Lib Dem leader Ed Davey has said &ldquo;Right across the country, Police and Crime Commissioners have failed to tackle rural crime. The role needs to be abolished so that resources can go into what really matters &#8211; improving frontline policing&#8221;.</strong></p>\n<p>Approved: Jon Whitehouse, 9 Marsh Lane, &nbsp;Somerleyton, Suffolk &nbsp;NR32 5QX&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.suffolklibdems.uk/ </p>\n<p> jamessandbach@gmail.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Liberal Democrats in Suffolk have a clear commitment to abolish the office of the Police and Crime Commissioner and put that money into frontline police services, crime prevention and victim support. The functions of the PCC such as budget setting, scrutiny and crime prevention could be handled at County Council level. We have not [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "James ",
+        "surname": "Sandbach",
+        "phone": "",
+        "email": "jamessandbach@gmail.com",
+        "email_welsh": "",
+        "website": "https://www.suffolklibdems.uk/",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "James ",
+        "ballot_surname": "Sandbach",
+        "police_force": 64,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p><strong>The Liberal Democrats in Suffolk have a clear commitment to abolish the office of the Police and Crime Commissioner and put that money into frontline police services, crime prevention and victim support.</strong></p>\n<p>The functions of the PCC such as budget setting, scrutiny and crime prevention could be handled at County Council level. We have not seen any added value from the PCC role in Suffolk with no significant change in the funding formula, the poor deal that Suffolk policing gets from central Government (ours is the fourth lowest funded force per resident in the country) or a priority focus on rural policing. Instead, demands for yet more savings, increases in precepts, police station and front desk closures have resulted. There are now just three police stations in Suffolk open for public enquiries, and Suffolk Police have lost 75% of their Police Community Support Officers (PCSOs) since 2015.</p>\n<p>Yet the office of Suffolk PCC has cost the taxpayer around &pound;4.5 million in the last 5 years in running costs, salaries and expenses for the office. This election is your chance to send a message that this waste of money must end. With local crime services stretched, more money should be put directly into the frontline, not political \"sinecures\". If elected I will refuse to take up the position and will not claim any salary or expenses. My mission will be to campaign to get rid of the PCC in Suffolk and see resources redirected to fighting crime and supporting victims.&nbsp;</p>\n<p><strong>As Lib Dem leader Ed Davey has said &ldquo;Right across the country, Police and Crime Commissioners have failed to tackle rural crime. The role needs to be abolished so that resources can go into what really matters - improving frontline policing\".</strong></p>",
+        "agent_statement": "<p>Approved: Jon Whitehouse, 9 Marsh Lane, &nbsp;Somerleyton, Suffolk &nbsp;NR32 5QX&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5153,
+        "emblem_image_id": 5154,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        64
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5753
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5753"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5753/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5753"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5753"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5753"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

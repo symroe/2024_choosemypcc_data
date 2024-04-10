@@ -1,0 +1,124 @@
+{
+    "id": 5680,
+    "date": "2024-04-08T16:22:10",
+    "date_gmt": "2024-04-08T16:22:10",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//adrian-waite-2/"
+    },
+    "modified": "2024-04-08T16:22:10",
+    "modified_gmt": "2024-04-08T16:22:10",
+    "slug": "adrian-waite-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cumbria/adrian-waite-2/",
+    "title": {
+        "rendered": "Adrian Waite"
+    },
+    "content": {
+        "rendered": "<p>The men and women who serve in our police and fire &amp; emergency services do an incredible job working to keep us safe. But they, and the public they serve, are <strong>being let down by the Conservatives</strong>.</p>\n<p>The <strong>Conservatives have taken people in our county for granted</strong> for far too long, especially people living in rural areas who rarely see a police officer anymore.</p>\n<p>We need a return to <strong>community-based policing</strong> where officers are visible and trusted so that residents feel safe in their towns and villages.</p>\n<p>We need proper resources put into the dedicated <strong>rural crime unit</strong> so that farmers are given peace of mind.</p>\n<p>We need to be working with local agencies and organisations to help tackle issues like anti social behaviour, and we need a <strong>youth investment fund</strong> to help develop youth services.</p>\n<p>Cuts and mismanagements from the Conservative Party have resulted in our police force being left with a <strong>&pound;16m black hole</strong>.&nbsp;</p>\n<p>This is an absolute disgrace and it will be local people and families who will be forced to pay the price for the Conservatives&rsquo; neglect of Cumbria&rsquo;s police force.&nbsp;</p>\n<p><strong>It&rsquo;s time we did things differently.</strong></p>\n<p>As an accountant and a former finance director, if I was elected to be our next Police, Fire and Crime Commissioner on May 2nd, I would make sure that we get <strong>value for money</strong>, with a real focus on outcomes &#8211; preventing and detecting crime and ensuring that people in Cumbria are safe.</p>\n<p>Prepared by Paul Trollope on behalf of Adrian Waite (Liberal Democrats) both at Acland House, Yard 2, Stricklandgate, Kendal, LA9 4ND</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.wfelibdems.uk </p>\n<p> amhwaite@outlook.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The men and women who serve in our police and fire &amp; emergency services do an incredible job working to keep us safe. But they, and the public they serve, are being let down by the Conservatives. The Conservatives have taken people in our county for granted for far too long, especially people living in [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Adrian",
+        "surname": "Waite",
+        "phone": "",
+        "email": "amhwaite@outlook.com",
+        "email_welsh": "",
+        "website": "https://www.wfelibdems.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Adrian",
+        "ballot_surname": "Waite",
+        "police_force": 37,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>The men and women who serve in our police and fire &amp; emergency services do an incredible job working to keep us safe. But they, and the public they serve, are <strong>being let down by the Conservatives</strong>.</p>\n<p>The <strong>Conservatives have taken people in our county for granted</strong> for far too long, especially people living in rural areas who rarely see a police officer anymore.</p>\n<p>We need a return to <strong>community-based policing</strong> where officers are visible and trusted so that residents feel safe in their towns and villages.</p>\n<p>We need proper resources put into the dedicated <strong>rural crime unit</strong> so that farmers are given peace of mind.</p>\n<p>We need to be working with local agencies and organisations to help tackle issues like anti social behaviour, and we need a <strong>youth investment fund</strong> to help develop youth services.</p>\n<p>Cuts and mismanagements from the Conservative Party have resulted in our police force being left with a <strong>&pound;16m black hole</strong>.&nbsp;</p>\n<p>This is an absolute disgrace and it will be local people and families who will be forced to pay the price for the Conservatives&rsquo; neglect of Cumbria&rsquo;s police force.&nbsp;</p>\n<p><strong>It&rsquo;s time we did things differently.</strong></p>\n<p>As an accountant and a former finance director, if I was elected to be our next Police, Fire and Crime Commissioner on May 2nd, I would make sure that we get <strong>value for money</strong>, with a real focus on outcomes - preventing and detecting crime and ensuring that people in Cumbria are safe.</p>",
+        "agent_statement": "<p>Prepared by Paul Trollope on behalf of Adrian Waite (Liberal Democrats) both at Acland House, Yard 2, Stricklandgate, Kendal, LA9 4ND</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4475,
+        "emblem_image_id": 4476,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        37
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5680
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5680"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5680/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5680"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5680"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5680"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

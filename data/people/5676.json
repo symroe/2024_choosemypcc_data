@@ -1,0 +1,130 @@
+{
+    "id": 5676,
+    "date": "2024-04-08T16:22:03",
+    "date_gmt": "2024-04-08T16:22:03",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//julian-david-geoffrey-dean-2/"
+    },
+    "modified": "2024-04-10T08:51:53",
+    "modified_gmt": "2024-04-10T08:51:53",
+    "slug": "julian-david-geoffrey-dean-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/west-mercia/julian-david-geoffrey-dean-2/",
+    "title": {
+        "rendered": "Julian David Geoffrey Dean"
+    },
+    "content": {
+        "rendered": "<p>My name is Julian Dean and I am your Green Party candidate to be the Police and Crime Commissioner for West Mercia. I was born in Shropshire and have been a Shropshire councillor since 2017.</p>\n<p>Our police service is under serious pressure. Cuts from central government have weakened their ability both to respond to crimes and to work with communities and businesses to reduce levels of crime. Police officers are left plugging the gaps left by inadequate mental health, care and youth services, and a court system struggling to cope.</p>\n<p>If elected I would resist further cuts to our critical police service in Shropshire, Herefordshire, Worcestershire and Telford &amp; Wrekin. This would send a message to the government that our communities need better support to feel safe and secure, and that officers need to feel supported, resourced and valued to do the best job they can.</p>\n<p>I would also seek to stand up for marginalised communities whether that is women suffering domestic violence or people of colour being targeted by stop and search. Last but not least, I would make environmental and wildlife crime a higher priority, seeking to protect the unique local environment that I know people are passionate about protecting here in West Mercia.</p>\n<p>A vote for me is a vote to tell central government that our communities need adequate funding and investment in policing and crime prevention to keep us all safe and secure.</p>\n<p>This statement has been Prepared and promoted by my election agent, Peggy Wiseman, c/o 10 Ellesmere Road, Shrewsbury, SY1 2PJ.</p>\n<p><strong>Contact Details</strong></p>\n<p>07939121607</p>\n<p>Juliandean251@gmail.com</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>My name is Julian Dean and I am your Green Party candidate to be the Police and Crime Commissioner for West Mercia. I was born in Shropshire and have been a Shropshire councillor since 2017. Our police service is under serious pressure. Cuts from central government have weakened their ability both to respond to crimes [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Julian David Geoffrey",
+        "surname": "Dean",
+        "phone": "07939121607",
+        "email": "Juliandean251@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Julian David Geoffrey",
+        "ballot_surname": "Dean",
+        "police_force": 69,
+        "party": "Green Party: world with petals and Green Party name in English (Emblem ID 1119)",
+        "user": 0,
+        "statement": "<p>My name is Julian Dean and I am your Green Party candidate to be the Police and Crime Commissioner for West Mercia. I was born in Shropshire and have been a Shropshire councillor since 2017.</p>\n<p>Our police service is under serious pressure. Cuts from central government have weakened their ability both to respond to crimes and to work with communities and businesses to reduce levels of crime. Police officers are left plugging the gaps left by inadequate mental health, care and youth services, and a court system struggling to cope.</p>\n<p>If elected I would resist further cuts to our critical police service in Shropshire, Herefordshire, Worcestershire and Telford &amp; Wrekin. This would send a message to the government that our communities need better support to feel safe and secure, and that officers need to feel supported, resourced and valued to do the best job they can.</p>\n<p>I would also seek to stand up for marginalised communities whether that is women suffering domestic violence or people of colour being targeted by stop and search. Last but not least, I would make environmental and wildlife crime a higher priority, seeking to protect the unique local environment that I know people are passionate about protecting here in West Mercia.</p>\n<p>A vote for me is a vote to tell central government that our communities need adequate funding and investment in policing and crime prevention to keep us all safe and secure.</p>",
+        "agent_statement": "<p>This statement has been Prepared and promoted by my election agent, Peggy Wiseman, c/o 10 Ellesmere Road, Shrewsbury, SY1 2PJ.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5143,
+        "emblem_image_id": 5144,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        69
+    ],
+    "political-party": [
+        385
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5676
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5676"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5676/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5879,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5676/revisions/5879"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5676"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5676"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5676"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

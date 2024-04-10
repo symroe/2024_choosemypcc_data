@@ -1,0 +1,124 @@
+{
+    "id": 5635,
+    "date": "2024-04-08T16:20:39",
+    "date_gmt": "2024-04-08T16:20:39",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//alec-sandiford-2/"
+    },
+    "modified": "2024-04-08T16:20:39",
+    "modified_gmt": "2024-04-08T16:20:39",
+    "slug": "alec-sandiford-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/staffordshire/alec-sandiford-2/",
+    "title": {
+        "rendered": "Alec  Sandiford"
+    },
+    "content": {
+        "rendered": "<p>As your Police, Fire and Crime Commissioner candidate, I want to bring a new vision for our community&#8217;s safety and security, with a plan rooted deeply in the principles of community policing.&nbsp;</p>\n<p>My commitment is to ensure that every resident, whether in bustling town centres or our most remote rural areas, feels seen, heard, and protected. Policing strategies in a large county like ours need to be tailored to the unique needs of all communities, fostering an environment where trust between the police and the people we serve is rebuilt and strengthened.</p>\n<p>I stand for increasing the number of frontline police officers, ensuring their presence is visible and impactful on the streets. This approach is not just about improving safety; it&#8217;s about building a rapport with the community, enhancing our officers&#8217; ability to serve effectively and empathetically.</p>\n<p>The question before us is clear: Why should we continue on the current path when Staffordshire Police faces the challenge of being under special measures? This situation calls for leadership that is not only prepared to address these issues head-on but is also committed to implementing long-term solutions that prevent future crises.&nbsp;</p>\n<p>Rewarding past failures with another Conservative term is a risk we cannot afford. It&#8217;s time for a change.</p>\n<p>My pledge to you is leadership that embodies integrity, innovation, and inclusivity. A vote for me is a vote for a proactive approach to community safety, enhanced support for rural policing, and a visible, accessible police force that serves all communities with respect and dedication. Together, we can chart a new course towards a safer, more united Staffordshire.</p>\n<p>Promoted by Alex Wagner on behalf of Aleczander John Sandiford at 11 St Julians Crescent, Shrewsbury, SY1 1UD.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.stonelibdems.org.uk/ </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As your Police, Fire and Crime Commissioner candidate, I want to bring a new vision for our community&#8217;s safety and security, with a plan rooted deeply in the principles of community policing.&nbsp; My commitment is to ensure that every resident, whether in bustling town centres or our most remote rural areas, feels seen, heard, and [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Alec ",
+        "surname": "Sandiford",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.stonelibdems.org.uk/",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Alec ",
+        "ballot_surname": "Sandiford",
+        "police_force": 63,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>As your Police, Fire and Crime Commissioner candidate, I want to bring a new vision for our community's safety and security, with a plan rooted deeply in the principles of community policing.&nbsp;</p>\n<p>My commitment is to ensure that every resident, whether in bustling town centres or our most remote rural areas, feels seen, heard, and protected. Policing strategies in a large county like ours need to be tailored to the unique needs of all communities, fostering an environment where trust between the police and the people we serve is rebuilt and strengthened.</p>\n<p>I stand for increasing the number of frontline police officers, ensuring their presence is visible and impactful on the streets. This approach is not just about improving safety; it's about building a rapport with the community, enhancing our officers' ability to serve effectively and empathetically.</p>\n<p>The question before us is clear: Why should we continue on the current path when Staffordshire Police faces the challenge of being under special measures? This situation calls for leadership that is not only prepared to address these issues head-on but is also committed to implementing long-term solutions that prevent future crises.&nbsp;</p>\n<p>Rewarding past failures with another Conservative term is a risk we cannot afford. It's time for a change.</p>\n<p>My pledge to you is leadership that embodies integrity, innovation, and inclusivity. A vote for me is a vote for a proactive approach to community safety, enhanced support for rural policing, and a visible, accessible police force that serves all communities with respect and dedication. Together, we can chart a new course towards a safer, more united Staffordshire.</p>",
+        "agent_statement": "<p>Promoted by Alex Wagner on behalf of Aleczander John Sandiford at 11 St Julians Crescent, Shrewsbury, SY1 1UD.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5178,
+        "emblem_image_id": 5132,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        63
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5635
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5635"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5635/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5635"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5635"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5635"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

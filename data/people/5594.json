@@ -1,0 +1,124 @@
+{
+    "id": 5594,
+    "date": "2024-04-08T16:19:17",
+    "date_gmt": "2024-04-08T16:19:17",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//adam-daniel-fox-2/"
+    },
+    "modified": "2024-04-08T16:19:17",
+    "modified_gmt": "2024-04-08T16:19:17",
+    "slug": "adam-daniel-fox-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/essex/adam-daniel-fox-2/",
+    "title": {
+        "rendered": "Adam Daniel Fox"
+    },
+    "content": {
+        "rendered": "<p>As Police, Fire and Crime Commissioner for Essex, I will listen to the residents of Essex and act as their local champion to ensure that Essex is the safe and welcoming place we all want it to be. Our county is in a worse place after 14 years of the Conservatives and it is time for change.</p>\n<p>My priorities for Essex are:</p>\n<ul>\n<li>Increased visible neighbourhood policing</li>\n<li>Tackling antisocial behaviour</li>\n<li>Making our town and city centres safe to visit</li>\n<li>Preventing rural crime</li>\n<li>Working with partners to stop male violence against women and girls</li>\n<li>A fire service that helps keep every home and workplace safe</li>\n</ul>\n<p>I have listened to Essex residents who tell me they want to see more visible neighbourhood policing to tackle crime and antisocial behaviour and reassure the public. It is my number one priority to see more police and community support officers in every neighbourhood.</p>\n<p>I have previously worked managing services that tackle drug and alcohol addiction and criminal activity, supporting young people and victims of crime. As a local councillor I worked with my local residents to tackle issues and make improvements to my local area and I&rsquo;m committed to doing that across Essex as the Commissioner.</p>\n<p>We must restore people&#8217;s faith in policing and develop a modern Police and Fire service that is both responsive and cost effective. I won&rsquo;t rest until we have achieved that.</p>\n<p>Promoted by Ian Gilbert on behalf of Adam Fox, both at 132 Central Avenue, Southend on Sea, Essex SS2 9DZ.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>facebook.com/Fox4Essex</p>\n<p>fox4essex@gmail.com</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As Police, Fire and Crime Commissioner for Essex, I will listen to the residents of Essex and act as their local champion to ensure that Essex is the safe and welcoming place we all want it to be. Our county is in a worse place after 14 years of the Conservatives and it is time [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Adam Daniel",
+        "surname": "Fox",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>facebook.com/Fox4Essex</p>\n<p>fox4essex@gmail.com</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Adam Daniel",
+        "ballot_surname": "Fox",
+        "police_force": 43,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>As Police, Fire and Crime Commissioner for Essex, I will listen to the residents of Essex and act as their local champion to ensure that Essex is the safe and welcoming place we all want it to be. Our county is in a worse place after 14 years of the Conservatives and it is time for change.</p>\n<p>My priorities for Essex are:</p>\n<ul>\n<li>Increased visible neighbourhood policing</li>\n<li>Tackling antisocial behaviour</li>\n<li>Making our town and city centres safe to visit</li>\n<li>Preventing rural crime</li>\n<li>Working with partners to stop male violence against women and girls</li>\n<li>A fire service that helps keep every home and workplace safe</li>\n</ul>\n<p>I have listened to Essex residents who tell me they want to see more visible neighbourhood policing to tackle crime and antisocial behaviour and reassure the public. It is my number one priority to see more police and community support officers in every neighbourhood.</p>\n<p>I have previously worked managing services that tackle drug and alcohol addiction and criminal activity, supporting young people and victims of crime. As a local councillor I worked with my local residents to tackle issues and make improvements to my local area and I&rsquo;m committed to doing that across Essex as the Commissioner.</p>\n<p>We must restore people's faith in policing and develop a modern Police and Fire service that is both responsive and cost effective. I won&rsquo;t rest until we have achieved that.</p>",
+        "agent_statement": "<p>Promoted by Ian Gilbert on behalf of Adam Fox, both at 132 Central Avenue, Southend on Sea, Essex SS2 9DZ.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5085,
+        "emblem_image_id": 5086,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        43
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5594
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5594"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5594/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5594"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5594"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5594"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

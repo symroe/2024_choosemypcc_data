@@ -1,0 +1,124 @@
+{
+    "id": 5651,
+    "date": "2024-04-08T16:21:11",
+    "date_gmt": "2024-04-08T16:21:11",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//philip-wilkinson-2/"
+    },
+    "modified": "2024-04-08T16:21:11",
+    "modified_gmt": "2024-04-08T16:21:11",
+    "slug": "philip-wilkinson-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/wiltshire/philip-wilkinson-2/",
+    "title": {
+        "rendered": "Philip Wilkinson"
+    },
+    "content": {
+        "rendered": "<p>At the time of my election, Wiltshire Police was graded the worst performing force in the country by HM Inspector of Policing. Something had to change, and I have driven that change and reform.</p>\n<p>I have worked hard to provide stronger oversight, to challenge Wiltshire Police leadership, and we are making significant progress.</p>\n<p>Wiltshire Police now has an outstanding Chief Constable and new senior leadership team in place, new management systems, policies and procedures, and a command structure that aligns authority, responsibility and accountability from the top of the Force to the front-line officers and staff who are now better led, supported and empowered to deliver the services that our residents want and need.</p>\n<p>We now have 214 additional officers, improved training facilities, much improved technical and welfare support for frontline officers and as a result, prosecutions and successful resolution rates have improved significantly across all priority areas set out in my Police and Crime Plan.</p>\n<p>A new community engagement strategy is in place, response times to 999 and 101 calls have halved, positive outcomes for rape, serious sexual offences and domestic abuse have trebled, and Wiltshire Police is now the top performing force per capita in the country for drug and country line disruptions.</p>\n<p>All burglaries are investigated with hugely improved results and a 95% victim satisfaction rate, speed enforcement sanctions have increased 8-fold and support for victims is greatly enhanced. These are the first steps on the road to winning the trust and confidence of our residents and becoming an outstanding police service. Wiltshire is a safer county as a result.</p>\n<p>But there is still more for me to do.</p>\n<p>Promoted by Nabil Najjar on behalf of Philip Wilkinson, both at Morrison Hall, 12 Brown Street, Salisbury, SP1 1HE.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  01722 333141 </p>\n<p> wilkinson4pcc@gmail.com  </p>\n<p>https://www.facebook.com/PhilipWilkinsonforPCC/</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>At the time of my election, Wiltshire Police was graded the worst performing force in the country by HM Inspector of Policing. Something had to change, and I have driven that change and reform. I have worked hard to provide stronger oversight, to challenge Wiltshire Police leadership, and we are making significant progress. Wiltshire Police [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Philip",
+        "surname": "Wilkinson",
+        "phone": "01722 333141",
+        "email": "wilkinson4pcc@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/PhilipWilkinsonforPCC/</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Philip",
+        "ballot_surname": "Wilkinson",
+        "police_force": 72,
+        "party": "Conservative and Unionist Party",
+        "user": 0,
+        "statement": "<p>At the time of my election, Wiltshire Police was graded the worst performing force in the country by HM Inspector of Policing. Something had to change, and I have driven that change and reform.</p>\n<p>I have worked hard to provide stronger oversight, to challenge Wiltshire Police leadership, and we are making significant progress.</p>\n<p>Wiltshire Police now has an outstanding Chief Constable and new senior leadership team in place, new management systems, policies and procedures, and a command structure that aligns authority, responsibility and accountability from the top of the Force to the front-line officers and staff who are now better led, supported and empowered to deliver the services that our residents want and need.</p>\n<p>We now have 214 additional officers, improved training facilities, much improved technical and welfare support for frontline officers and as a result, prosecutions and successful resolution rates have improved significantly across all priority areas set out in my Police and Crime Plan.</p>\n<p>A new community engagement strategy is in place, response times to 999 and 101 calls have halved, positive outcomes for rape, serious sexual offences and domestic abuse have trebled, and Wiltshire Police is now the top performing force per capita in the country for drug and country line disruptions.</p>\n<p>All burglaries are investigated with hugely improved results and a 95% victim satisfaction rate, speed enforcement sanctions have increased 8-fold and support for victims is greatly enhanced. These are the first steps on the road to winning the trust and confidence of our residents and becoming an outstanding police service. Wiltshire is a safer county as a result.</p>\n<p>But there is still more for me to do.</p>",
+        "agent_statement": "<p>Promoted by Nabil Najjar on behalf of Philip Wilkinson, both at Morrison Hall, 12 Brown Street, Salisbury, SP1 1HE.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4411,
+        "emblem_image_id": 4412,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        72
+    ],
+    "political-party": [
+        369
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5651
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5651"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5651/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5651"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5651"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5651"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

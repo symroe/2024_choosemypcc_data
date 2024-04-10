@@ -1,0 +1,124 @@
+{
+    "id": 5738,
+    "date": "2024-04-08T16:24:03",
+    "date_gmt": "2024-04-08T16:24:03",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//justin-griffiths-2/"
+    },
+    "modified": "2024-04-08T16:24:03",
+    "modified_gmt": "2024-04-08T16:24:03",
+    "slug": "justin-griffiths-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/dyfed-powys/justin-griffiths-2/",
+    "title": {
+        "rendered": "Justin Griffiths"
+    },
+    "content": {
+        "rendered": "<p>If elected I would seek to implement a more transparent, accountable and community-based policing service.&nbsp;</p>\n<p>I would seek to restore proper community policing ensuring officers are visible in our communities and not diverted to other areas, whilst tackling inequalities in criminal justice and seek to implement the recommendations of the Thomas Commission in devolving of powers to the relevant devolved administration.</p>\n<p>I would implement a fairer and more compassionate policing service e.g. the focus on drug offenders being put on rehabilitation programs, this is an example of our holistic approach to reducing repeat offending and a reduction in court backlogs and overpopulated prisons.</p>\n<p>&nbsp;</p>\n<p>Address prepared by Michael O&rsquo;Carroll (Agent), at 4 Watergate, Brecon, LD3 9AN.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.libdems.wales </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>If elected I would seek to implement a more transparent, accountable and community-based policing service.&nbsp; I would seek to restore proper community policing ensuring officers are visible in our communities and not diverted to other areas, whilst tackling inequalities in criminal justice and seek to implement the recommendations of the Thomas Commission in devolving of [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Justin",
+        "surname": "Griffiths",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.libdems.wales",
+        "website_welsh": "https://www.demrhydd.cymru",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Justin",
+        "ballot_surname": "Griffiths",
+        "police_force": 42,
+        "party": "Welsh Liberal Democrats / Democratiaid Rhyddfrydol Cymru",
+        "user": 0,
+        "statement": "<p>If elected I would seek to implement a more transparent, accountable and community-based policing service.&nbsp;</p>\n<p>I would seek to restore proper community policing ensuring officers are visible in our communities and not diverted to other areas, whilst tackling inequalities in criminal justice and seek to implement the recommendations of the Thomas Commission in devolving of powers to the relevant devolved administration.</p>\n<p>I would implement a fairer and more compassionate policing service e.g. the focus on drug offenders being put on rehabilitation programs, this is an example of our holistic approach to reducing repeat offending and a reduction in court backlogs and overpopulated prisons.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Address prepared by Michael O&rsquo;Carroll (Agent), at 4 Watergate, Brecon, LD3 9AN.</p>",
+        "statement_welsh": "<p>Os caf fy ethol, fy nod fydd rhoi gwasanaeth plismona mwy agored ac atebol ar waith yn y gymuned.&nbsp;</p>\n<p>Byddwn yn ceisio ailgyflwyno plismona cymunedol priodol gan wneud yn si\u0175r bod swyddogion i&rsquo;w gweld yn ein cymunedau ac nad ydynt yn cael eu dargyfeirio i feysydd eraill. Bydd mynd i'r afael ag anghydraddoldeb mewn cyfiawnder troseddol yn flaenoriaeth hefyd, yn ogystal &acirc; rhoi argymhellion Comisiwn Thomas ar waith o ran datganoli pwerau.</p>\n<p>Byddwn yn gweithredu gwasanaeth plismona tecach a mwy tosturiol e.e. pwyslais ar roi troseddwyr cyffuriau ar raglenni adsefydlu. Dyma enghraifft o sut rydym yn ystyried y cyd-destun cyfan wrth leihau aildroseddu a gostwng nifer yr achosion llys sy&rsquo;n cronni a nifer y bobl yn ein carchardai gorlawn.</p>\n<p>&nbsp;</p>",
+        "agent_statement_welsh": "<p>Paratowyd yr araith gan Michael O'Carroll (Asiant), yn 4 Watergate, Brecon, LD3 9AN.</p>",
+        "candidate_image_id": 4715,
+        "emblem_image_id": 4716,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        42
+    ],
+    "political-party": [
+        365
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5738
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5738"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5738/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5738"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5738"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5738"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

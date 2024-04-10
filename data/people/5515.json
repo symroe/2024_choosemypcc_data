@@ -1,0 +1,124 @@
+{
+    "id": 5515,
+    "date": "2024-04-08T16:16:45",
+    "date_gmt": "2024-04-08T16:16:45",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//neil-darby-2/"
+    },
+    "modified": "2024-04-08T16:16:45",
+    "modified_gmt": "2024-04-08T16:16:45",
+    "slug": "neil-darby-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/lancashire/neil-darby-2/",
+    "title": {
+        "rendered": "Neil Darby"
+    },
+    "content": {
+        "rendered": "<p>As a councillor in Preston, Neil is very familiar with the need for our local police to work well within our communities to protect our neighbourhoods. We need first and foremost to restore proper community policing, to have police officers visible, trusted, and approachable in our neighbourhoods. Meanwhile, we need the wider force to be focused on preventing and solving crimes.</p>\n<p>It is vital that we build a well-rounded approach for local policing to both care for victims and reduce repeat offences which currently takes up so much police time. By working with other local bodies such as social services, health workers and teachers, the police can work with the wider community to head off many crimes such as antisocial behaviour at the source. We can also reduce reoffending by working closely with the Prison Service to improve rehabilitation and strengthen supervision of offenders in the community. These approaches can prevent many issues from becoming greater problems over time.</p>\n<p>Neil will also press for Lancashire police to work closely with mental health services. If police are trained to spot incidents where someone is suffering a mental health crisis, they should have a target of one hour to handover to mental health services who are best placed to help. This would help save lives as well as police time.</p>\n<p>Finally, as the Police &amp; Crime Commissioner, Neil would push for this position to be scrapped altogether and allow existing elected representatives of our communities to provide a much greater and locally-based oversight of our police forces, freeing up the resources of funding the office of Police &amp; Crime Commissioner to be used to fund front-line policing instead.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Published and promoted by Claire Craven on behalf of Neil Darby, Liberal Democrats, all at Hillcrest, Fulwood Row, Preston, PR2 5RU.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07778976699 </p>\n<p> https://www.prestonlibdems.com </p>\n<p> neil_darby@live.co.uk  </p>\n<p>https://www.facebook.com/NeilDarbyLD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As a councillor in Preston, Neil is very familiar with the need for our local police to work well within our communities to protect our neighbourhoods. We need first and foremost to restore proper community policing, to have police officers visible, trusted, and approachable in our neighbourhoods. Meanwhile, we need the wider force to be [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Neil",
+        "surname": "Darby",
+        "phone": "07778976699",
+        "email": "neil_darby@live.co.uk",
+        "email_welsh": "",
+        "website": "https://www.prestonlibdems.com",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/NeilDarbyLD</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Neil",
+        "ballot_surname": "Darby",
+        "police_force": 51,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>As a councillor in Preston, Neil is very familiar with the need for our local police to work well within our communities to protect our neighbourhoods. We need first and foremost to restore proper community policing, to have police officers visible, trusted, and approachable in our neighbourhoods. Meanwhile, we need the wider force to be focused on preventing and solving crimes.</p>\n<p>It is vital that we build a well-rounded approach for local policing to both care for victims and reduce repeat offences which currently takes up so much police time. By working with other local bodies such as social services, health workers and teachers, the police can work with the wider community to head off many crimes such as antisocial behaviour at the source. We can also reduce reoffending by working closely with the Prison Service to improve rehabilitation and strengthen supervision of offenders in the community. These approaches can prevent many issues from becoming greater problems over time.</p>\n<p>Neil will also press for Lancashire police to work closely with mental health services. If police are trained to spot incidents where someone is suffering a mental health crisis, they should have a target of one hour to handover to mental health services who are best placed to help. This would help save lives as well as police time.</p>\n<p>Finally, as the Police &amp; Crime Commissioner, Neil would push for this position to be scrapped altogether and allow existing elected representatives of our communities to provide a much greater and locally-based oversight of our police forces, freeing up the resources of funding the office of Police &amp; Crime Commissioner to be used to fund front-line policing instead.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Published and promoted by Claire Craven on behalf of Neil Darby, Liberal Democrats, all at Hillcrest, Fulwood Row, Preston, PR2 5RU.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4650,
+        "emblem_image_id": 4651,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        51
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5515
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5515"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5515/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5515"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5515"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5515"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

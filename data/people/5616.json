@@ -1,0 +1,124 @@
+{
+    "id": 5616,
+    "date": "2024-04-08T16:20:01",
+    "date_gmt": "2024-04-08T16:20:01",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//john-peter-crofts-2/"
+    },
+    "modified": "2024-04-08T16:20:01",
+    "modified_gmt": "2024-04-08T16:20:01",
+    "slug": "john-peter-crofts-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/norfolk/john-peter-crofts-2/",
+    "title": {
+        "rendered": "John Peter Crofts"
+    },
+    "content": {
+        "rendered": "<p>As a retired Headteacher and now a school governor in Norfolk I understand the importance of the educational work undertaken by the police in working with young people. This not only combats crime directly but is crucial to boosting the confidence of the wider community.&nbsp;</p>\n<p>My priorities include:</p>\n<p><strong>Education&nbsp;</strong></p>\n<p>To be truly effective we must start with our children. Many schools have successful PHSE programmes, but few put enough emphasis on what constitutes crime, the impact it can have on both the individual and the community and most importantly how young people can avoid a life of crime. Everyone involved in the criminal justice system should go into schools and inform young people about a range of issues including: respect for women and minorities, theft, knife crime and county lines drugs gangs.</p>\n<p><strong>Community Policing</strong></p>\n<p>As a County Councillor I serve on the People &amp; Communities Select Committee. I am acutely aware of the need to work with all members of the community. Good mental health provision is essential in understanding both those who commit crime and those who suffer from it.&nbsp;</p>\n<p>We must address the many people in society who are victims of crime but feel ignored by the criminal justice system. This includes, amongst others, victims of domestic abuse and shop workers.&nbsp;</p>\n<p><strong>Rural Crime</strong></p>\n<p>Rural communities could be forgiven for feeling marginalised as well. The cost of rural crime in Norfolk surged by over 50% to &pound;1.5m in 2022, and yet Norfolk Constabulary has no specified rural crime team, unlike other similar forces. This is outrageous, and an omission I aim to address if you elect me as your Police and Crime Commissioner on 2nd May.&nbsp;</p>\n<p>Prepared by Trevor Wenman (Agent) on behalf of John Crofts (Liberal Democrats) both at 3 Tavern Lane, Diss, Norfolk IP22 4HT</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.southnorfolklibdems.org.uk/ </p>\n<p> johnpcrofts@gmail.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As a retired Headteacher and now a school governor in Norfolk I understand the importance of the educational work undertaken by the police in working with young people. This not only combats crime directly but is crucial to boosting the confidence of the wider community.&nbsp; My priorities include: Education&nbsp; To be truly effective we must [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "John Peter",
+        "surname": "Crofts",
+        "phone": "",
+        "email": "johnpcrofts@gmail.com",
+        "email_welsh": "",
+        "website": "https://www.southnorfolklibdems.org.uk/",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "John Peter",
+        "ballot_surname": "Crofts",
+        "police_force": 55,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p>As a retired Headteacher and now a school governor in Norfolk I understand the importance of the educational work undertaken by the police in working with young people. This not only combats crime directly but is crucial to boosting the confidence of the wider community.&nbsp;</p>\n<p>My priorities include:</p>\n<p><strong>Education&nbsp;</strong></p>\n<p>To be truly effective we must start with our children. Many schools have successful PHSE programmes, but few put enough emphasis on what constitutes crime, the impact it can have on both the individual and the community and most importantly how young people can avoid a life of crime. Everyone involved in the criminal justice system should go into schools and inform young people about a range of issues including: respect for women and minorities, theft, knife crime and county lines drugs gangs.</p>\n<p><strong>Community Policing</strong></p>\n<p>As a County Councillor I serve on the People &amp; Communities Select Committee. I am acutely aware of the need to work with all members of the community. Good mental health provision is essential in understanding both those who commit crime and those who suffer from it.&nbsp;</p>\n<p>We must address the many people in society who are victims of crime but feel ignored by the criminal justice system. This includes, amongst others, victims of domestic abuse and shop workers.&nbsp;</p>\n<p><strong>Rural Crime</strong></p>\n<p>Rural communities could be forgiven for feeling marginalised as well. The cost of rural crime in Norfolk surged by over 50% to &pound;1.5m in 2022, and yet Norfolk Constabulary has no specified rural crime team, unlike other similar forces. This is outrageous, and an omission I aim to address if you elect me as your Police and Crime Commissioner on 2nd May.&nbsp;</p>",
+        "agent_statement": "<p>Prepared by Trevor Wenman (Agent) on behalf of John Crofts (Liberal Democrats) both at 3 Tavern Lane, Diss, Norfolk IP22 4HT</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4949,
+        "emblem_image_id": 4875,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        55
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5616
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5616"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5616/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5616"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5616"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5616"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

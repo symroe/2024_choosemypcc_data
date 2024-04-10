@@ -1,0 +1,124 @@
+{
+    "id": 5629,
+    "date": "2024-04-08T16:20:27",
+    "date_gmt": "2024-04-08T16:20:27",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//mike-rees-2/"
+    },
+    "modified": "2024-04-08T16:20:27",
+    "modified_gmt": "2024-04-08T16:20:27",
+    "slug": "mike-rees-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/wiltshire/mike-rees-2/",
+    "title": {
+        "rendered": "Mike Rees"
+    },
+    "content": {
+        "rendered": "<p>I stand as an Independent Candidate with 30 years of policing experience and 10 years of business experience.</p>\n<p>I have no allegiance to any political party. My allegiance is to the community of Wiltshire.</p>\n<p>I will challenge your local police service and hold the Chief Constable to account.</p>\n<p>I will seek to help community support groups and improve community services.</p>\n<p>I will serve you with</p>\n<ul>\n<li>Honesty</li>\n<li>Integrity</li>\n<li>Transparency</li>\n</ul>\n<p>I will listen and be your voice in policing.</p>\n<p>I will work for you, the people of Wiltshire to do the right thing for you.&nbsp;</p>\n<p>Promoted by Mukesh Shah,&nbsp;15 Stanier Street, Swindon, Wiltshire SN1 5QU on behalf of Mike Rees.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> mr4pcc@gmail.com  </p>\n<p>www.facebook.com/MikeReesPCC&nbsp;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I stand as an Independent Candidate with 30 years of policing experience and 10 years of business experience. I have no allegiance to any political party. My allegiance is to the community of Wiltshire. I will challenge your local police service and hold the Chief Constable to account. I will seek to help community support [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Mike",
+        "surname": "Rees",
+        "phone": "",
+        "email": "mr4pcc@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>www.facebook.com/MikeReesPCC&nbsp;</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Mike",
+        "ballot_surname": "Rees",
+        "police_force": 72,
+        "party": "INDEPENDENT",
+        "user": 0,
+        "statement": "<p>I stand as an Independent Candidate with 30 years of policing experience and 10 years of business experience.</p>\n<p>I have no allegiance to any political party. My allegiance is to the community of Wiltshire.</p>\n<p>I will challenge your local police service and hold the Chief Constable to account.</p>\n<p>I will seek to help community support groups and improve community services.</p>\n<p>I will serve you with</p>\n<ul>\n<li>Honesty</li>\n<li>Integrity</li>\n<li>Transparency</li>\n</ul>\n<p>I will listen and be your voice in policing.</p>\n<p>I will work for you, the people of Wiltshire to do the right thing for you.&nbsp;</p>",
+        "agent_statement": "<p>Promoted by Mukesh Shah,&nbsp;15 Stanier Street, Swindon, Wiltshire SN1 5QU on behalf of Mike Rees.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4557,
+        "emblem_image_id": 0,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        72
+    ],
+    "political-party": [
+        8
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5629
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5629"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5629/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5629"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5629"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5629"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

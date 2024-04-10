@@ -1,0 +1,124 @@
+{
+    "id": 5696,
+    "date": "2024-04-08T16:22:44",
+    "date_gmt": "2024-04-08T16:22:44",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//sean-prendergast/"
+    },
+    "modified": "2024-04-08T16:22:44",
+    "modified_gmt": "2024-04-08T16:22:44",
+    "slug": "sean-prendergast",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/hertfordshire/sean-prendergast/",
+    "title": {
+        "rendered": "Sean Prendergast"
+    },
+    "content": {
+        "rendered": "<p>I am an experienced investigator for the Housing Ombudsman Service and also a District Councillor in North Herts District Council where I am the portfolio holder for Housing and Environmental Health.</p>\n<p>Early in my career I worked as a Police Community Support Officer where I gained a strong grounding in operational policing. I now serve as a local charity trustee for survivors against domestic abuse where I take a leading role in developing ideas and strategies to support vulnerable victims. Through my appointments in housing, I have developed extensive experience working with local partners to ensure that policing priorities are met.&nbsp;</p>\n<p>As Hertfordshire&rsquo;s Police and Crime Commissioner, I will work to strengthen community cohesion by supporting active police engagement in hard-to-reach areas. I will develop and grow neighbourhood policing with an emphasis on finding long-term solutions to ongoing crime and anti-social behaviour and will foster strong multi-agency partnerships to develop a coordinated approach to protect victims and prevent crime.</p>\n<p>My key priorities are to:&nbsp;</p>\n<p>Increase visible community and neighbourhood policing</p>\n<p>Stop violence against women and girls</p>\n<p>Solve burglary and vehicle crime</p>\n<p>Tackle and prevent antisocial behaviour</p>\n<p>If elected I will be a visible and available Police Commissioner, who will hold local community forums, listen to your concerns AND take action. I understand that every crime matters and that a fresh approach to policing is needed in Hertfordshire.</p>\n<p>Prepared by Freya Waterhouse, 23 Raynham Street, Hertford, Hertfordshire, SG13 7DE</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.hertslibdems.org.uk </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I am an experienced investigator for the Housing Ombudsman Service and also a District Councillor in North Herts District Council where I am the portfolio holder for Housing and Environmental Health. Early in my career I worked as a Police Community Support Officer where I gained a strong grounding in operational policing. I now serve [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Sean",
+        "surname": "Prendergast",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.hertslibdems.org.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Sean",
+        "ballot_surname": "Prendergast",
+        "police_force": 48,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>I am an experienced investigator for the Housing Ombudsman Service and also a District Councillor in North Herts District Council where I am the portfolio holder for Housing and Environmental Health.</p>\n<p>Early in my career I worked as a Police Community Support Officer where I gained a strong grounding in operational policing. I now serve as a local charity trustee for survivors against domestic abuse where I take a leading role in developing ideas and strategies to support vulnerable victims. Through my appointments in housing, I have developed extensive experience working with local partners to ensure that policing priorities are met.&nbsp;</p>\n<p>As Hertfordshire&rsquo;s Police and Crime Commissioner, I will work to strengthen community cohesion by supporting active police engagement in hard-to-reach areas. I will develop and grow neighbourhood policing with an emphasis on finding long-term solutions to ongoing crime and anti-social behaviour and will foster strong multi-agency partnerships to develop a coordinated approach to protect victims and prevent crime.</p>\n<p>My key priorities are to:&nbsp;</p>\n<p>Increase visible community and neighbourhood policing</p>\n<p>Stop violence against women and girls</p>\n<p>Solve burglary and vehicle crime</p>\n<p>Tackle and prevent antisocial behaviour</p>\n<p>If elected I will be a visible and available Police Commissioner, who will hold local community forums, listen to your concerns AND take action. I understand that every crime matters and that a fresh approach to policing is needed in Hertfordshire.</p>",
+        "agent_statement": "<p>Prepared by Freya Waterhouse, 23 Raynham Street, Hertford, Hertfordshire, SG13 7DE</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5294,
+        "emblem_image_id": 5295,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        48
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5696
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5696"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5696/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5696"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5696"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5696"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 5732,
+    "date": "2024-04-08T16:23:52",
+    "date_gmt": "2024-04-08T16:23:52",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//joy-allen-2/"
+    },
+    "modified": "2024-04-08T16:23:52",
+    "modified_gmt": "2024-04-08T16:23:52",
+    "slug": "joy-allen-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/durham/joy-allen-2/",
+    "title": {
+        "rendered": "Joy Allen"
+    },
+    "content": {
+        "rendered": "<p>I was born and raised in County Durham and it&rsquo;s been the honour of my life to serve as your Police and Crime Commissioner (PCC) for the last three years. My priority during that time has been standing up for our communities, putting police back on the street and tackling the issues that matter most to you.&nbsp;</p>\n<p>I am standing for re-election on a record of delivery. Over the last three years, I have increased police numbers on our streets, decreased anti-social behaviour by 26% and invested in call-handling.&nbsp;</p>\n<p>If re-elected, I will:&nbsp;</p>\n<p><strong>Put more Police on the street</strong><br />Under my leadership as PCC, Durham Constabulary now has the highest number of officers since the Tory austerity cuts resulted in police numbers being cut by 27% (408) officers. I will continue to push for more officers so I can return numbers to 2010 levels.</p>\n<p><strong>Prevent Crime</strong><br />I want to do all I can to prevent crime occurring in the first place. I will invest in neighbourhood policing that is visible and accessible and embed a prevention-first culture both in my office and the force.&nbsp;</p>\n<p><strong>Protect Communities and Victims</strong><br />I will put the needs of victims of crime and anti-social behaviour at the centre of everything I do, improving how the force protects the public and supports vulnerable victims and witnesses.</p>\n<p><strong>Relentlessly Pursue Criminals&nbsp;</strong><br />I&rsquo;ll make sure our officers have the resources they need to detect crime, identify and target offenders and bring them to justice.&nbsp;</p>\n<p><strong>Put your Priorities First</strong><br />I&rsquo;ll continue to tackle your priorities; anti-social behaviour, drug use and drug dealing, road safety, call handling and off road bikes.</p>\n<p>Prepared by Audrey Laing of 100 Hatfield Place, Peterlee, SR8 5TD.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://joy4durhampcc.com </p>\n<p> joy4durhampcc@outlook.com  </p>\n<p>Facebook.com/joy4durhampcc</p>\n<p>twitter.com/pccjoyallen</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I was born and raised in County Durham and it&rsquo;s been the honour of my life to serve as your Police and Crime Commissioner (PCC) for the last three years. My priority during that time has been standing up for our communities, putting police back on the street and tackling the issues that matter most [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Joy",
+        "surname": "Allen",
+        "phone": "",
+        "email": "joy4durhampcc@outlook.com",
+        "email_welsh": "",
+        "website": "https://joy4durhampcc.com",
+        "website_welsh": "",
+        "social_media": "<p>Facebook.com/joy4durhampcc</p>\n<p>twitter.com/pccjoyallen</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Joy",
+        "ballot_surname": "Allen",
+        "police_force": 41,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>I was born and raised in County Durham and it&rsquo;s been the honour of my life to serve as your Police and Crime Commissioner (PCC) for the last three years. My priority during that time has been standing up for our communities, putting police back on the street and tackling the issues that matter most to you.&nbsp;</p>\n<p>I am standing for re-election on a record of delivery. Over the last three years, I have increased police numbers on our streets, decreased anti-social behaviour by 26% and invested in call-handling.&nbsp;</p>\n<p>If re-elected, I will:&nbsp;</p>\n<p><strong>Put more Police on the street</strong><br>Under my leadership as PCC, Durham Constabulary now has the highest number of officers since the Tory austerity cuts resulted in police numbers being cut by 27% (408) officers. I will continue to push for more officers so I can return numbers to 2010 levels.</p>\n<p><strong>Prevent Crime</strong><br>I want to do all I can to prevent crime occurring in the first place. I will invest in neighbourhood policing that is visible and accessible and embed a prevention-first culture both in my office and the force.&nbsp;</p>\n<p><strong>Protect Communities and Victims</strong><br>I will put the needs of victims of crime and anti-social behaviour at the centre of everything I do, improving how the force protects the public and supports vulnerable victims and witnesses.</p>\n<p><strong>Relentlessly Pursue Criminals&nbsp;</strong><br>I&rsquo;ll make sure our officers have the resources they need to detect crime, identify and target offenders and bring them to justice.&nbsp;</p>\n<p><strong>Put your Priorities First</strong><br>I&rsquo;ll continue to tackle your priorities; anti-social behaviour, drug use and drug dealing, road safety, call handling and off road bikes.</p>",
+        "agent_statement": "<p>Prepared by Audrey Laing of 100 Hatfield Place, Peterlee, SR8 5TD.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4526,
+        "emblem_image_id": 4525,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        41
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5732
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5732"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5732/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5732"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5732"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5732"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

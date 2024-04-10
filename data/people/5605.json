@@ -1,0 +1,124 @@
+{
+    "id": 5605,
+    "date": "2024-04-08T16:19:39",
+    "date_gmt": "2024-04-08T16:19:39",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//ian-robert-sharpe-2/"
+    },
+    "modified": "2024-04-08T16:19:39",
+    "modified_gmt": "2024-04-08T16:19:39",
+    "slug": "ian-robert-sharpe-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/leicestershire/ian-robert-sharpe-2/",
+    "title": {
+        "rendered": "Ian Robert Sharpe"
+    },
+    "content": {
+        "rendered": "<p>Liberal Democrats across Leicester, Leicestershire and Rutland are delighted that Ian Sharpe has agreed to stand in the Police and Crime Commissioner elections.</p>\n<p>Ian has lived in Leicestershire for 28 years. He is a retired Accountant. He was the Managing Director of an aerospace business and led an international renewable energy business. He was lead member for finance for Charnwood Borough Council. Since retiring he has undertaken voluntary work in vocational education.</p>\n<p><strong>Lib Dems would re-direct resources from the police and crime commissioners office and communications budgets into front-line policing, victim support and crime prevention measures instead.&nbsp;</strong></p>\n<p>Ian Sharpe&#8217;s top priorities will include tackling:</p>\n<ul>\n<li>rural crime</li>\n<li>anti-social behaviour including &#8216;boy-racers&#8217;</li>\n<li>shoplifting which is impacting our struggling high streets</li>\n<li>online fraud and scams</li>\n<li>making our streets safer&nbsp;</li>\n</ul>\n<p>Leicestershire comes at the bottom of the pile for funding for our police and councils. <strong>Ian Sharpe will be a strong voice standing up to whatever Government comes next to argue for our fair share of funding for our essential services.&nbsp;</strong></p>\n<p>Polling Stations are open 7am &#8211; 10pm on Thursday 2nd May. You will need photo ID to vote. <strong>Make sure your vote counts.</strong></p>\n<p>Published by Cllr Stuart Bray on behalf of Ian Sharpe (Lib Dem) all at 26 Netherley Court, Hinckley, Leicestershire. LE10 0RN</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> Ian4LLR@icloud.com  </p>\n<p>https://www.facebook.com/LeicsLibDems</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Liberal Democrats across Leicester, Leicestershire and Rutland are delighted that Ian Sharpe has agreed to stand in the Police and Crime Commissioner elections. Ian has lived in Leicestershire for 28 years. He is a retired Accountant. He was the Managing Director of an aerospace business and led an international renewable energy business. He was lead [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Ian Robert",
+        "surname": "Sharpe",
+        "phone": "",
+        "email": "Ian4LLR@icloud.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/LeicsLibDems</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Ian Robert",
+        "ballot_surname": "Sharpe",
+        "police_force": 52,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>Liberal Democrats across Leicester, Leicestershire and Rutland are delighted that Ian Sharpe has agreed to stand in the Police and Crime Commissioner elections.</p>\n<p>Ian has lived in Leicestershire for 28 years. He is a retired Accountant. He was the Managing Director of an aerospace business and led an international renewable energy business. He was lead member for finance for Charnwood Borough Council. Since retiring he has undertaken voluntary work in vocational education.</p>\n<p><strong>Lib Dems would re-direct resources from the police and crime commissioners office and communications budgets into front-line policing, victim support and crime prevention measures instead.&nbsp;</strong></p>\n<p>Ian Sharpe's top priorities will include tackling:</p>\n<ul>\n<li>rural crime</li>\n<li>anti-social behaviour including 'boy-racers'</li>\n<li>shoplifting which is impacting our struggling high streets</li>\n<li>online fraud and scams</li>\n<li>making our streets safer&nbsp;</li>\n</ul>\n<p>Leicestershire comes at the bottom of the pile for funding for our police and councils. <strong>Ian Sharpe will be a strong voice standing up to whatever Government comes next to argue for our fair share of funding for our essential services.&nbsp;</strong></p>\n<p>Polling Stations are open 7am - 10pm on Thursday 2nd May. You will need photo ID to vote. <strong>Make sure your vote counts.</strong></p>",
+        "agent_statement": "<p>Published by Cllr Stuart Bray on behalf of Ian Sharpe (Lib Dem) all at 26 Netherley Court, Hinckley, Leicestershire. LE10 0RN</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5005,
+        "emblem_image_id": 5006,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        52
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5605
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5605"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5605/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5605"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5605"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5605"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

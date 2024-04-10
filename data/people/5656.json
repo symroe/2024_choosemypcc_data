@@ -1,0 +1,124 @@
+{
+    "id": 5656,
+    "date": "2024-04-08T16:21:22",
+    "date_gmt": "2024-04-08T16:21:22",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//tim-starkey-2/"
+    },
+    "modified": "2024-04-08T16:21:22",
+    "modified_gmt": "2024-04-08T16:21:22",
+    "slug": "tim-starkey-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/thames-valley/tim-starkey-2/",
+    "title": {
+        "rendered": "Tim Starkey"
+    },
+    "content": {
+        "rendered": "<p>For 22 years Tim has worked with police as a prosecution barrister in cases ranging from child sex abuse to drug dealing. He has seen first hand how the system fails people, and what needs to change. Tim says: &ldquo;Despite the dedication of its hard working officers, TVP is under performing. Recently inspected, it ranked &ldquo;inadequate&rdquo; for protecting vulnerable people and &ldquo;requiring improvement&rdquo; for investigating crime, responding to the public, managing offenders and leadership.</p>\n<p>My priorities:</p>\n<p><strong>Rebuilding trust in police</strong> by a) strengthening neighbourhood policing, restoring the link between police and the communities they serve, b) overhauling vetting and misconduct procedures.</p>\n<p><strong>Cutting knife crime &ndash; not youth services</strong>. Working with schools and targeted interventions, including 1:1 mentoring to divert young people away from gangs and county lines, and provide positive role models.</p>\n<p><strong>Stopping the surge in shoplifting</strong>, working with local businesses to identify repeat offenders and ban them from crime hotspots.</p>\n<p><strong>Protecting women and girls from violence</strong>. Rape cases often take 5 years from being reported to coming to trial, causing many victims to drop out. Fast track sexual and domestic abuse cases, improve the sharing of information with women at risk from a violent partner (highlighted in the recent inspection) and work to change the behaviour of perpetrators.</p>\n<p><strong>Keeping us safe online</strong>. Online grooming has quadrupled since 2016, whilst AI drives ever more sophisticated scams. Use innovative ways of working with our thriving local tech industry to prevent fraud and keep kids safe.</p>\n<p><strong>Keeping all road users safe</strong>. TVP was one of only two forces to see a rise in road traffic incidents last year. Through better enforcement and use of third party reporting, TVP can play its part in ending deaths and serious injuries on our roads.</p>\n<p>Prepared by Brian Gammage, 1 Parliament Close, Prestwood, Bucks HP16 9DT</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://timstarkeylabour.wordpress.com </p>\n<p> TimStarkeyLabour@gmail.com  </p>\n<p>https://X.com/TimLabour</p>\n<p>https://www.facebook.com/TimStarkeyforThamesValleyPCC</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>For 22 years Tim has worked with police as a prosecution barrister in cases ranging from child sex abuse to drug dealing. He has seen first hand how the system fails people, and what needs to change. Tim says: &ldquo;Despite the dedication of its hard working officers, TVP is under performing. Recently inspected, it ranked [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Tim",
+        "surname": "Starkey",
+        "phone": "",
+        "email": "TimStarkeyLabour@gmail.com",
+        "email_welsh": "",
+        "website": "https://timstarkeylabour.wordpress.com",
+        "website_welsh": "",
+        "social_media": "<p>https://X.com/TimLabour</p>\n<p>https://www.facebook.com/TimStarkeyforThamesValleyPCC</p>\n<p>&nbsp;</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Tim",
+        "ballot_surname": "Starkey",
+        "police_force": 67,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>For 22 years Tim has worked with police as a prosecution barrister in cases ranging from child sex abuse to drug dealing. He has seen first hand how the system fails people, and what needs to change. Tim says: &ldquo;Despite the dedication of its hard working officers, TVP is under performing. Recently inspected, it ranked &ldquo;inadequate&rdquo; for protecting vulnerable people and &ldquo;requiring improvement&rdquo; for investigating crime, responding to the public, managing offenders and leadership.</p>\n<p>My priorities:</p>\n<p><strong>Rebuilding trust in police</strong> by a) strengthening neighbourhood policing, restoring the link between police and the communities they serve, b) overhauling vetting and misconduct procedures.</p>\n<p><strong>Cutting knife crime &ndash; not youth services</strong>. Working with schools and targeted interventions, including 1:1 mentoring to divert young people away from gangs and county lines, and provide positive role models.</p>\n<p><strong>Stopping the surge in shoplifting</strong>, working with local businesses to identify repeat offenders and ban them from crime hotspots.</p>\n<p><strong>Protecting women and girls from violence</strong>. Rape cases often take 5 years from being reported to coming to trial, causing many victims to drop out. Fast track sexual and domestic abuse cases, improve the sharing of information with women at risk from a violent partner (highlighted in the recent inspection) and work to change the behaviour of perpetrators.</p>\n<p><strong>Keeping us safe online</strong>. Online grooming has quadrupled since 2016, whilst AI drives ever more sophisticated scams. Use innovative ways of working with our thriving local tech industry to prevent fraud and keep kids safe.</p>\n<p><strong>Keeping all road users safe</strong>. TVP was one of only two forces to see a rise in road traffic incidents last year. Through better enforcement and use of third party reporting, TVP can play its part in ending deaths and serious injuries on our roads.</p>",
+        "agent_statement": "<p>Prepared by Brian Gammage, 1 Parliament Close, Prestwood, Bucks HP16 9DT</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4585,
+        "emblem_image_id": 4586,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        67
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5656
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5656"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5656/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5656"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5656"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5656"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

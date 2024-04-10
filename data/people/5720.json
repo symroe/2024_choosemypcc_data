@@ -1,0 +1,124 @@
+{
+    "id": 5720,
+    "date": "2024-04-08T16:23:29",
+    "date_gmt": "2024-04-08T16:23:29",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//jonathan-christopher-kent-2/"
+    },
+    "modified": "2024-04-08T16:23:29",
+    "modified_gmt": "2024-04-08T16:23:29",
+    "slug": "jonathan-christopher-kent-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/sussex/jonathan-christopher-kent-2/",
+    "title": {
+        "rendered": "Jonathan Christopher Kent"
+    },
+    "content": {
+        "rendered": "<p>&nbsp;</p>\n<p>I&rsquo;m standing to be Sussex&rsquo;s police and crime commissioner because I want to see the county I love get the policing it deserves. We know what that looks like because so many officers deliver outstanding policing day-in day-out. I want everyone who lives in Sussex to be able to expect that level of professionalism regardless of the colour of their skin, background, gender or orientation.&nbsp;</p>\n<p>&nbsp;</p>\n<p>I&rsquo;ll focus on preventing crime and violence, women&rsquo;s and girls&rsquo; safety and I&rsquo;ll support better funding for youth services while working to ensure we have excellent officers who are welcomed to the heart of every community and every home.</p>\n<p>&nbsp;</p>\n<p>When officers are closely connected to the communities they serve we get a healthier policing culture, but when they&rsquo;re cut off, as appears to have happened with elements of the Met in London, the opposite happens. We need to break down barriers and replace any sense of &lsquo;them and us&rsquo; with a bigger us that brings police and residents together.</p>\n<p>&nbsp;</p>\n<p>I grew up and live in Ticehurst. I went to local state schools and read philosophy and theology at Oxford. As a journalist and former foreign correspondent I campaigned on issues including human rights, miscarriages of justice, the treatment of migrant workers and sex trafficking.</p>\n<p>&nbsp;</p>\n<p>This statement has been prepared by Jonathan&rsquo;s election agent; Keith Obbard, of The Green Party Office, 39-41 Surrey Street, Brighton, Sussex, BN1 3PB</p>\n<p>&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> Jonathan.Kent@Rother.Greenparty.org.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&nbsp; I&rsquo;m standing to be Sussex&rsquo;s police and crime commissioner because I want to see the county I love get the policing it deserves. We know what that looks like because so many officers deliver outstanding policing day-in day-out. I want everyone who lives in Sussex to be able to expect that level of professionalism [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Jonathan Christopher",
+        "surname": "Kent",
+        "phone": "",
+        "email": "Jonathan.Kent@Rother.Greenparty.org.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Jonathan Christopher",
+        "ballot_surname": "Kent",
+        "police_force": 66,
+        "party": "Green Party",
+        "user": 249,
+        "statement": "<p>&nbsp;</p>\n<p>I&rsquo;m standing to be Sussex&rsquo;s police and crime commissioner because I want to see the county I love get the policing it deserves. We know what that looks like because so many officers deliver outstanding policing day-in day-out. I want everyone who lives in Sussex to be able to expect that level of professionalism regardless of the colour of their skin, background, gender or orientation.&nbsp;</p>\n<p>&nbsp;</p>\n<p>I&rsquo;ll focus on preventing crime and violence, women&rsquo;s and girls&rsquo; safety and I&rsquo;ll support better funding for youth services while working to ensure we have excellent officers who are welcomed to the heart of every community and every home.</p>\n<p>&nbsp;</p>\n<p>When officers are closely connected to the communities they serve we get a healthier policing culture, but when they&rsquo;re cut off, as appears to have happened with elements of the Met in London, the opposite happens. We need to break down barriers and replace any sense of &lsquo;them and us&rsquo; with a bigger us that brings police and residents together.</p>\n<p>&nbsp;</p>\n<p>I grew up and live in Ticehurst. I went to local state schools and read philosophy and theology at Oxford. As a journalist and former foreign correspondent I campaigned on issues including human rights, miscarriages of justice, the treatment of migrant workers and sex trafficking.</p>",
+        "agent_statement": "<p>&nbsp;</p>\n<p>This statement has been prepared by Jonathan&rsquo;s election agent; Keith Obbard, of The Green Party Office, 39-41 Surrey Street, Brighton, Sussex, BN1 3PB</p>\n<p>&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4857,
+        "emblem_image_id": 4858,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        66
+    ],
+    "political-party": [
+        361
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5720
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5720"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5720/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5720"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5720"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5720"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

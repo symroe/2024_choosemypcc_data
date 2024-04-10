@@ -1,0 +1,124 @@
+{
+    "id": 5682,
+    "date": "2024-04-08T16:22:14",
+    "date_gmt": "2024-04-08T16:22:14",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//clare-moody-2/"
+    },
+    "modified": "2024-04-08T16:22:14",
+    "modified_gmt": "2024-04-08T16:22:14",
+    "slug": "clare-moody-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/avon-and-somerset/clare-moody-2/",
+    "title": {
+        "rendered": "Clare Moody"
+    },
+    "content": {
+        "rendered": "<p>Labour will restore community policing after 14 years of Tory neglect. We will increase the number of neighbourhood police and PCSOs by 13,000 nationally, with guaranteed police patrols in town centres and every community in our area having a named officer they can get in touch with.</p>\n<p>Many of our streets feel less safe than ever, and over 14 years under this Government the police have grown more distant from the people they serve. The Tories are putting up your council tax again, while cutting PCSO numbers by 80 and police staff by around 200 in Avon &amp; Somerset. They are letting people down across our region in the middle of a cost of living crisis.</p>\n<p>My priorities, if elected with your support on 2 May, are:</p>\n<p><strong>Investing in neighbourhood policing</strong></p>\n<p>Building safer communities and helping to prevent and solve crime.</p>\n<p><strong>Supporting victims of crime</strong></p>\n<p>Making sure victims are properly listened to, and get the help they need when they need it.</p>\n<p><strong>Prioritising reducing violent crime</strong></p>\n<p>The scale of violent crime, including knife crime and violence against women and girls, isn&#8217;t inevitable but it needs focus and commitment to fix it.</p>\n<p><strong>Preventing crime</strong></p>\n<p>Working with agencies across the public sector and civil society to prevent crime and build safer communities.</p>\n<p><strong>Restoring trust and confidence in the police</strong></p>\n<p>Enabling the police to take pride in high standards.</p>\n<p>At the last election Labour were just 5% behind the Tories. A vote for anyone else just lets the Conservatives back in.</p>\n<p>My experience means I am best placed to restore the public&#8217;s trust in the police and be the voice of our local communities in policing &ndash; I will be visible and accountable to you.</p>\n<p>Prepared by Brenda Massey, election agent, at Unit B, Bradley Pavillions, Pear Tree Road, Bristol, BS32 0BQ.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.claremoody.com </p>\n<p> clare@claremoody.com  </p>\n<p>www.x.com/claremoody4pcc</p>\n<p>https://facebook.com/claremoodylabour</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Labour will restore community policing after 14 years of Tory neglect. We will increase the number of neighbourhood police and PCSOs by 13,000 nationally, with guaranteed police patrols in town centres and every community in our area having a named officer they can get in touch with. Many of our streets feel less safe than [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Clare",
+        "surname": "Moody",
+        "phone": "",
+        "email": "clare@claremoody.com",
+        "email_welsh": "",
+        "website": "https://www.claremoody.com",
+        "website_welsh": "",
+        "social_media": "<p>www.x.com/claremoody4pcc</p>\n<p>https://facebook.com/claremoodylabour</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Clare",
+        "ballot_surname": "Moody",
+        "police_force": 32,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>Labour will restore community policing after 14 years of Tory neglect. We will increase the number of neighbourhood police and PCSOs by 13,000 nationally, with guaranteed police patrols in town centres and every community in our area having a named officer they can get in touch with.</p>\n<p>Many of our streets feel less safe than ever, and over 14 years under this Government the police have grown more distant from the people they serve. The Tories are putting up your council tax again, while cutting PCSO numbers by 80 and police staff by around 200 in Avon &amp; Somerset. They are letting people down across our region in the middle of a cost of living crisis.</p>\n<p>My priorities, if elected with your support on 2 May, are:</p>\n<p><strong>Investing in neighbourhood policing</strong></p>\n<p>Building safer communities and helping to prevent and solve crime.</p>\n<p><strong>Supporting victims of crime</strong></p>\n<p>Making sure victims are properly listened to, and get the help they need when they need it.</p>\n<p><strong>Prioritising reducing violent crime</strong></p>\n<p>The scale of violent crime, including knife crime and violence against women and girls, isn't inevitable but it needs focus and commitment to fix it.</p>\n<p><strong>Preventing crime</strong></p>\n<p>Working with agencies across the public sector and civil society to prevent crime and build safer communities.</p>\n<p><strong>Restoring trust and confidence in the police</strong></p>\n<p>Enabling the police to take pride in high standards.</p>\n<p>At the last election Labour were just 5% behind the Tories. A vote for anyone else just lets the Conservatives back in.</p>\n<p>My experience means I am best placed to restore the public's trust in the police and be the voice of our local communities in policing &ndash; I will be visible and accountable to you.</p>",
+        "agent_statement": "<p>Prepared by Brenda Massey, election agent, at Unit B, Bradley Pavillions, Pear Tree Road, Bristol, BS32 0BQ.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5248,
+        "emblem_image_id": 5250,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        32
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5682
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5682"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5682/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5682"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5682"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5682"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

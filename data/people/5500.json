@@ -1,0 +1,124 @@
+{
+    "id": 5500,
+    "date": "2024-04-08T16:16:16",
+    "date_gmt": "2024-04-08T16:16:16",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//ben-adams-2/"
+    },
+    "modified": "2024-04-08T16:16:16",
+    "modified_gmt": "2024-04-08T16:16:16",
+    "slug": "ben-adams-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/staffordshire/ben-adams-2/",
+    "title": {
+        "rendered": "Ben Adams"
+    },
+    "content": {
+        "rendered": "<p>Since 2021 I have worked hard as your Police, Fire &amp; Crime Commissioner and kept my promises.&nbsp;</p>\n<p><strong>Staffordshire Police are more local, visible and responsive</strong>. Boosted by more than the 250 extra officers I promised, we now have over 2000 officers patrolling public spaces, protecting the vulnerable and tackling violence and abuse.&nbsp;</p>\n<p>Staffordshire is a safe place. ASB is 47% lower than before the pandemic. 999 calls are 29% up, but with response teams back in every local policing area, average emergency response is under 15 minutes.</p>\n<p>Arrests are up 16%, stop &amp; search 22% and vehicle searches 20% on 2022. This pro-active policing is key to tackling organised criminals, often from outside Staffordshire, dealing drugs and targeting our houses, farms, businesses, and vehicles.</p>\n<p><strong>Staffordshire Fire &amp; Rescue are fit for the future</strong>. Responding to 8200 incidents, making 13,000 &lsquo;safe and well&rsquo; visits and supporting the NHS by rescuing over 1000 people who fell at home.&nbsp;</p>\n<p>My team secured over &pound;4m for Safer Streets, Safer Women at Night and ASB hot-spot patrols. We commissioned <strong>support for thousands of victims of crime, ASB and domestic</strong> <strong>abuse</strong> and programmes to reduce re-offending, treat addiction and protect children.</p>\n<p>I set sound &pound;310m budgets &#8211; <strong>keeping council tax low</strong> &#8211; appointed your Chief Constable and Chief Fire Officer and my Local Plans reflect your priorities. This job requires experience &#8211; experience that I have after 40 years in business and 20 years representing people across Staffordshire and Stoke-on-Trent.&nbsp;</p>\n<p>THIS IS NOT A NATIONAL ELECTION it is your opportunity to choose who can best support your local Police and Fire &amp; Rescue services. Good progress has been made but there is more to do. <strong>Back Ben to keep Staffordshire safe</strong>. Thank you.</p>\n<p>Prepared by Dave Evans of Staffordshire Conservatives, Castle Street, Stafford ST16 2ED.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.benadams.org/ </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Since 2021 I have worked hard as your Police, Fire &amp; Crime Commissioner and kept my promises.&nbsp; Staffordshire Police are more local, visible and responsive. Boosted by more than the 250 extra officers I promised, we now have over 2000 officers patrolling public spaces, protecting the vulnerable and tackling violence and abuse.&nbsp; Staffordshire is a [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Ben",
+        "surname": "Adams",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.benadams.org/",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Ben",
+        "ballot_surname": "Adams",
+        "police_force": 63,
+        "party": "Conservative Party \u2013 More Police, Safer Streets",
+        "user": 0,
+        "statement": "<p>Since 2021 I have worked hard as your Police, Fire &amp; Crime Commissioner and kept my promises.&nbsp;</p>\n<p><strong>Staffordshire Police are more local, visible and responsive</strong>. Boosted by more than the 250 extra officers I promised, we now have over 2000 officers patrolling public spaces, protecting the vulnerable and tackling violence and abuse.&nbsp;</p>\n<p>Staffordshire is a safe place. ASB is 47% lower than before the pandemic. 999 calls are 29% up, but with response teams back in every local policing area, average emergency response is under 15 minutes.</p>\n<p>Arrests are up 16%, stop &amp; search 22% and vehicle searches 20% on 2022. This pro-active policing is key to tackling organised criminals, often from outside Staffordshire, dealing drugs and targeting our houses, farms, businesses, and vehicles.</p>\n<p><strong>Staffordshire Fire &amp; Rescue are fit for the future</strong>. Responding to 8200 incidents, making 13,000 &lsquo;safe and well&rsquo; visits and supporting the NHS by rescuing over 1000 people who fell at home.&nbsp;</p>\n<p>My team secured over &pound;4m for Safer Streets, Safer Women at Night and ASB hot-spot patrols. We commissioned <strong>support for thousands of victims of crime, ASB and domestic</strong> <strong>abuse</strong> and programmes to reduce re-offending, treat addiction and protect children.</p>\n<p>I set sound &pound;310m budgets - <strong>keeping council tax low</strong> - appointed your Chief Constable and Chief Fire Officer and my Local Plans reflect your priorities. This job requires experience - experience that I have after 40 years in business and 20 years representing people across Staffordshire and Stoke-on-Trent.&nbsp;</p>\n<p>THIS IS NOT A NATIONAL ELECTION it is your opportunity to choose who can best support your local Police and Fire &amp; Rescue services. Good progress has been made but there is more to do. <strong>Back Ben to keep Staffordshire safe</strong>. Thank you.</p>",
+        "agent_statement": "<p>Prepared by Dave Evans of Staffordshire Conservatives, Castle Street, Stafford ST16 2ED.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4470,
+        "emblem_image_id": 4471,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        63
+    ],
+    "political-party": [
+        358
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5500
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5500"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5500/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5500"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5500"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5500"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

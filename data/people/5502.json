@@ -1,0 +1,124 @@
+{
+    "id": 5502,
+    "date": "2024-04-08T16:16:20",
+    "date_gmt": "2024-04-08T16:16:20",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//philip-stanley-seccombe-2/"
+    },
+    "modified": "2024-04-08T16:16:20",
+    "modified_gmt": "2024-04-08T16:16:20",
+    "slug": "philip-stanley-seccombe-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/warwickshire/philip-stanley-seccombe-2/",
+    "title": {
+        "rendered": "Philip Stanley Seccombe"
+    },
+    "content": {
+        "rendered": "<p>VOTE FOR PHILIP SECCOMBE.</p>\n<p>Elected as Police and Crime Commissioner in 2016, I have fulfilled my promises to the electorate over 8 years. I promised to increase Police Officer numbers, which have risen from a low of 800 to 1120 today. Many crime prevention projects have been started, and I have funded organisations such as Neighbourhood Watch and Speed Watch schemes across the County. Being a victim of crime is often traumatic, and I have spent time and effort building vital partnerships with Victim Support, Refuge, Barnados, Safeline, and many more who support those in need or who are concerned about crime.</p>\n<p>Visibility of the Police is of great importance to us all, and this has grown with more officers out on the ground and a much improved 999 and 101 service. Also, the 4 main Police Stations are now open 7 days a week, enabling face-to-face meetings with Officers and Staff.</p>\n<p>Looking forward to the next 4 years, I intend to reduce crime, Anti-Social behaviour, and re-offending across Warwickshire, with more officers, working with our criminal justice partners, and listening and responding to our residents. I promise to keep working to make the County one of the safest areas to live, work, and visit, and to keep Warwickshire as an independent Force.</p>\n<p>I have lived in Warwickshire all my life and was educated in Rugby, and The Royal Agricultural College at Cirencester. I have served as a District Councillor for 15 years, founded and run my own business for 28 years, and commanded my Army Reserve Regiment. I am currently Chairman of the Warwickshire Army Benevolent Fund, Warwickshire Local Criminal Justice Board and Warwickshire Blue Light Collaboration Board.</p>\n<p>This address has been prepared by Jill Simpson-Vince, election agent for Philip Seccombe, both of 3 Trinity Street, Statford-upon-Avon CV37 6BL</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  01789 292723 </p>\n<p> https://www.philipseccombe.co.uk </p>\n<p> philipseccombe0@gmail.com  </p>\n<p>facebook.com/Philip4PCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>VOTE FOR PHILIP SECCOMBE. Elected as Police and Crime Commissioner in 2016, I have fulfilled my promises to the electorate over 8 years. I promised to increase Police Officer numbers, which have risen from a low of 800 to 1120 today. Many crime prevention projects have been started, and I have funded organisations such as [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Philip Stanley",
+        "surname": "Seccombe",
+        "phone": "01789 292723",
+        "email": "philipseccombe0@gmail.com",
+        "email_welsh": "",
+        "website": "https://www.philipseccombe.co.uk",
+        "website_welsh": "",
+        "social_media": "<p>facebook.com/Philip4PCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Philip Stanley",
+        "ballot_surname": "Seccombe",
+        "police_force": 68,
+        "party": "Conservative Party Candidate",
+        "user": 0,
+        "statement": "<p>VOTE FOR PHILIP SECCOMBE.</p>\n<p>Elected as Police and Crime Commissioner in 2016, I have fulfilled my promises to the electorate over 8 years. I promised to increase Police Officer numbers, which have risen from a low of 800 to 1120 today. Many crime prevention projects have been started, and I have funded organisations such as Neighbourhood Watch and Speed Watch schemes across the County. Being a victim of crime is often traumatic, and I have spent time and effort building vital partnerships with Victim Support, Refuge, Barnados, Safeline, and many more who support those in need or who are concerned about crime.</p>\n<p>Visibility of the Police is of great importance to us all, and this has grown with more officers out on the ground and a much improved 999 and 101 service. Also, the 4 main Police Stations are now open 7 days a week, enabling face-to-face meetings with Officers and Staff.</p>\n<p>Looking forward to the next 4 years, I intend to reduce crime, Anti-Social behaviour, and re-offending across Warwickshire, with more officers, working with our criminal justice partners, and listening and responding to our residents. I promise to keep working to make the County one of the safest areas to live, work, and visit, and to keep Warwickshire as an independent Force.</p>\n<p>I have lived in Warwickshire all my life and was educated in Rugby, and The Royal Agricultural College at Cirencester. I have served as a District Councillor for 15 years, founded and run my own business for 28 years, and commanded my Army Reserve Regiment. I am currently Chairman of the Warwickshire Army Benevolent Fund, Warwickshire Local Criminal Justice Board and Warwickshire Blue Light Collaboration Board.</p>",
+        "agent_statement": "<p>This address has been prepared by Jill Simpson-Vince, election agent for Philip Seccombe, both of 3 Trinity Street, Statford-upon-Avon CV37 6BL</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4336,
+        "emblem_image_id": 4337,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        68
+    ],
+    "political-party": [
+        359
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5502
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5502"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5502/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5502"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5502"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5502"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

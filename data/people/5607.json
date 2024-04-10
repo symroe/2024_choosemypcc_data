@@ -1,0 +1,124 @@
+{
+    "id": 5607,
+    "date": "2024-04-08T16:19:43",
+    "date_gmt": "2024-04-08T16:19:43",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//howard-richard-legg-2/"
+    },
+    "modified": "2024-04-08T16:19:43",
+    "modified_gmt": "2024-04-08T16:19:43",
+    "slug": "howard-richard-legg-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/dorset/howard-richard-legg-2/",
+    "title": {
+        "rendered": "Howard Richard Legg"
+    },
+    "content": {
+        "rendered": "<p>Howard Legg: A Clear Choice for Dorset&#8217;s Police and Crime Commissioner</p>\n<p>I have the breadth and depth of experience to be Dorset&rsquo;s next Police and Crime Commissioner. With a background spanning engineering, finance, education, and public service, I will bring my experience to Dorset Police.</p>\n<p>Every crime matters &#8211; every victim matters. Dorset police are stretched too thin. It is time for our police to demonstrate to you that every crime matters. I will fight to ensure every Police Officer and PCSO will be trained to a good standard in investigation, so that every reported crime is taken seriously.</p>\n<p>Prevention is better than crime. Our police record crimes that have been reported or detected, but not those that are prevented. As your Police and Crime commissioner I will prioritise crime prevention in Dorset by ensuring every Police Officer and PCSO is trained to a good standard of crime prevention.&nbsp;</p>\n<p>Stronger community policing. Liberal Democrats believe that community is at the heart of everything we do. As your Police and Crime Commissioner, I will ensure every Police Officer and PCSO is trained to a good standard in public contact.</p>\n<p>As Dorset faces critical decisions in law enforcement and community well-being, I am the clear choice for Police and Crime Commissioner on Thursday 2nd May.&nbsp;</p>\n<p>Published and promoted by G. Pardy on behalf of H. Legg (Liberal Democrats), all at 70 Doveshill Park, 18 Barnes Road, Bournemouth, BH10 5AJ.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> howardlegg94@hotmail.co.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Howard Legg: A Clear Choice for Dorset&#8217;s Police and Crime Commissioner I have the breadth and depth of experience to be Dorset&rsquo;s next Police and Crime Commissioner. With a background spanning engineering, finance, education, and public service, I will bring my experience to Dorset Police. Every crime matters &#8211; every victim matters. Dorset police are [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Howard Richard",
+        "surname": "Legg",
+        "phone": "",
+        "email": "howardlegg94@hotmail.co.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Howard Richard",
+        "ballot_surname": "Legg",
+        "police_force": 40,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>Howard Legg: A Clear Choice for Dorset's Police and Crime Commissioner</p>\n<p>I have the breadth and depth of experience to be Dorset&rsquo;s next Police and Crime Commissioner. With a background spanning engineering, finance, education, and public service, I will bring my experience to Dorset Police.</p>\n<p>Every crime matters - every victim matters. Dorset police are stretched too thin. It is time for our police to demonstrate to you that every crime matters. I will fight to ensure every Police Officer and PCSO will be trained to a good standard in investigation, so that every reported crime is taken seriously.</p>\n<p>Prevention is better than crime. Our police record crimes that have been reported or detected, but not those that are prevented. As your Police and Crime commissioner I will prioritise crime prevention in Dorset by ensuring every Police Officer and PCSO is trained to a good standard of crime prevention.&nbsp;</p>\n<p>Stronger community policing. Liberal Democrats believe that community is at the heart of everything we do. As your Police and Crime Commissioner, I will ensure every Police Officer and PCSO is trained to a good standard in public contact.</p>\n<p>As Dorset faces critical decisions in law enforcement and community well-being, I am the clear choice for Police and Crime Commissioner on Thursday 2nd May.&nbsp;</p>",
+        "agent_statement": "<p>Published and promoted by G. Pardy on behalf of H. Legg (Liberal Democrats), all at 70 Doveshill Park, 18 Barnes Road, Bournemouth, BH10 5AJ.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5018,
+        "emblem_image_id": 5019,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        40
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5607
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5607"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5607/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5607"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5607"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5607"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

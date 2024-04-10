@@ -1,0 +1,124 @@
+{
+    "id": 5728,
+    "date": "2024-04-08T16:23:44",
+    "date_gmt": "2024-04-08T16:23:44",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//lenny-rolles-2/"
+    },
+    "modified": "2024-04-08T16:23:44",
+    "modified_gmt": "2024-04-08T16:23:44",
+    "slug": "lenny-rolles-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/kent/lenny-rolles-2/",
+    "title": {
+        "rendered": "Lenny Rolles"
+    },
+    "content": {
+        "rendered": "<p>I am standing as the Labour and Co-operative candidate for Police and Crime Commissioner to bring safer streets to Kent and Medway.</p>\n<p>We need a change from 8 years and over &pound;90m of cuts imposed on Kent Police by the Conservatives. Talking to residents around Kent and Medway, they feel crime is ignored, not investigated, not prevented, response is slow and justice for victims even slower. I hear their frustration, we need a change to keep our communities safe.</p>\n<p>As your PCC I will:</p>\n<ul>\n<li>Fight for vital funding to tackle crime and invest in policing.</li>\n<li>Develop a police plan in partnership with residents that delivers on your priorities.</li>\n<li>Prevent and reduce crime and anti-social behaviour.</li>\n<li>Tackle Domestic Abuse and Violence against Women and Girls.</li>\n<li>Tackle retail crime.</li>\n<li>Improve road policing.</li>\n<li>Tackle rural &amp; coastal crime.</li>\n<li>Deliver new initiatives to prevent serious organised and knife crime.</li>\n<li>Focus on getting drugs off our streets.</li>\n</ul>\n<p>I am a local resident living in Kent with my wife and daughter, I want to make our communities safer for my family, and yours.</p>\n<p>I have the experience and passion to deliver on my pledges and will work with you to make our streets safer. I am an experienced campaigner, I brought enforcement agencies together to fight and reduce organised crime. I am a councillor in Kent, representing residents for over 10 years, have chaired companies delivering social change and have served as a trustee for charities.</p>\n<p>Please vote for me on 2nd May, a vote for me as the Labour and Co-operative candidate is the only way to deliver positive change in this election.</p>\n<p>Prepared by Shane Mochrie-Cox (Agent) c/o SE Labour, Unit 6, Gamma House, Laser Quay, Rochester, ME2 4HU.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  01474 534395 </p>\n<p> https://www.LennyRolles.org.uk </p>\n<p>Twitter / X @LennyRolles<br />Facebook: @Lenny4KentPCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I am standing as the Labour and Co-operative candidate for Police and Crime Commissioner to bring safer streets to Kent and Medway. We need a change from 8 years and over &pound;90m of cuts imposed on Kent Police by the Conservatives. Talking to residents around Kent and Medway, they feel crime is ignored, not investigated, [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Lenny",
+        "surname": "Rolles",
+        "phone": "01474 534395",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.LennyRolles.org.uk",
+        "website_welsh": "",
+        "social_media": "<p>Twitter / X @LennyRolles<br>Facebook: @Lenny4KentPCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Lenny",
+        "ballot_surname": "Rolles",
+        "police_force": 50,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>I am standing as the Labour and Co-operative candidate for Police and Crime Commissioner to bring safer streets to Kent and Medway.</p>\n<p>We need a change from 8 years and over &pound;90m of cuts imposed on Kent Police by the Conservatives. Talking to residents around Kent and Medway, they feel crime is ignored, not investigated, not prevented, response is slow and justice for victims even slower. I hear their frustration, we need a change to keep our communities safe.</p>\n<p>As your PCC I will:</p>\n<ul>\n<li>Fight for vital funding to tackle crime and invest in policing.</li>\n<li>Develop a police plan in partnership with residents that delivers on your priorities.</li>\n<li>Prevent and reduce crime and anti-social behaviour.</li>\n<li>Tackle Domestic Abuse and Violence against Women and Girls.</li>\n<li>Tackle retail crime.</li>\n<li>Improve road policing.</li>\n<li>Tackle rural &amp; coastal crime.</li>\n<li>Deliver new initiatives to prevent serious organised and knife crime.</li>\n<li>Focus on getting drugs off our streets.</li>\n</ul>\n<p>I am a local resident living in Kent with my wife and daughter, I want to make our communities safer for my family, and yours.</p>\n<p>I have the experience and passion to deliver on my pledges and will work with you to make our streets safer. I am an experienced campaigner, I brought enforcement agencies together to fight and reduce organised crime. I am a councillor in Kent, representing residents for over 10 years, have chaired companies delivering social change and have served as a trustee for charities.</p>\n<p>Please vote for me on 2nd May, a vote for me as the Labour and Co-operative candidate is the only way to deliver positive change in this election.</p>",
+        "agent_statement": "<p>Prepared by Shane Mochrie-Cox (Agent) c/o SE Labour, Unit 6, Gamma House, Laser Quay, Rochester, ME2 4HU.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5181,
+        "emblem_image_id": 5182,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        50
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5728
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5728"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5728/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5728"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5728"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5728"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

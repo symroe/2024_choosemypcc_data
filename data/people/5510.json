@@ -1,0 +1,124 @@
+{
+    "id": 5510,
+    "date": "2024-04-08T16:16:34",
+    "date_gmt": "2024-04-08T16:16:34",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//alex-foy-coley-2/"
+    },
+    "modified": "2024-04-08T16:16:34",
+    "modified_gmt": "2024-04-08T16:16:34",
+    "slug": "alex-foy-coley-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/surrey/alex-foy-coley-2/",
+    "title": {
+        "rendered": "Alex Foy Coley"
+    },
+    "content": {
+        "rendered": "<p>You will soon be asked to elect a Police &amp; Crime Commissioner.&nbsp;</p>\n<p>I was born and raised in Surrey and live with my wife and two daughters in Epsom &amp; Ewell. We don&rsquo;t believe that 75% of women and girls feel safe after dark, like the Office of the Police &amp; Crime Commissioner says.&nbsp;</p>\n<p>Since 2018 I&#8217;ve been a borough councillor. I&#8217;m also a member of the Surrey Police &amp; Crime Panel and my local Community Safety Partnership. I&#8217;ve been a senior police manager and I&#8217;m currently an independent adviser on policing. I also founded a local charity to help people living in deprivation in our borough. We focus on helping vulnerable children.</p>\n<p>Residents tell me they want &#8216;bobbies on the beat&#8217; and a better response when they need help. They are fed up with the police share of council tax going up again, but not seeing police officers or PCSOs on the street. Surrey is the only police area in the country where local taxpayers contribute more to policing than the government. I&#8217;m petitioning Parliament to change this.&nbsp;</p>\n<p>Surrey Police underspent by &pound;8.7m last year and it&#8217;s happening again this year. In December, an inspection of Surrey Police gave a rating of &#8216;Inadequate&#8217; at responding to the public. I will use the &pound;43m in the Police &amp; Crime Commissioner&rsquo;s savings account to deliver a better service. I will put the pride and professionalism back into Surrey Police, so you can have confidence in your police force.&nbsp;</p>\n<p>Let&#8217;s take party politics out of policing. I will be an Independent PCC, fighting crime with <strong>more police</strong>, <strong>keeping you safe</strong>, <strong>where you live</strong>.</p>\n<p>&nbsp;</p>\n<p>Prepared by Steven McCormick on behalf of Alex Coley,&nbsp;</p>\n<p>both of 4A Woodcote Hall, Woodcote Road, Epsom, KT18 7QQ.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://alexcoley.uk/ </p>\n<p>https://www.facebook.com/AlexColeyPCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>You will soon be asked to elect a Police &amp; Crime Commissioner.&nbsp; I was born and raised in Surrey and live with my wife and two daughters in Epsom &amp; Ewell. We don&rsquo;t believe that 75% of women and girls feel safe after dark, like the Office of the Police &amp; Crime Commissioner says.&nbsp; Since [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Alex Foy",
+        "surname": "Coley",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://alexcoley.uk/",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/AlexColeyPCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Alex Foy",
+        "ballot_surname": "Coley",
+        "police_force": 65,
+        "party": "Independent",
+        "user": 220,
+        "statement": "<p>You will soon be asked to elect a Police &amp; Crime Commissioner.&nbsp;</p>\n<p><br>I was born and raised in Surrey and live with my wife and two daughters in Epsom &amp; Ewell. We don&rsquo;t believe that 75% of women and girls feel safe after dark, like the Office of the Police &amp; Crime Commissioner says.&nbsp;</p>\n<p><br>Since 2018 I've been a borough councillor. I'm also a member of the Surrey Police &amp; Crime Panel and my local Community Safety Partnership. I've been a senior police manager and I'm currently an independent adviser on policing. I also founded a local charity to help people living in deprivation in our borough. We focus on helping vulnerable children.</p>\n<p><br>Residents tell me they want 'bobbies on the beat' and a better response when they need help. They are fed up with the police share of council tax going up again, but not seeing police officers or PCSOs on the street. Surrey is the only police area in the country where local taxpayers contribute more to policing than the government. I'm petitioning Parliament to change this.&nbsp;</p>\n<p>Surrey Police underspent by &pound;8.7m last year and it's happening again this year. In December, an inspection of Surrey Police gave a rating of 'Inadequate' at responding to the public. I will use the &pound;43m in the Police &amp; Crime Commissioner&rsquo;s savings account to deliver a better service. I will put the pride and professionalism back into Surrey Police, so you can have confidence in your police force.&nbsp;</p>\n<p><br>Let's take party politics out of policing. I will be an Independent PCC, fighting crime with <strong>more police</strong>, <strong>keeping you safe</strong>, <strong>where you live</strong>.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Prepared by Steven McCormick on behalf of Alex Coley,&nbsp;</p>\n<p>both of 4A Woodcote Hall, Woodcote Road, Epsom, KT18 7QQ.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4486,
+        "emblem_image_id": 0,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        65
+    ],
+    "political-party": [
+        8
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5510
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5510"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5510/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5510"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5510"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5510"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

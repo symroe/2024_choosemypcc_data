@@ -1,0 +1,124 @@
+{
+    "id": 5625,
+    "date": "2024-04-08T16:20:19",
+    "date_gmt": "2024-04-08T16:20:19",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//martin-kenneth-albert-schmierer-2/"
+    },
+    "modified": "2024-04-08T16:20:19",
+    "modified_gmt": "2024-04-08T16:20:19",
+    "slug": "martin-kenneth-albert-schmierer-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/norfolk/martin-kenneth-albert-schmierer-2/",
+    "title": {
+        "rendered": "Martin Kenneth Albert Schmierer"
+    },
+    "content": {
+        "rendered": "<p>I have grown up in Norfolk since I was a child. I love this county, its countryside, its people. Sadly, Norfolk is not immune to national problems associated with county lines drug dealing, while rural and community policing seems to be an afterthought for those in power. That&#8217;s why I am standing to become Norfolk&#8217;s Police and Crime Commissioner (PCC).</p>\n<p>As someone who was Lord Mayor of Norwich and who has been a councillor for nine years, representing the area of Norfolk with the highest rates of crime in the county, I sadly see firsthand how crime and anti-social behaviour (everything from graffiti and fly-tipping to drug dealing) blights people&#8217;s lives. Building on my experiences bringing the community and constabulary closer together in Norwich, I would do so elsewhere in Norfolk, so that people like you get to know their local police officers.</p>\n<p>Over a decade of cuts to services have meant that people across Norfolk feel less safe than ever before. But the police cannot simply arrest their way out of the problems. We need a fundamental change in approach from national government to deal with the underlying causes of crime. There is clear evidence to show that rates of violence are higher in more unequal societies, and we simply must have a frank debate about drug reform. I will do exactly that, and I will be a powerful voice calling for a new approach to crime prevention.</p>\n<p>Finally, I must say that the positions of PCC should never have been created. Policing should not be politicised. Therefore, if elected I will remain as independent-minded as possible and will never shirk from focusing on the issues that residents report to me.</p>\n<p>Address prepared for Martin Schmierer by Jan Davis, Election Agent, 21 Church Rd., Cantley, Norwich, Norfolk NR13 3SN</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> http://martinschmierer.co.uk/ </p>\n<p>https://norwich.greenparty.org.uk/2023/06/07/2708/&nbsp;</p>\n<p>https://twitter.com/martinschmierer?lang=en</p>\n<p>http://facebook.com/martinschmierer1</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I have grown up in Norfolk since I was a child. I love this county, its countryside, its people. Sadly, Norfolk is not immune to national problems associated with county lines drug dealing, while rural and community policing seems to be an afterthought for those in power. That&#8217;s why I am standing to become Norfolk&#8217;s [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Martin Kenneth Albert",
+        "surname": "Schmierer",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "http://martinschmierer.co.uk/",
+        "website_welsh": "",
+        "social_media": "<p>https://norwich.greenparty.org.uk/2023/06/07/2708/&nbsp;</p>\n<p>https://twitter.com/martinschmierer?lang=en</p>\n<p>http://facebook.com/martinschmierer1</p>\n<p>&nbsp;</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Martin Kenneth Albert",
+        "ballot_surname": "Schmierer",
+        "police_force": 55,
+        "party": "The Green Party",
+        "user": 0,
+        "statement": "<p>I have grown up in Norfolk since I was a child. I love this county, its countryside, its people. Sadly, Norfolk is not immune to national problems associated with county lines drug dealing, while rural and community policing seems to be an afterthought for those in power. That's why I am standing to become Norfolk's Police and Crime Commissioner (PCC).</p>\n<p>As someone who was Lord Mayor of Norwich and who has been a councillor for nine years, representing the area of Norfolk with the highest rates of crime in the county, I sadly see firsthand how crime and anti-social behaviour (everything from graffiti and fly-tipping to drug dealing) blights people's lives. Building on my experiences bringing the community and constabulary closer together in Norwich, I would do so elsewhere in Norfolk, so that people like you get to know their local police officers.</p>\n<p>Over a decade of cuts to services have meant that people across Norfolk feel less safe than ever before. But the police cannot simply arrest their way out of the problems. We need a fundamental change in approach from national government to deal with the underlying causes of crime. There is clear evidence to show that rates of violence are higher in more unequal societies, and we simply must have a frank debate about drug reform. I will do exactly that, and I will be a powerful voice calling for a new approach to crime prevention.</p>\n<p>Finally, I must say that the positions of PCC should never have been created. Policing should not be politicised. Therefore, if elected I will remain as independent-minded as possible and will never shirk from focusing on the issues that residents report to me.</p>",
+        "agent_statement": "<p>Address prepared for Martin Schmierer by Jan Davis, Election Agent, 21 Church Rd., Cantley, Norwich, Norfolk NR13 3SN</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4793,
+        "emblem_image_id": 4794,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        55
+    ],
+    "political-party": [
+        17
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5625
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5625"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5625/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5625"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5625"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5625"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

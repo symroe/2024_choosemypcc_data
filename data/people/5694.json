@@ -1,0 +1,124 @@
+{
+    "id": 5694,
+    "date": "2024-04-08T16:22:40",
+    "date_gmt": "2024-04-08T16:22:40",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//david-martin-hancock-2/"
+    },
+    "modified": "2024-04-08T16:22:40",
+    "modified_gmt": "2024-04-08T16:22:40",
+    "slug": "david-martin-hancock-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/derbyshire/david-martin-hancock-2/",
+    "title": {
+        "rendered": "David Martin Hancock"
+    },
+    "content": {
+        "rendered": "<p>The role of the Police and Crime Commissioners is to be the public&#8217;s voice in holding our police service to account. I have a wealth of experience in representing my local community. I&rsquo;m currently in my third time as a District Councillor at North East Derbyshire District Council and, on an even more local level, in my second term as a Parish Councillor for Wingerworth and my fourth as a Parish Councillor for Tupton; so I&#8217;m used to working with our police at a real grassroots level.</p>\n<p>My home is the semi-rural village of Tupton, between Clay Cross and Chesterfield; and, over the years I have worked in Chesterfield, Clay Cross and Derby City; so have first-hand experience of the very different issues that affect people and communities across the very different areas around Derbyshire.</p>\n<p>I&rsquo;m Derbyshire born and bred. I grew up in a council house to working class parents. My late father was a bricklayer and mum a cleaner. I left school straight after my O-levels and I&rsquo;ve worked ever since. It&rsquo;s an upbringing I&rsquo;m proud of. I grew up in a community that shaped me into the person I am &ndash; to respect everyone, no matter what their background, financial status or education.</p>\n<p>Our communities are built on diversity, and that diversity is their strength. As Liberal Democrats we respect everyone; and it is our responsibility to stand up for all of you. A healthy society is built on justice for everyone, and I commit to ensuring that we have that in Derbyshire.&nbsp;</p>\n<p>Prepared by Stuart Bray, on behalf of David Hancock (Liberal Democrats), all at 172 Queen Victoria Road, New Tupton, Chesterfield, Derbyshire, S42 6DU.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07703437180 </p>\n<p> david.hancock@nedbd-libdems.com  </p>\n<p>https://www.facebook.com/people/David-Hancock-for-Derbyshire-Police-Crime-Commissioner/61557233365330/</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The role of the Police and Crime Commissioners is to be the public&#8217;s voice in holding our police service to account. I have a wealth of experience in representing my local community. I&rsquo;m currently in my third time as a District Councillor at North East Derbyshire District Council and, on an even more local level, [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "David Martin",
+        "surname": "Hancock",
+        "phone": "07703437180",
+        "email": "david.hancock@nedbd-libdems.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/people/David-Hancock-for-Derbyshire-Police-Crime-Commissioner/61557233365330/</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "David Martin",
+        "ballot_surname": "Hancock",
+        "police_force": 38,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>The role of the Police and Crime Commissioners is to be the public's voice in holding our police service to account. I have a wealth of experience in representing my local community. I&rsquo;m currently in my third time as a District Councillor at North East Derbyshire District Council and, on an even more local level, in my second term as a Parish Councillor for Wingerworth and my fourth as a Parish Councillor for Tupton; so I'm used to working with our police at a real grassroots level.<br><br>My home is the semi-rural village of Tupton, between Clay Cross and Chesterfield; and, over the years I have worked in Chesterfield, Clay Cross and Derby City; so have first-hand experience of the very different issues that affect people and communities across the very different areas around Derbyshire.<br><br>I&rsquo;m Derbyshire born and bred. I grew up in a council house to working class parents. My late father was a bricklayer and mum a cleaner. I left school straight after my O-levels and I&rsquo;ve worked ever since. It&rsquo;s an upbringing I&rsquo;m proud of. I grew up in a community that shaped me into the person I am &ndash; to respect everyone, no matter what their background, financial status or education.<br><br>Our communities are built on diversity, and that diversity is their strength. As Liberal Democrats we respect everyone; and it is our responsibility to stand up for all of you. A healthy society is built on justice for everyone, and I commit to ensuring that we have that in Derbyshire.&nbsp;</p>",
+        "agent_statement": "<p>Prepared by Stuart Bray, on behalf of David Hancock (Liberal Democrats), all at 172 Queen Victoria Road, New Tupton, Chesterfield, Derbyshire, S42 6DU.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4938,
+        "emblem_image_id": 5149,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        38
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5694
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5694"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5694/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5694"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5694"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5694"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

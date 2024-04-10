@@ -1,0 +1,124 @@
+{
+    "id": 5611,
+    "date": "2024-04-08T16:19:50",
+    "date_gmt": "2024-04-08T16:19:50",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//don-jerrard-2/"
+    },
+    "modified": "2024-04-08T16:19:50",
+    "modified_gmt": "2024-04-08T16:19:50",
+    "slug": "don-jerrard-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/hampshire/don-jerrard-2/",
+    "title": {
+        "rendered": "Don Jerrard"
+    },
+    "content": {
+        "rendered": "<p>I was born and lived for most of my life in Hampshire. I was a partner in a major international law firm where I founded its IP/IT law department and have been a local councillor in Liss and Liphook since 2003. &nbsp;</p>\n<p>In 2010 I co-founded the Justice &amp; Anti-Corruption Party an independent party dedicated to obtaining justice for victims of abuse of power and exposing and combatting political and other corruption.&nbsp;</p>\n<p>I stood in the 2012 and 2016 PCC elections because of my concern about the continued collapse of our criminal justice system. I campaigned against the closing of our courts, police stations and post offices. &nbsp;We need these vital local services paid for through our taxes.</p>\n<p>It is fundamental to the criminal justice system that the judiciary and the police must be entirely independent of parliament and local councils who pass the laws and make up the rules.</p>\n<p>I believe it was totally wrong that the PCCs could effectively be chosen by a political party. That was a route to providing unnecessary well paid jobs to retired policemen and clapped-out councillors, and would inevitably lead to cronyism and corruption. &nbsp;That is exactly what has happened in police forces across the country.</p>\n<p>There was nothing wrong with the old system of local police authorities which were democratic, transparent and much cheaper.</p>\n<p>So if elected I shall consult with the major political parties on how to disband the present system as soon as possible after the General Election.</p>\n<p>I shall not take a salary for doing a job which should never have been created. &nbsp;I sincerely hope that in this way I can contribute to the restoration of a criminal justice system which we can trust and be proud of.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Prepared by Paul Hartley</p>\n<p>4 Festing Road Southsea Portsmouth Hampshire</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  01420538008 </p>\n<p> http://www.jacparty.org.uk </p>\n<p> don@jerrard.me.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I was born and lived for most of my life in Hampshire. I was a partner in a major international law firm where I founded its IP/IT law department and have been a local councillor in Liss and Liphook since 2003. &nbsp; In 2010 I co-founded the Justice &amp; Anti-Corruption Party an independent party dedicated [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Don",
+        "surname": "Jerrard",
+        "phone": "01420538008",
+        "email": "don@jerrard.me.uk",
+        "email_welsh": "",
+        "website": "http://www.jacparty.org.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Don",
+        "ballot_surname": "Jerrard",
+        "police_force": 47,
+        "party": "The Justice & Anti-Corruption Party",
+        "user": 0,
+        "statement": "<p>I was born and lived for most of my life in Hampshire. I was a partner in a major international law firm where I founded its IP/IT law department and have been a local councillor in Liss and Liphook since 2003. &nbsp;</p>\n<p>In 2010 I co-founded the Justice &amp; Anti-Corruption Party an independent party dedicated to obtaining justice for victims of abuse of power and exposing and combatting political and other corruption.&nbsp;</p>\n<p>I stood in the 2012 and 2016 PCC elections because of my concern about the continued collapse of our criminal justice system. I campaigned against the closing of our courts, police stations and post offices. &nbsp;We need these vital local services paid for through our taxes.</p>\n<p>It is fundamental to the criminal justice system that the judiciary and the police must be entirely independent of parliament and local councils who pass the laws and make up the rules.</p>\n<p>I believe it was totally wrong that the PCCs could effectively be chosen by a political party. That was a route to providing unnecessary well paid jobs to retired policemen and clapped-out councillors, and would inevitably lead to cronyism and corruption. &nbsp;That is exactly what has happened in police forces across the country.</p>\n<p>There was nothing wrong with the old system of local police authorities which were democratic, transparent and much cheaper.</p>\n<p>So if elected I shall consult with the major political parties on how to disband the present system as soon as possible after the General Election.</p>\n<p>I shall not take a salary for doing a job which should never have been created. &nbsp;I sincerely hope that in this way I can contribute to the restoration of a criminal justice system which we can trust and be proud of.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Prepared by Paul Hartley</p>\n<p>4 Festing Road Southsea Portsmouth Hampshire</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5000,
+        "emblem_image_id": 0,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        47
+    ],
+    "political-party": [
+        374
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5611
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5611"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5611/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5611"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5611"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5611"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

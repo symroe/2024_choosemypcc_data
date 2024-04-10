@@ -1,0 +1,124 @@
+{
+    "id": 5564,
+    "date": "2024-04-08T16:18:22",
+    "date_gmt": "2024-04-08T16:18:22",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//prad-bains-2/"
+    },
+    "modified": "2024-04-08T16:18:22",
+    "modified_gmt": "2024-04-08T16:18:22",
+    "slug": "prad-bains-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/hampshire/prad-bains-2/",
+    "title": {
+        "rendered": "Prad Bains"
+    },
+    "content": {
+        "rendered": "<p>As I talk to people across Hampshire and the Isle of Wight, they feel let down on crime and anti-social behaviour. It&rsquo;s time for change.</p>\n<p>I have four priorities:</p>\n<p><strong>Policing not politics</strong></p>\n<p>In 2024/25, Hampshire&rsquo;s &lsquo;Office of the Police and Crime Commissioner&rsquo; will cost taxpayers &pound;3 million. The Liberal Democrats believe in abolishing Police and Crime Commissioners. I will return policing to the professionals and switch money back to the front line.</p>\n<p><strong>Work with communities</strong></p>\n<p>Since 2019, the number of Police Community Support Officers has fallen by 23% in Hampshire. I want to restore community policing and have stronger action on anti-social behaviour, with officers having time to focus on preventing and solving crime.</p>\n<p>I also want to end disproportionate stop and search. In Hampshire &amp; the Isle of Wight, people from black communities are much more likely to be stopped and searched. This damages trust in police and isn&rsquo;t delivering the results that any community wants. I want the police to work better with all Hampshire&rsquo;s communities and rebuild the trust so essential for cutting crime.</p>\n<p><strong>Fairer police funding</strong></p>\n<p>With most police funding decided nationally, Hampshire does badly &ndash; around &pound;41.6 million worse off than it needs. We have fewer police officers than in 2010. I will stand up for Hampshire and the Isle of Wight, fight for fairer funding and work to reverse the fall in police numbers.</p>\n<p><strong>Listening to you</strong></p>\n<p>I want to hear what you think about policing in Hampshire and the Isle of Wight. Let me know your views today via https://crimesurvey.pradbains.uk.</p>\n<p>This election address has been prepared by Martin Tod, Winchester Liberal Democrats, Bar End Road, Winchester SO23 9NP</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://crimesurvey.pradbains.uk </p>\n<p> prad@pradbains.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As I talk to people across Hampshire and the Isle of Wight, they feel let down on crime and anti-social behaviour. It&rsquo;s time for change. I have four priorities: Policing not politics In 2024/25, Hampshire&rsquo;s &lsquo;Office of the Police and Crime Commissioner&rsquo; will cost taxpayers &pound;3 million. The Liberal Democrats believe in abolishing Police and [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Prad",
+        "surname": "Bains",
+        "phone": "",
+        "email": "prad@pradbains.uk",
+        "email_welsh": "",
+        "website": "https://crimesurvey.pradbains.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Prad",
+        "ballot_surname": "Bains",
+        "police_force": 47,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>As I talk to people across Hampshire and the Isle of Wight, they feel let down on crime and anti-social behaviour. It&rsquo;s time for change.</p>\n<p>I have four priorities:</p>\n<p><strong>Policing not politics</strong></p>\n<p>In 2024/25, Hampshire&rsquo;s &lsquo;Office of the Police and Crime Commissioner&rsquo; will cost taxpayers &pound;3 million. The Liberal Democrats believe in abolishing Police and Crime Commissioners. I will return policing to the professionals and switch money back to the front line.</p>\n<p><strong>Work with communities</strong></p>\n<p>Since 2019, the number of Police Community Support Officers has fallen by 23% in Hampshire. I want to restore community policing and have stronger action on anti-social behaviour, with officers having time to focus on preventing and solving crime.</p>\n<p>I also want to end disproportionate stop and search. In Hampshire &amp; the Isle of Wight, people from black communities are much more likely to be stopped and searched. This damages trust in police and isn&rsquo;t delivering the results that any community wants. I want the police to work better with all Hampshire&rsquo;s communities and rebuild the trust so essential for cutting crime.</p>\n<p><strong>Fairer police funding</strong></p>\n<p>With most police funding decided nationally, Hampshire does badly &ndash; around &pound;41.6 million worse off than it needs. We have fewer police officers than in 2010. I will stand up for Hampshire and the Isle of Wight, fight for fairer funding and work to reverse the fall in police numbers.</p>\n<p><strong>Listening to you</strong></p>\n<p>I want to hear what you think about policing in Hampshire and the Isle of Wight. Let me know your views today via https://crimesurvey.pradbains.uk.</p>",
+        "agent_statement": "<p>This election address has been prepared by Martin Tod, Winchester Liberal Democrats, Bar End Road, Winchester SO23 9NP</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4655,
+        "emblem_image_id": 4653,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        47
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5564
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5564"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5564/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5564"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5564"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5564"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

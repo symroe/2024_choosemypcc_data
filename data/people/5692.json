@@ -1,0 +1,124 @@
+{
+    "id": 5692,
+    "date": "2024-04-08T16:22:36",
+    "date_gmt": "2024-04-08T16:22:36",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//russell-armstrong-2/"
+    },
+    "modified": "2024-04-08T16:22:36",
+    "modified_gmt": "2024-04-08T16:22:36",
+    "slug": "russell-armstrong-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/derbyshire/russell-armstrong-2/",
+    "title": {
+        "rendered": "Russell Armstrong"
+    },
+    "content": {
+        "rendered": "<p>I&rsquo;m an entrepreneur from Derby that is sick of crime, lies and poor service. I do not believe that the police should be headed by a political office which spends huge sums on PR and staff, while our police are stretched beyond all reason. That is why I have stood up and said enough is enough, it&rsquo;s time for Reform.</p>\n<p>I want to restore the trust between the community and officers through hard work and real service, the key is fairness and communication.&nbsp;</p>\n<p>I will strive to reduce red tape and unlock the police from the tight political straight jacket they currently seem to be under, so that they can actually get on with their job. Prioritizing solving the crimes that matter to the local community. Putting the resources they do have directly into doing the job they are employed to do; keeping our communities safe, investigating real crimes that effect real people.</p>\n<p>As part of the drive for efficiency, I will slim down the PCC office, reducing costs and improving accountability while freeing up more money for local services. The police are paid by us, the taxpayers. We must find a way to ensure that they can do their job, protecting US rather than spending money on a PR office.</p>\n<p>I will also ensure that the police work in a fair, economical and cost-effective way, effectively utilizing all the resources available.&nbsp;</p>\n<p>I&rsquo;m not happy with just rhetoric, misleading reports, glossy leaflets. We must have real results, we must have Reform.</p>\n<p>Prepared by Timothy Prosser of 4 Lady Mantle Close, Derby DE73 5PY</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://eastmidlandsreform.uk </p>\n<p> russell.armstrong@reformderby.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I&rsquo;m an entrepreneur from Derby that is sick of crime, lies and poor service. I do not believe that the police should be headed by a political office which spends huge sums on PR and staff, while our police are stretched beyond all reason. That is why I have stood up and said enough is [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Russell",
+        "surname": "Armstrong",
+        "phone": "",
+        "email": "russell.armstrong@reformderby.uk",
+        "email_welsh": "",
+        "website": "https://eastmidlandsreform.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Russell",
+        "ballot_surname": "Armstrong",
+        "police_force": 38,
+        "party": "Reform UK",
+        "user": 0,
+        "statement": "<p>I&rsquo;m an entrepreneur from Derby that is sick of crime, lies and poor service. I do not believe that the police should be headed by a political office which spends huge sums on PR and staff, while our police are stretched beyond all reason. That is why I have stood up and said enough is enough, it&rsquo;s time for Reform.</p>\n<p>I want to restore the trust between the community and officers through hard work and real service, the key is fairness and communication.&nbsp;</p>\n<p>I will strive to reduce red tape and unlock the police from the tight political straight jacket they currently seem to be under, so that they can actually get on with their job. Prioritizing solving the crimes that matter to the local community. Putting the resources they do have directly into doing the job they are employed to do; keeping our communities safe, investigating real crimes that effect real people.</p>\n<p>As part of the drive for efficiency, I will slim down the PCC office, reducing costs and improving accountability while freeing up more money for local services. The police are paid by us, the taxpayers. We must find a way to ensure that they can do their job, protecting US rather than spending money on a PR office.</p>\n<p>I will also ensure that the police work in a fair, economical and cost-effective way, effectively utilizing all the resources available.&nbsp;</p>\n<p>I&rsquo;m not happy with just rhetoric, misleading reports, glossy leaflets. We must have real results, we must have Reform.</p>",
+        "agent_statement": "<p>Prepared by Timothy Prosser of 4 Lady Mantle Close, Derby DE73 5PY</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4843,
+        "emblem_image_id": 4844,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        38
+    ],
+    "political-party": [
+        306
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5692
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5692"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5692/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5692"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5692"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5692"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

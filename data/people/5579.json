@@ -1,0 +1,130 @@
+{
+    "id": 5579,
+    "date": "2024-04-08T16:18:50",
+    "date_gmt": "2024-04-08T16:18:50",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//sarah-philippa-jane-murray-2/"
+    },
+    "modified": "2024-04-10T08:46:37",
+    "modified_gmt": "2024-04-10T08:46:37",
+    "slug": "sarah-philippa-jane-murray-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/west-mercia/sarah-philippa-jane-murray-2/",
+    "title": {
+        "rendered": "Sarah Philippa Jane Murray"
+    },
+    "content": {
+        "rendered": "<p>Having worked extensively in law, education and mental health, I am acutely aware of the impact of declining services on those who struggle with education l, and how it can result in criminality, and how vulnerability can lead to young people being targeted by County Lines gangs. \u00a0My life\u2019s work, criminal law and education, have led me to take an active interest in this role.</p>\n<p>I would like to see:</p>\n<p>\u00b7\u00a0 \u00a0A return to community policing;</p>\n<p>\u00b7\u00a0 \u00a0Proactive intervention in the root causes of crime;</p>\n<p>\u00b7\u00a0 \u00a0A burglary response guarantee;</p>\n<p>\u00b7\u00a0 \u00a0Greater diversity and inclusivity in the PCC and deputy roles.</p>\n<p>A passionate advocate for ending violence against women and girls, I want to see more done to support victims of male violence &#8211; including timely prosecutions. \u00a0I am also aware of male victims of domestic abuse and will work to reduce the stigma surrounding this. \u00a0No victim should feel unheard, even if they wish to remain unseen.</p>\n<p>The Police and Crime Commissioner role encompasses all my interests and passions: criminal justice, social accountability and being an active community role model who listens to the needs of the community and works to improve the area.</p>\n<p>Published and promoted by Alex Wagner on behalf of Sarah Philippa Jane Murray at 7 Maypole Court, Wem, Shropshire, SY4 5AA.</p>\n<p><strong>Contact Details</strong></p>\n<p><span>https://worcesterlibdems.org.uk</span></p>\n<p>Facebook/@sarahmurraylibdem</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Having worked extensively in law, education and mental health, I am acutely aware of the impact of declining services on those who struggle with education l, and how it can result in criminality, and how vulnerability can lead to young people being targeted by County Lines gangs. \u00a0My life\u2019s work, criminal law and education, have [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Sarah Philippa Jane",
+        "surname": "Murray",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://worcesterlibdems.org.uk",
+        "website_welsh": "",
+        "social_media": "<p>Facebook/@sarahmurraylibdem</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Sarah Philippa Jane",
+        "ballot_surname": "Murray",
+        "police_force": 69,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>Having worked extensively in law, education and mental health, I am acutely aware of the impact of declining services on those who struggle with education l, and how it can result in criminality, and how vulnerability can lead to young people being targeted by County Lines gangs. &nbsp;My life&rsquo;s work, criminal law and education, have led me to take an active interest in this role.</p>\n<p>I would like to see:</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; &nbsp; A return to community policing;</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; &nbsp; Proactive intervention in the root causes of crime;</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; &nbsp; A burglary response guarantee;</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; &nbsp; Greater diversity and inclusivity in the PCC and deputy roles.</p>\n<p>A passionate advocate for ending violence against women and girls, I want to see more done to support victims of male violence - including timely prosecutions. &nbsp;I am also aware of male victims of domestic abuse and will work to reduce the stigma surrounding this. &nbsp;No victim should feel unheard, even if they wish to remain unseen.</p>\n<p>The Police and Crime Commissioner role encompasses all my interests and passions: criminal justice, social accountability and being an active community role model who listens to the needs of the community and works to improve the area.</p>",
+        "agent_statement": "<p>Published and promoted by Alex Wagner on behalf of Sarah Philippa Jane Murray at 7 Maypole Court, Wem, Shropshire, SY4 5AA.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4674,
+        "emblem_image_id": 4675,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        69
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5579
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5579"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5579/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5963,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5579/revisions/5963"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5579"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5579"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5579"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

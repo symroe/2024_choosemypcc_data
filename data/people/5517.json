@@ -1,0 +1,124 @@
+{
+    "id": 5517,
+    "date": "2024-04-08T16:16:49",
+    "date_gmt": "2024-04-08T16:16:49",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//kate-chinn-2/"
+    },
+    "modified": "2024-04-08T16:16:49",
+    "modified_gmt": "2024-04-08T16:16:49",
+    "slug": "kate-chinn-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/surrey/kate-chinn-2/",
+    "title": {
+        "rendered": "Kate Chinn"
+    },
+    "content": {
+        "rendered": "<p>The Conservatives have lost control of crime in Surrey. Their record over the last 8 years is one of failure. Crime and Anti-Social Behaviour in Surrey&rsquo;s towns and villages is rife. In addition to closing nearly all the police stations in the county, Conservative funding cuts have reduced the number of police and PCSOs on our streets. It is not surprising that burglaries and shoplifting have risen to unprecedented levels.</p>\n<p>Through my work as a psychiatric nurse, in the homelessness sector and social care, and as a local councillor, every day I see the consequences of cuts to the police budgets.</p>\n<p>Working with often vulnerable people, I understand the damaging impact that crime has on our communities. Surrey has been my home for over 30 years and my family, friends, and many local people say they have never known it this bad, they fear for their safety if we do not have a change.</p>\n<p>My priorities are clear:</p>\n<ul>\n<li>more visible community policing with a focus on making our streets safer</li>\n<li>preventing crime and solving more cases.</li>\n<li>bringing back neighbourhood police teams who know their residents and the community know them</li>\n<li>using empty shops give every town centre a police presence</li>\n<li>cracking down on crimes, particularly violence against women, drug dealing and anti-social behaviour.</li>\n<li>tackling rural crime, animal cruelty and illegal pet farms</li>\n<li>ensuring Surrey police respond to 999 calls (currently they only respond to one in five calls)</li>\n<li>preventative measures including increasing support services for young people.</li>\n</ul>\n<p>It is time for change in Surrey. I represent a fresh start with new and innovative ideas, replacing this failing Conservative policing agenda in Surrey.</p>\n<p>This statement has been prepared by Stuart Gosling, the candidate&#8217;s agent at 8 Grove Road, Epsom, KT17 4DF.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> kate.chinn@zen.co.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Conservatives have lost control of crime in Surrey. Their record over the last 8 years is one of failure. Crime and Anti-Social Behaviour in Surrey&rsquo;s towns and villages is rife. In addition to closing nearly all the police stations in the county, Conservative funding cuts have reduced the number of police and PCSOs on [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Kate",
+        "surname": "Chinn",
+        "phone": "",
+        "email": "kate.chinn@zen.co.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Kate",
+        "ballot_surname": "Chinn",
+        "police_force": 65,
+        "party": "Labour Party",
+        "user": 219,
+        "statement": "<p>The Conservatives have lost control of crime in Surrey. Their record over the last 8 years is one of failure. Crime and Anti-Social Behaviour in Surrey&rsquo;s towns and villages is rife. In addition to closing nearly all the police stations in the county, Conservative funding cuts have reduced the number of police and PCSOs on our streets. It is not surprising that burglaries and shoplifting have risen to unprecedented levels.</p>\n<p>Through my work as a psychiatric nurse, in the homelessness sector and social care, and as a local councillor, every day I see the consequences of cuts to the police budgets.</p>\n<p>Working with often vulnerable people, I understand the damaging impact that crime has on our communities. Surrey has been my home for over 30 years and my family, friends, and many local people say they have never known it this bad, they fear for their safety if we do not have a change.</p>\n<p>My priorities are clear:</p>\n<ul>\n<li>more visible community policing with a focus on making our streets safer</li>\n<li>preventing crime and solving more cases.</li>\n<li>bringing back neighbourhood police teams who know their residents and the community know them</li>\n<li>using empty shops give every town centre a police presence</li>\n<li>cracking down on crimes, particularly violence against women, drug dealing and anti-social behaviour.</li>\n<li>tackling rural crime, animal cruelty and illegal pet farms</li>\n<li>ensuring Surrey police respond to 999 calls (currently they only respond to one in five calls)</li>\n<li>preventative measures including increasing support services for young people.</li>\n</ul>\n<p>It is time for change in Surrey. I represent a fresh start with new and innovative ideas, replacing this failing Conservative policing agenda in Surrey.</p>",
+        "agent_statement": "<p>This statement has been prepared by Stuart Gosling, the candidate's agent at 8 Grove Road, Epsom, KT17 4DF.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4458,
+        "emblem_image_id": 4498,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        65
+    ],
+    "political-party": [
+        231
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5517
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5517"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5517/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5517"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5517"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5517"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

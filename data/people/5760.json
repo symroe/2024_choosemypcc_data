@@ -1,0 +1,124 @@
+{
+    "id": 5760,
+    "date": "2024-04-08T16:24:42",
+    "date_gmt": "2024-04-08T16:24:42",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//john-christopher-appleby-2/"
+    },
+    "modified": "2024-04-08T16:24:42",
+    "modified_gmt": "2024-04-08T16:24:42",
+    "slug": "john-christopher-appleby-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/northumbria/john-christopher-appleby-2/",
+    "title": {
+        "rendered": "John Christopher Appleby"
+    },
+    "content": {
+        "rendered": "<p>John Appleby lives in Whitley Bay, and has lived in the North-East for forty years. Formerly Head of Mechanical Engineering at Newcastle University, responsible for 1,000 staff and students and a &pound;14m budget, he continues to be a popular teacher of maths for engineers.&nbsp;</p>\n<p>John served as a Lib Dem councillor in Newcastle, has stood for Parliament and in Mayoral elections in North Tyneside, and has been a trustee of several charities, a school governor, and a trade union branch President. He has served on local and national church committees, and is a member of several environmental groups and a keen user and supporter of &lsquo;car-clubs&rsquo;.</p>\n<p>&ldquo;As Chair of a local charity in a deprived area, I am conscious of how poverty and experience of crime are often linked. To make residents feel safe, we need to address poverty and work with young people at risk of being drawn into antisocial and criminal behaviour. We need our police to be valued and trusted, and to spend more of their time on crime and its prevention, to build a strong and caring society. And we need to listen more to residents and victims of crime and ensure we respond to their priorities too.&rdquo;</p>\n<p>&ldquo;If you want a Police and Crime Commissioner who is honest about what&rsquo;s possible, who seeks solutions that everyone can see the sense of, then please give me your vote on May 2nd! I hope you will vote for me so that I can represent your interests and the interests of each and every person and each and every community across the Northumbria Police area.&rdquo;</p>\n<p>Prepared by Thom Campion, election agent, of 110 Warkworth Woods, Newcastle upon Tyne, NE3 5RB on behalf of John Appleby (Liberal Democrat)&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.northeastlibdems.org.uk </p>\n<p> JohnApplebyLD@gmail.com  </p>\n<p>@JohnApplebyLD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>John Appleby lives in Whitley Bay, and has lived in the North-East for forty years. Formerly Head of Mechanical Engineering at Newcastle University, responsible for 1,000 staff and students and a &pound;14m budget, he continues to be a popular teacher of maths for engineers.&nbsp; John served as a Lib Dem councillor in Newcastle, has stood [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "John Christopher",
+        "surname": "Appleby",
+        "phone": "",
+        "email": "JohnApplebyLD@gmail.com",
+        "email_welsh": "",
+        "website": "https://www.northeastlibdems.org.uk",
+        "website_welsh": "",
+        "social_media": "<p>@JohnApplebyLD</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "John Christopher",
+        "ballot_surname": "Appleby",
+        "police_force": 59,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p>John Appleby lives in Whitley Bay, and has lived in the North-East for forty years. Formerly Head of Mechanical Engineering at Newcastle University, responsible for 1,000 staff and students and a &pound;14m budget, he continues to be a popular teacher of maths for engineers.&nbsp;</p>\n<p>John served as a Lib Dem councillor in Newcastle, has stood for Parliament and in Mayoral elections in North Tyneside, and has been a trustee of several charities, a school governor, and a trade union branch President. He has served on local and national church committees, and is a member of several environmental groups and a keen user and supporter of &lsquo;car-clubs&rsquo;.</p>\n<p>&ldquo;As Chair of a local charity in a deprived area, I am conscious of how poverty and experience of crime are often linked. To make residents feel safe, we need to address poverty and work with young people at risk of being drawn into antisocial and criminal behaviour. We need our police to be valued and trusted, and to spend more of their time on crime and its prevention, to build a strong and caring society. And we need to listen more to residents and victims of crime and ensure we respond to their priorities too.&rdquo;</p>\n<p>&ldquo;If you want a Police and Crime Commissioner who is honest about what&rsquo;s possible, who seeks solutions that everyone can see the sense of, then please give me your vote on May 2nd! I hope you will vote for me so that I can represent your interests and the interests of each and every person and each and every community across the Northumbria Police area.&rdquo;</p>",
+        "agent_statement": "<p>Prepared by Thom Campion, election agent, of 110 Warkworth Woods, Newcastle upon Tyne, NE3 5RB on behalf of John Appleby (Liberal Democrat)&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4776,
+        "emblem_image_id": 4777,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        59
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5760
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5760"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5760/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5760"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5760"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5760"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

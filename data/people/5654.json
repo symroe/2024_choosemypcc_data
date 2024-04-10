@@ -1,0 +1,124 @@
+{
+    "id": 5654,
+    "date": "2024-04-08T16:21:19",
+    "date_gmt": "2024-04-08T16:21:19",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//andrew-snowden-2/"
+    },
+    "modified": "2024-04-08T16:21:19",
+    "modified_gmt": "2024-04-08T16:21:19",
+    "slug": "andrew-snowden-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/lancashire/andrew-snowden-2/",
+    "title": {
+        "rendered": "Andrew Snowden"
+    },
+    "content": {
+        "rendered": "<p>For three years I have been delivering a back-to-basics approach to policing. Recruiting over 600 more officers and getting them out on the beat, reopening police stations to the public and sending a clear message &ndash; the police are here to fight crime and protect people.&nbsp;</p>\n<p>From funding one of the largest rural policing teams in the country, the new Roads Policing Unit, the Anti-Social Behaviour Target Team, or the Task Forces busting up criminal gangs &ndash; the changes and investments I have made are working.&nbsp;</p>\n<p>Lancashire Constabulary have launched two Operations with the extra resources I have made available to deliver the priorities I set of getting tough on antisocial behaviour and to relentlessly target criminal gangs:</p>\n<p>1. Since Operation Warrior was launched &ndash; over 1,400 gang suspects have been arrested, 286kg of class A&amp;B drugs seized, and over &pound;1million of criminals&#8217; cash taken off them.&nbsp;</p>\n<p>2. Since Operation Centurion was launched &ndash; over 14,000 extra hours of foot patrols have taken place in antisocial behaviour hotspots, with over 1,500 stop checks and searches taking place and over 140 repeat offenders arrested.&nbsp;</p>\n<p>But I know there is much more to do.&nbsp;</p>\n<p>That&rsquo;s why I have committed &pound;1million a year, for the next three years, to recruit even more officers to join the ranks of local neighbourhood teams across Lancashire. It&rsquo;s why I&rsquo;ve set out plans to expand the Roads Policing Unit to target &lsquo;boy racers&rsquo;, and to fund a further rollout of the anti-social behaviour foot patrols.&nbsp;</p>\n<p>But I can only deliver all this if re-elected in May. A vote for me is a vote to continue to focus on the basics, leading the fight against crime.</p>\n<p>Statement prepared by George Rear on behalf of Andrew Snowden, both of 72c New Court Way, Ormskirk, L39 2YT.&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> Andrew4PCC@lancashireconservatives.co.uk  </p>\n<p>https://www.facebook.com/SnowdenLancsPCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>For three years I have been delivering a back-to-basics approach to policing. Recruiting over 600 more officers and getting them out on the beat, reopening police stations to the public and sending a clear message &ndash; the police are here to fight crime and protect people.&nbsp; From funding one of the largest rural policing teams [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Andrew",
+        "surname": "Snowden",
+        "phone": "",
+        "email": "Andrew4PCC@lancashireconservatives.co.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/SnowdenLancsPCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Andrew",
+        "ballot_surname": "Snowden",
+        "police_force": 51,
+        "party": "The Conservative Party Candidate",
+        "user": 0,
+        "statement": "<p>For three years I have been delivering a back-to-basics approach to policing. Recruiting over 600 more officers and getting them out on the beat, reopening police stations to the public and sending a clear message &ndash; the police are here to fight crime and protect people.&nbsp;</p>\n<p>From funding one of the largest rural policing teams in the country, the new Roads Policing Unit, the Anti-Social Behaviour Target Team, or the Task Forces busting up criminal gangs &ndash; the changes and investments I have made are working.&nbsp;</p>\n<p>Lancashire Constabulary have launched two Operations with the extra resources I have made available to deliver the priorities I set of getting tough on antisocial behaviour and to relentlessly target criminal gangs:</p>\n<p>1. Since Operation Warrior was launched &ndash; over 1,400 gang suspects have been arrested, 286kg of class A&amp;B drugs seized, and over &pound;1million of criminals' cash taken off them.&nbsp;</p>\n<p>2. Since Operation Centurion was launched &ndash; over 14,000 extra hours of foot patrols have taken place in antisocial behaviour hotspots, with over 1,500 stop checks and searches taking place and over 140 repeat offenders arrested.&nbsp;</p>\n<p>But I know there is much more to do.&nbsp;</p>\n<p>That&rsquo;s why I have committed &pound;1million a year, for the next three years, to recruit even more officers to join the ranks of local neighbourhood teams across Lancashire. It&rsquo;s why I&rsquo;ve set out plans to expand the Roads Policing Unit to target &lsquo;boy racers&rsquo;, and to fund a further rollout of the anti-social behaviour foot patrols.&nbsp;</p>\n<p>But I can only deliver all this if re-elected in May. A vote for me is a vote to continue to focus on the basics, leading the fight against crime.</p>",
+        "agent_statement": "<p>Statement prepared by George Rear on behalf of Andrew Snowden, both of 72c New Court Way, Ormskirk, L39 2YT.&nbsp;</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4763,
+        "emblem_image_id": 4764,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        51
+    ],
+    "political-party": [
+        16
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5654
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5654"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5654/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5654"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5654"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5654"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

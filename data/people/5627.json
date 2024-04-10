@@ -1,0 +1,124 @@
+{
+    "id": 5627,
+    "date": "2024-04-08T16:20:24",
+    "date_gmt": "2024-04-08T16:20:24",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//edna-murphy-2/"
+    },
+    "modified": "2024-04-08T16:20:24",
+    "modified_gmt": "2024-04-08T16:20:24",
+    "slug": "edna-murphy-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cambridgeshire/edna-murphy-2/",
+    "title": {
+        "rendered": "Edna Murphy"
+    },
+    "content": {
+        "rendered": "<p>Edna Murphy brings a unique blend of expertise and insight to the role of Police and Crime Commissioner. She served as a Magistrate in Cambridge for over 25 years, including many years chairing the Youth Court, and she currently chairs the Cambridgeshire and Peterborough Fire Authority, recognised as one of the most successful and respected in the country.</p>\n<p>Edna believes the police need to do more on persistent problems such as sexual assault and on new priorities such as fraud. Most victims of those crimes do not report their experience to the police, with at best just one in six coming forward. This shows just how low victims&rsquo; confidence is in our system of justice. That needs massively to improve.</p>\n<p>Recent years have seen too many cuts in criminal justice expenditure. Edna is calling for better funding for Cambridgeshire and Peterborough police. Under the Tories, we have the seventh lowest funding per head of population in the country and the third lowest number of staff per 1,000 population. Cambridgeshire is low on the priority list for this Tory Government and residents deserve better.</p>\n<p>As Police and Crime Commissioner, Edna will:</p>\n<p>1) Fight not just for fair funding but also for smarter spending, moving away from policies that don&rsquo;t work to reduce crime, such as short prison sentences for non-violent offenders, and towards solutions that truly make us safer by making it less likely that any of us will be victims of crime in the future.</p>\n<p>2) Champion effective crime reduction strategies such as restorative justice, tackling prolific offenders, and evidence-driven policing.</p>\n<p>3) Above all, ensure that the police are proactive and treat victims with respect, not just as statistics.</p>\n<p>Prepared by A Van de Weyer, 15 Ronald Rolph Court, Cambridge on behalf of Edna Murphy.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.cambslibdems.org.uk/pcc </p>\n<p> edna.murphy@libdems.info  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Edna Murphy brings a unique blend of expertise and insight to the role of Police and Crime Commissioner. She served as a Magistrate in Cambridge for over 25 years, including many years chairing the Youth Court, and she currently chairs the Cambridgeshire and Peterborough Fire Authority, recognised as one of the most successful and respected [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Edna",
+        "surname": "Murphy",
+        "phone": "",
+        "email": "edna.murphy@libdems.info",
+        "email_welsh": "",
+        "website": "https://www.cambslibdems.org.uk/pcc",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Edna",
+        "ballot_surname": "Murphy",
+        "police_force": 34,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p>Edna Murphy brings a unique blend of expertise and insight to the role of Police and Crime Commissioner. She served as a Magistrate in Cambridge for over 25 years, including many years chairing the Youth Court, and she currently chairs the Cambridgeshire and Peterborough Fire Authority, recognised as one of the most successful and respected in the country.</p>\n<p>Edna believes the police need to do more on persistent problems such as sexual assault and on new priorities such as fraud. Most victims of those crimes do not report their experience to the police, with at best just one in six coming forward. This shows just how low victims&rsquo; confidence is in our system of justice. That needs massively to improve.</p>\n<p>Recent years have seen too many cuts in criminal justice expenditure. Edna is calling for better funding for Cambridgeshire and Peterborough police. Under the Tories, we have the seventh lowest funding per head of population in the country and the third lowest number of staff per 1,000 population. Cambridgeshire is low on the priority list for this Tory Government and residents deserve better.</p>\n<p>As Police and Crime Commissioner, Edna will:</p>\n<p>1) Fight not just for fair funding but also for smarter spending, moving away from policies that don&rsquo;t work to reduce crime, such as short prison sentences for non-violent offenders, and towards solutions that truly make us safer by making it less likely that any of us will be victims of crime in the future.</p>\n<p>2) Champion effective crime reduction strategies such as restorative justice, tackling prolific offenders, and evidence-driven policing.</p>\n<p>3) Above all, ensure that the police are proactive and treat victims with respect, not just as statistics.</p>",
+        "agent_statement": "<p>Prepared by A Van de Weyer, 15 Ronald Rolph Court, Cambridge on behalf of Edna Murphy.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5039,
+        "emblem_image_id": 5040,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        34
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5627
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5627"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5627/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5627"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5627"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5627"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

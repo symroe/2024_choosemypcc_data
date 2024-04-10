@@ -1,0 +1,124 @@
+{
+    "id": 5587,
+    "date": "2024-04-08T16:19:06",
+    "date_gmt": "2024-04-08T16:19:06",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//bob-teesdale-2/"
+    },
+    "modified": "2024-04-08T16:19:06",
+    "modified_gmt": "2024-04-08T16:19:06",
+    "slug": "bob-teesdale-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/merseyside/bob-teesdale-2/",
+    "title": {
+        "rendered": "Bob Teesdale"
+    },
+    "content": {
+        "rendered": "<p><strong>Bob Teesdale. Conservative Candidate for Merseyside Police and Crime Commissioner</strong></p>\n<p>I served as a Bobby for 30 years retiring as Patrol Inspector, i.e., finishing as I started out &#8211; on the streets &ndash; working 3 shifts.</p>\n<p>I am also a private citizen so I have lots of experience of the other side, &nbsp;looking to the Police for my family&rsquo;s and my own safety and wellbeing.</p>\n<p>I believe the professionalism of the Merseyside Police is admired round the country but it comes at a price, a tendency to move away from a direct connection to the communities they serve.</p>\n<p>So, I am putting, balancing the &ldquo;re-connecting&rdquo; with the people of Merseyside, with applying the Forces innate professionalism at the at the heart of my plans for the Force.</p>\n<p>&nbsp;Ensuring that the extra officers gained by the Force from the 20,000 being funded by this Government are spread evenly across the 5 Boroughs.</p>\n<p>&nbsp;Ensuring that community groups who work to benefit us all in so many ways are properly supported including victim Support.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp;Expanding and properly utilising the willingness of our community to help directly, by involving &nbsp;and properly using the Special Constabulary.</p>\n<p>&nbsp;</p>\n<p><strong>My priority will always be to work to make Merseyside safer.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Prepared by Chris Hall on behalf of Bob Teesdale.</p>\n<p>Both of Southport Conservatives</p>\n<p>37/39 Shakespeare St. Southport PR8 5AB</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07419340649 </p>\n<p> office@southportconservatives.org  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Bob Teesdale. Conservative Candidate for Merseyside Police and Crime Commissioner I served as a Bobby for 30 years retiring as Patrol Inspector, i.e., finishing as I started out &#8211; on the streets &ndash; working 3 shifts. I am also a private citizen so I have lots of experience of the other side, &nbsp;looking to the [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Bob",
+        "surname": "Teesdale",
+        "phone": "07419340649",
+        "email": "office@southportconservatives.org",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Bob",
+        "ballot_surname": "Teesdale",
+        "police_force": 54,
+        "party": "The Conservative Party Candidate",
+        "user": 0,
+        "statement": "<p><strong>Bob Teesdale. Conservative Candidate for Merseyside Police and Crime Commissioner</strong></p>\n<p>I served as a Bobby for 30 years retiring as Patrol Inspector, i.e., finishing as I started out - on the streets &ndash; working 3 shifts.</p>\n<p>I am also a private citizen so I have lots of experience of the other side, &nbsp;looking to the Police for my family&rsquo;s and my own safety and wellbeing.</p>\n<p>I believe the professionalism of the Merseyside Police is admired round the country but it comes at a price, a tendency to move away from a direct connection to the communities they serve.</p>\n<p>So, I am putting, balancing the &ldquo;re-connecting&rdquo; with the people of Merseyside, with applying the Forces innate professionalism at the at the heart of my plans for the Force.</p>\n<p>&nbsp;Ensuring that the extra officers gained by the Force from the 20,000 being funded by this Government are spread evenly across the 5 Boroughs.</p>\n<p>&nbsp;Ensuring that community groups who work to benefit us all in so many ways are properly supported including victim Support.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp;Expanding and properly utilising the willingness of our community to help directly, by involving &nbsp;and properly using the Special Constabulary.</p>\n<p>&nbsp;</p>\n<p><strong>My priority will always be to work to make Merseyside safer.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Prepared by Chris Hall on behalf of Bob Teesdale.</p>\n<p>Both of Southport Conservatives</p>\n<p>37/39 Shakespeare St. Southport PR8 5AB</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4966,
+        "emblem_image_id": 4976,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        54
+    ],
+    "political-party": [
+        16
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5587
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5587"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5587/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5587"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5587"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5587"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

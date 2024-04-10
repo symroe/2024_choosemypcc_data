@@ -1,0 +1,124 @@
+{
+    "id": 5712,
+    "date": "2024-04-08T16:23:15",
+    "date_gmt": "2024-04-08T16:23:15",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//lesley-anne-rollings-2/"
+    },
+    "modified": "2024-04-08T16:23:15",
+    "modified_gmt": "2024-04-08T16:23:15",
+    "slug": "lesley-anne-rollings-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/lincolnshire/lesley-anne-rollings-2/",
+    "title": {
+        "rendered": "Lesley Anne Rollings"
+    },
+    "content": {
+        "rendered": "<p>Liberal Democrats across Lincolnshire are delighted that Lesley Rollings has agreed to stand in the Police and Crime Commissioner elections.</p>\n<p>Lesley has lived in Lincolnshire for 33 years. She has extensive experience working with the community through her work as a district councillor over the last 18 years and working as a community lead in a large school on the leadership team. She has 3 children and her work and family experience living in rural Lincolnshire has given her a good knowledge of our communities. She is deputy leader of West Lindsey District Council and previously a County Councillor.</p>\n<p><strong>&lsquo;When it comes to crime, talking tough is not enough!&rsquo;, says Lesley.&nbsp;</strong>&lsquo;Our communities value our police service and want to see them tackling the most serious of crimes, whilst working alongside partners to prevent crime from happening in the first place. Much more needs to be done to prevent criminals from re-offending.<strong> People want to see more police officers on the streets and feel that something is being done when crimes are reported.</strong></p>\n<p>Under this Government things are getting worse.Talking about how tough you are on crime, is simply not enough.</p>\n<p><strong>Liberal Democrats believe that the Police and Crime Commissioner is a waste of money. The office costs and spin machine alone have cost the public &pound;millions. Lib Dems would re-direct resources into front-line policing, tackling anti &ndash; social behaviour, victim support and crime prevention measures instead.&nbsp;</strong></p>\n<p>Polling Stations are open 7am- 10pm on 2nd May. You will need photo ID to vote.</p>\n<p>Published by Stuart Bray c/o Mayfield, Linwood Road, Market Rasen LN8 3QE.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.GainsboroughLibDems.org.uk </p>\n<p> lesley.rollings@gainsboroughlibdems.org.uk  </p>\n<p>https://www.facebook.com/rollingslibdem</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Liberal Democrats across Lincolnshire are delighted that Lesley Rollings has agreed to stand in the Police and Crime Commissioner elections. Lesley has lived in Lincolnshire for 33 years. She has extensive experience working with the community through her work as a district councillor over the last 18 years and working as a community lead in [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Lesley Anne",
+        "surname": "Rollings",
+        "phone": "",
+        "email": "lesley.rollings@gainsboroughlibdems.org.uk",
+        "email_welsh": "",
+        "website": "https://www.GainsboroughLibDems.org.uk",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/rollingslibdem</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Lesley Anne",
+        "ballot_surname": "Rollings",
+        "police_force": 53,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p>Liberal Democrats across Lincolnshire are delighted that Lesley Rollings has agreed to stand in the Police and Crime Commissioner elections.</p>\n<p>Lesley has lived in Lincolnshire for 33 years. She has extensive experience working with the community through her work as a district councillor over the last 18 years and working as a community lead in a large school on the leadership team. She has 3 children and her work and family experience living in rural Lincolnshire has given her a good knowledge of our communities. She is deputy leader of West Lindsey District Council and previously a County Councillor.</p>\n<p><strong>&lsquo;When it comes to crime, talking tough is not enough!&rsquo;, says Lesley.&nbsp;</strong>&lsquo;Our communities value our police service and want to see them tackling the most serious of crimes, whilst working alongside partners to prevent crime from happening in the first place. Much more needs to be done to prevent criminals from re-offending.<strong> People want to see more police officers on the streets and feel that something is being done when crimes are reported.</strong></p>\n<p>Under this Government things are getting worse.Talking about how tough you are on crime, is simply not enough.</p>\n<p><strong>Liberal Democrats believe that the Police and Crime Commissioner is a waste of money. The office costs and spin machine alone have cost the public &pound;millions. Lib Dems would re-direct resources into front-line policing, tackling anti &ndash; social behaviour, victim support and crime prevention measures instead.&nbsp;</strong></p>\n<p>Polling Stations are open 7am- 10pm on 2nd May. You will need photo ID to vote.</p>",
+        "agent_statement": "<p>Published by Stuart Bray c/o Mayfield, Linwood Road, Market Rasen LN8 3QE.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5022,
+        "emblem_image_id": 5023,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        53
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5712
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5712"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5712/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5712"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5712"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5712"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

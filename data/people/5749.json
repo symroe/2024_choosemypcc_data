@@ -1,0 +1,124 @@
+{
+    "id": 5749,
+    "date": "2024-04-08T16:24:23",
+    "date_gmt": "2024-04-08T16:24:23",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//rachel-smith-lyte-2/"
+    },
+    "modified": "2024-04-08T16:24:23",
+    "modified_gmt": "2024-04-08T16:24:23",
+    "slug": "rachel-smith-lyte-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/suffolk/rachel-smith-lyte-2/",
+    "title": {
+        "rendered": "Rachel Smith-Lyte"
+    },
+    "content": {
+        "rendered": "<p><strong>Suffolk needs a Police and Crime Commissioner prepared to fight for safe and resilient communities.</strong></p>\n<p>My name is Rachel Smith-Lyte and I am your Green Party candidate to be the Police and Crime Commissioner for Suffolk. As a councillor and cabinet member for the environment at East Suffolk District Council, I have already been speaking up for our community.</p>\n<p><strong>Change can come.</strong> A year ago, 26% voted for the Green Party in council elections across Suffolk, compared to 35% for Conservative, 21% for Labour, 12% for LibDem and 6% for others. Greens are now part of the administration of three of the county&rsquo;s six councils. Your vote can make a difference.&nbsp;</p>\n<p>Our police force is under serious pressure. Officers are having to plug the gap left by struggling court and mental health services. We have seen an erosion of front-line policing with the beat seemingly a thing of the past. &nbsp;</p>\n<p>I would resist further cuts to our critical police service in Suffolk, send a message to the government that people need police back on the ground, while seeking to ensure officers feel supported, resourced and valued to do the best job they can.</p>\n<p>I would stand up for vulnerable people including women suffering domestic violence and people of colour being targeted by stop and search. Finally, I would make environmental and wildlife crime a higher priority, protecting the unique local environment that I know we are passionate about here in Suffolk.</p>\n<p>A vote for me is a vote to tell central government that our hard-working police force need the funding and investment to keep us all safe.&nbsp;</p>\n<p>If you have any questions, you can contact me by email.</p>\n<p>&nbsp;</p>\n<p>Rachel Smith-Lyte&#8217;s statement has been prepared by me, Marie Adams, Acorn Cottage, Kelsale, Saxmundham, Suffolk, IP17 2QY.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> raychwon2@gmail.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Suffolk needs a Police and Crime Commissioner prepared to fight for safe and resilient communities. My name is Rachel Smith-Lyte and I am your Green Party candidate to be the Police and Crime Commissioner for Suffolk. As a councillor and cabinet member for the environment at East Suffolk District Council, I have already been speaking [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Rachel",
+        "surname": "Smith-Lyte",
+        "phone": "",
+        "email": "raychwon2@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Rachel",
+        "ballot_surname": "Smith-Lyte",
+        "police_force": 64,
+        "party": "Green Party",
+        "user": 0,
+        "statement": "<p><strong>Suffolk needs a Police and Crime Commissioner prepared to fight for safe and resilient communities.</strong></p>\n<p>My name is Rachel Smith-Lyte and I am your Green Party candidate to be the Police and Crime Commissioner for Suffolk. As a councillor and cabinet member for the environment at East Suffolk District Council, I have already been speaking up for our community.</p>\n<p><strong>Change can come.</strong> A year ago, 26% voted for the Green Party in council elections across Suffolk, compared to 35% for Conservative, 21% for Labour, 12% for LibDem and 6% for others. Greens are now part of the administration of three of the county&rsquo;s six councils. Your vote can make a difference.&nbsp;</p>\n<p>Our police force is under serious pressure. Officers are having to plug the gap left by struggling court and mental health services. We have seen an erosion of front-line policing with the beat seemingly a thing of the past. &nbsp;</p>\n<p>I would resist further cuts to our critical police service in Suffolk, send a message to the government that people need police back on the ground, while seeking to ensure officers feel supported, resourced and valued to do the best job they can.</p>\n<p>I would stand up for vulnerable people including women suffering domestic violence and people of colour being targeted by stop and search. Finally, I would make environmental and wildlife crime a higher priority, protecting the unique local environment that I know we are passionate about here in Suffolk.</p>\n<p>A vote for me is a vote to tell central government that our hard-working police force need the funding and investment to keep us all safe.&nbsp;</p>\n<p>If you have any questions, you can contact me by email.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>Rachel Smith-Lyte's statement has been prepared by me, Marie Adams, Acorn Cottage, Kelsale, Saxmundham, Suffolk, IP17 2QY.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4451,
+        "emblem_image_id": 4959,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        64
+    ],
+    "political-party": [
+        361
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5749
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5749"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5749/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5749"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5749"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5749"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

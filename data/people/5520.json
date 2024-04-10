@@ -1,0 +1,124 @@
+{
+    "id": 5520,
+    "date": "2024-04-08T16:16:58",
+    "date_gmt": "2024-04-08T16:16:58",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//steve-turner-2/"
+    },
+    "modified": "2024-04-08T16:16:58",
+    "modified_gmt": "2024-04-08T16:16:58",
+    "slug": "steve-turner-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cleveland/steve-turner-2/",
+    "title": {
+        "rendered": "Steve Turner"
+    },
+    "content": {
+        "rendered": "<p>Leadership &ndash; Stability &ndash; Continuity &ndash; Results<br />&nbsp;<br />Three years ago, you elected me as your PCC in what was widely accepted to be the worst force in the country. The headlines then described the force as rudderless, clueless, and lacking both leadership and direction. It was a huge challenge and one I was pleased to accept.<br />&nbsp;<br />During my campaign I made several key promises and over the last three years I have delivered on all of them and overseen the dramatic transformation and improvement of the force under a Chief Constable I employed.<br />&nbsp;<br />&bull; We&rsquo;ve now been removed from special measures and vastly improved in all areas.<br />&nbsp;<br />&bull; We have 304 more officers than in 2019.<br />&nbsp;<br />&bull; We&rsquo;ve re introduced a district command structure and improved neighbourhood policing with a named officer for every ward.<br />&nbsp;<br />&bull; I secured &pound;3.5 million for our own violence reduction unit.<br />&nbsp;<br />&bull; I developed and delivered an online policing app, COPA. Its usage has helped contribute to the seizure and destruction of over 600 illegal bikes and quads in 2023.<br />&nbsp;<br />&bull; I introduced a new, independent, complaints system and we&rsquo;re the only force in the Country to achieve an accreditation for this model.<br />&nbsp;<br />&bull; I&rsquo;ve secured &pound;2 million for ASB hotspot patrols in every local authority.<br />&nbsp;<br />&bull; My team have funded &pound;2.4 million to combat domestic violence and support its victims.<br />&nbsp;<br />&bull; The force now has the highest arrest rate in England, a new Matrix unit and a dedicated drug squad.<br />&nbsp;<br />There&rsquo;s still more to do. With your support on May 2nd, I can continue to build on improvements we&rsquo;ve already achieved and, in the next four years, I will deliver a top tier force that we can all be proud of.</p>\n<p>Prepared by Curt Pugh on behalf of Steve Turner, both of 118 High Street, Redcar. TS10 3DH.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> steve4pcc@gmail.com  </p>\n<p>fb.com/Steve4PCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Leadership &ndash; Stability &ndash; Continuity &ndash; Results&nbsp;Three years ago, you elected me as your PCC in what was widely accepted to be the worst force in the country. The headlines then described the force as rudderless, clueless, and lacking both leadership and direction. It was a huge challenge and one I was pleased to accept.&nbsp;During [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Steve",
+        "surname": "Turner",
+        "phone": "",
+        "email": "steve4pcc@gmail.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>fb.com/Steve4PCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Steve",
+        "ballot_surname": "Turner",
+        "police_force": 36,
+        "party": "Conservative Candidate - More Police, Safer Streets",
+        "user": 0,
+        "statement": "<p>Leadership &ndash; Stability &ndash; Continuity &ndash; Results<br>&nbsp;<br>Three years ago, you elected me as your PCC in what was widely accepted to be the worst force in the country. The headlines then described the force as rudderless, clueless, and lacking both leadership and direction. It was a huge challenge and one I was pleased to accept.<br>&nbsp;<br>During my campaign I made several key promises and over the last three years I have delivered on all of them and overseen the dramatic transformation and improvement of the force under a Chief Constable I employed.<br>&nbsp;<br>&bull; We&rsquo;ve now been removed from special measures and vastly improved in all areas.<br>&nbsp;<br>&bull; We have 304 more officers than in 2019.<br>&nbsp;<br>&bull; We&rsquo;ve re introduced a district command structure and improved neighbourhood policing with a named officer for every ward.<br>&nbsp;<br>&bull; I secured &pound;3.5 million for our own violence reduction unit.<br>&nbsp;<br>&bull; I developed and delivered an online policing app, COPA. Its usage has helped contribute to the seizure and destruction of over 600 illegal bikes and quads in 2023.<br>&nbsp;<br>&bull; I introduced a new, independent, complaints system and we&rsquo;re the only force in the Country to achieve an accreditation for this model.<br>&nbsp;<br>&bull; I&rsquo;ve secured &pound;2 million for ASB hotspot patrols in every local authority.<br>&nbsp;<br>&bull; My team have funded &pound;2.4 million to combat domestic violence and support its victims.<br>&nbsp;<br>&bull; The force now has the highest arrest rate in England, a new Matrix unit and a dedicated drug squad.<br>&nbsp;<br>There&rsquo;s still more to do. With your support on May 2nd, I can continue to build on improvements we&rsquo;ve already achieved and, in the next four years, I will deliver a top tier force that we can all be proud of.</p>",
+        "agent_statement": "<p>Prepared by Curt Pugh on behalf of Steve Turner, both of 118 High Street, Redcar. TS10 3DH.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4587,
+        "emblem_image_id": 4671,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        36
+    ],
+    "political-party": [
+        363
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5520
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5520"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5520/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5520"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5520"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5520"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

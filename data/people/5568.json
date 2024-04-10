@@ -1,0 +1,124 @@
+{
+    "id": 5568,
+    "date": "2024-04-08T16:18:29",
+    "date_gmt": "2024-04-08T16:18:29",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//donna-cushing-2/"
+    },
+    "modified": "2024-04-08T16:18:29",
+    "modified_gmt": "2024-04-08T16:18:29",
+    "slug": "donna-cushing-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/gwent/donna-cushing-2/",
+    "title": {
+        "rendered": "Donna  Cushing"
+    },
+    "content": {
+        "rendered": "<p>My name is Donna Cushing and I am currently serving as a community and county Councillor with Caerphilly County Borough Council for the Hengoed and Cefn Hengoed ward.</p>\n<p>My father was a coal miner and my mother ran her own business.</p>\n<p>My working life consisted of primarily working for voluntary and a disability organisation.</p>\n<p>Along with my full time job I was instrumental in setting up a project on a Friday evening for young people in our community to alleviate antisocial behaviour that was prevalent in our community.</p>\n<p>Politics has always played an important part in our family and my background to politics has a long history, as my mother was cousin to Aneurin Bevan. &nbsp;I am very proud of my welsh heritage.</p>\n<p>I want to run for Police and Crime Commissioner to enhance the reputation of Gwent Police and act as a conduit between the Police and the public.&nbsp;</p>\n<p>My first action if elected would be to visit all departments and get the views of the front line staff. &nbsp;I&rsquo;d like to view their training regime and see if I can offer any insight into additional training.&nbsp;</p>\n<p>We all know what post pandemic has been like and there is a lot of mental health issues out in the community and as Police are, more often than not, first on scene and I feel they could do with a little more training in this area.</p>\n<p>I want to be the Commissioner that calls out any injustice and to be open and honest to the electorate and to the police itself.</p>\n<p>I confirm that I Teresa Elizabeth Parry of 1 Kingswood Close, Hengoed, Caerffili CF82 7LU am the acting Agent for Donna Cushing and have uploaded her statement in accordance with the requirements of this Election..</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07974796515 </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>My name is Donna Cushing and I am currently serving as a community and county Councillor with Caerphilly County Borough Council for the Hengoed and Cefn Hengoed ward. My father was a coal miner and my mother ran her own business. My working life consisted of primarily working for voluntary and a disability organisation. Along [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Donna ",
+        "surname": "Cushing",
+        "phone": "07974796515",
+        "email": "",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Donna ",
+        "ballot_surname": "Cushing",
+        "police_force": 46,
+        "party": "Plaid Cymru - The Party of Wales",
+        "user": 0,
+        "statement": "<p>My name is Donna Cushing and I am currently serving as a community and county Councillor with Caerphilly County Borough Council for the Hengoed and Cefn Hengoed ward.</p>\n<p>My father was a coal miner and my mother ran her own business.</p>\n<p>My working life consisted of primarily working for voluntary and a disability organisation.</p>\n<p>Along with my full time job I was instrumental in setting up a project on a Friday evening for young people in our community to alleviate antisocial behaviour that was prevalent in our community.</p>\n<p>Politics has always played an important part in our family and my background to politics has a long history, as my mother was cousin to Aneurin Bevan. &nbsp;I am very proud of my welsh heritage.</p>\n<p>I want to run for Police and Crime Commissioner to enhance the reputation of Gwent Police and act as a conduit between the Police and the public.&nbsp;</p>\n<p>My first action if elected would be to visit all departments and get the views of the front line staff. &nbsp;I&rsquo;d like to view their training regime and see if I can offer any insight into additional training.&nbsp;</p>\n<p>We all know what post pandemic has been like and there is a lot of mental health issues out in the community and as Police are, more often than not, first on scene and I feel they could do with a little more training in this area.</p>\n<p>I want to be the Commissioner that calls out any injustice and to be open and honest to the electorate and to the police itself.</p>",
+        "agent_statement": "<p>I confirm that I Teresa Elizabeth Parry of 1 Kingswood Close, Hengoed, Caerffili CF82 7LU am the acting Agent for Donna Cushing and have uploaded her statement in accordance with the requirements of this Election..</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "<p>Cadarnhhaf fy mod i Teresa Parry o 1 Kingswood Close, Hengoed, Caerffili CF82 7LU fel asiant dos dro Donna Cushing ac rwy wedi uwchlwytho ei datganiad yn unol a gofynion yr Etholiad hwn.</p>",
+        "candidate_image_id": 4829,
+        "emblem_image_id": 4830,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        46
+    ],
+    "political-party": [
+        14
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5568
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5568"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5568/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5568"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5568"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5568"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

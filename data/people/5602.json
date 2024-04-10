@@ -1,0 +1,130 @@
+{
+    "id": 5602,
+    "date": "2024-04-08T16:19:32",
+    "date_gmt": "2024-04-08T16:19:32",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//richard-andrew-overton-2/"
+    },
+    "modified": "2024-04-09T14:58:20",
+    "modified_gmt": "2024-04-09T14:58:20",
+    "slug": "richard-andrew-overton-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/west-mercia/richard-andrew-overton-2/",
+    "title": {
+        "rendered": "Richard Andrew Overton"
+    },
+    "content": {
+        "rendered": "<p><strong>Telford born, raised and educated, Richard manages a community hub and volunteers as a UEFA C Football coach.</strong></p>\n<p>Richard\u2019s priorities include investing in community policing, combating violence against women &amp; girls and domestic abuse, tackling violent crime, including knife crime and supporting projects that stop young people from becoming victims of crime, criminal exploitation or offenders.</p>\n<p>As an elected councillor Richard has a record of action for residents: tackling rogue landlords, reducing anti-social behaviour and taking on the fly-tippers.</p>\n<p>Richard will be a highly visible commissioner working with communities on local plans to focus police efforts on residents\u2019 issues. Richard is keen to work with communities in creating his police and crime plan.</p>\n<p>For too long people have felt let down by the lack of visible police officers on our streets, and the time taken to respond to calls to 101 and 999, Victims feel let down and not supported. It\u2019s time to take back our streets.</p>\n<p><strong>Richard has 5 key pledges:</strong></p>\n<ul>\n<li>Focus on the prevention and detection of crime and support for victims</li>\n<li>A complete review across the force area to put \u2018more bobbies on the beat\u2019</li>\n<li>Action to prevent and prosecute violence against women and girls</li>\n<li>A community lead action plan for each neighbourhood to tackle drugs, shoplifting, speeding and rural crime</li>\n<li>New rapid response teams to hit anti-social behaviour and crime hotspots</li>\n</ul>\n<p>Only Labour will punish criminals, protect victims and prevent crime.</p>\n<p>Promoted and prepared by Alexander Latham-Reynolds on behalf of Richard Overton both at Telford Labour, PO Box 371, Telford, TF1 9FF</p>\n<p><strong>Contact Details</strong></p>\n<p>07592150607</p>\n<p><span>https://labour.org.uk/missions/safe-streets/</span></p>\n<p>Richard_Overton@labour.org.uk</p>\n<p>https://www.facebook.com/rich4stgeorges</p>\n<p><span>https://twitter.com/Rich4StGeorges</span></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Telford born, raised and educated, Richard manages a community hub and volunteers as a UEFA C Football coach. Richard\u2019s priorities include investing in community policing, combating violence against women &amp; girls and domestic abuse, tackling violent crime, including knife crime and supporting projects that stop young people from becoming victims of crime, criminal exploitation or [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Richard Andrew",
+        "surname": "Overton",
+        "phone": "07592150607",
+        "email": "Richard_Overton@labour.org.uk",
+        "email_welsh": "",
+        "website": "https://labour.org.uk/missions/safe-streets/",
+        "website_welsh": "",
+        "social_media": "<p>https://www.facebook.com/rich4stgeorges</p>\n<p>https://twitter.com/Rich4StGeorges</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Richard Andrew",
+        "ballot_surname": "Overton",
+        "police_force": 69,
+        "party": "Labour and Co-operative Party Candidate",
+        "user": 0,
+        "statement": "<p><strong>Telford born, raised and educated, Richard manages a community hub and volunteers as a UEFA C Football coach.</strong></p>\n<p>Richard&rsquo;s priorities include investing in community policing, combating violence against women &amp; girls and domestic abuse, tackling violent crime, including knife crime and supporting projects that stop young people from becoming victims of crime, criminal exploitation or offenders.</p>\n<p>As an elected councillor Richard has a record of action for residents: tackling rogue landlords, reducing anti-social behaviour and taking on the fly-tippers.&nbsp;</p>\n<p>Richard will be a highly visible commissioner working with communities on local plans to focus police efforts on residents&rsquo; issues. Richard is keen to work with communities in creating his police and crime plan.</p>\n<p>For too long people have felt let down by the lack of visible police officers on our streets, and the time taken to respond to calls to 101 and 999, Victims feel let down and not supported. It&rsquo;s time to take back our streets.&nbsp;</p>\n<p><strong>Richard has 5 key pledges:</strong></p>\n<ul>\n<li>Focus on the prevention and detection of crime and support for victims</li>\n<li>A complete review across the force area to put &lsquo;more bobbies on the beat&rsquo;</li>\n<li>Action to prevent and prosecute violence against women and girls</li>\n<li>A community lead action plan for each neighbourhood to tackle drugs, shoplifting, speeding and rural crime</li>\n<li>New rapid response teams to hit anti-social behaviour and crime hotspots</li>\n</ul>\n<p>Only Labour will punish criminals, protect victims and prevent crime.</p>",
+        "agent_statement": "<p>Promoted and prepared by Alexander Latham-Reynolds on behalf of Richard Overton both at Telford Labour, PO Box 371, Telford, TF1 9FF</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5043,
+        "emblem_image_id": 5045,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        69
+    ],
+    "political-party": [
+        373
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5602
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5602"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5602/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5922,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5602/revisions/5922"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5602"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5602"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5602"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 5755,
+    "date": "2024-04-08T16:24:34",
+    "date_gmt": "2024-04-08T16:24:34",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//simon-orourke-2/"
+    },
+    "modified": "2024-04-08T16:24:34",
+    "modified_gmt": "2024-04-08T16:24:34",
+    "slug": "simon-orourke-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/humberside/simon-orourke-2/",
+    "title": {
+        "rendered": "Simon O&#8217;Rourke"
+    },
+    "content": {
+        "rendered": "<p>Simon O&#8217;Rourke is deeply rooted in our community and has a long-term plan to make sure you feel safer and more secure, wherever you live North or South of the Humber.&nbsp;</p>\n<p>As Chair of Scunthorpe Victim Support, Simon dedicated himself to speaking out for the victims and survivors of crime. Understanding the profound and lasting effects that crime can have on an individual, families and on the wider neighbourhoods, he is determined that your voice is heard.</p>\n<p>Simon raised his children in our area and is passionate about the safety of all of us. With your support, he is confident that we can build an area that is fit for generations to come.</p>\n<p>Simon&#8217;s long-term plan:</p>\n<p><strong>Crack Down on Antisocial Behaviour.</strong></p>\n<p>I will work with local communities to develop a strong anti-social behaviour plan to tackle trouble-maker&#8217;s behaviour and work with every local council in the Humberside Policing area.</p>\n<p><strong>Tackle Fly-Tippers.</strong></p>\n<p>I will establish clean-up squads to ensure offenders clear up the litter and vandalism they are responsible for.</p>\n<p><strong>Improve Response to Rural Crime.</strong></p>\n<p>I will increase patrols to reduce the theft of agricultural equipment, hare coursing and make our rural communities feel safe and valued.</p>\n<p><strong>Make the Office for Police and Crime Commissioner Accessible for All.</strong></p>\n<p>I will stand up for victims, survivors and the wider community ensuring that the office of the Police and Crime Commissioner is accessible across the whole of the Humberside policing area.</p>\n<p><strong>Raise Confidence in Humberside Police.</strong></p>\n<p>I will ensure mandatory patrols of town centres by dedicated officers and raise standards through comprehensive training, rigorous vetting procedures and tackling misconduct head on.</p>\n<p>Produced by Lara Chaplin, Agent for Simon O&#8217;Rourke: Labour and Cooperative Party candidate for the Humberside Police Force, Humberside Police and Crime Commissioner post. The Stables, Washinghall Lane, Eastoft, Scunthorpe, DN17 4PY.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07821300412 </p>\n<p> https://Simon4Labour.com </p>\n<p> simon4labour@outlook.com  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Simon O&#8217;Rourke is deeply rooted in our community and has a long-term plan to make sure you feel safer and more secure, wherever you live North or South of the Humber.&nbsp; As Chair of Scunthorpe Victim Support, Simon dedicated himself to speaking out for the victims and survivors of crime. Understanding the profound and lasting [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Simon",
+        "surname": "O'Rourke",
+        "phone": "07821300412",
+        "email": "simon4labour@outlook.com",
+        "email_welsh": "",
+        "website": "https://Simon4Labour.com",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Simon",
+        "ballot_surname": "O'Rourke",
+        "police_force": 49,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>Simon O'Rourke is deeply rooted in our community and has a long-term plan to make sure you feel safer and more secure, wherever you live North or South of the Humber.&nbsp;</p>\n<p>As Chair of Scunthorpe Victim Support, Simon dedicated himself to speaking out for the victims and survivors of crime. Understanding the profound and lasting effects that crime can have on an individual, families and on the wider neighbourhoods, he is determined that your voice is heard.</p>\n<p>Simon raised his children in our area and is passionate about the safety of all of us. With your support, he is confident that we can build an area that is fit for generations to come.</p>\n<p>Simon's long-term plan:</p>\n<p><strong>Crack Down on Antisocial Behaviour.</strong></p>\n<p>I will work with local communities to develop a strong anti-social behaviour plan to tackle trouble-maker's behaviour and work with every local council in the Humberside Policing area.</p>\n<p><strong>Tackle Fly-Tippers.</strong></p>\n<p>I will establish clean-up squads to ensure offenders clear up the litter and vandalism they are responsible for.</p>\n<p><strong>Improve Response to Rural Crime.</strong></p>\n<p>I will increase patrols to reduce the theft of agricultural equipment, hare coursing and make our rural communities feel safe and valued.</p>\n<p><strong>Make the Office for Police and Crime Commissioner Accessible for All.</strong></p>\n<p>I will stand up for victims, survivors and the wider community ensuring that the office of the Police and Crime Commissioner is accessible across the whole of the Humberside policing area.</p>\n<p><strong>Raise Confidence in Humberside Police.</strong></p>\n<p>I will ensure mandatory patrols of town centres by dedicated officers and raise standards through comprehensive training, rigorous vetting procedures and tackling misconduct head on.</p>",
+        "agent_statement": "<p>Produced by Lara Chaplin, Agent for Simon O'Rourke: Labour and Cooperative Party candidate for the Humberside Police Force, Humberside Police and Crime Commissioner post. The Stables, Washinghall Lane, Eastoft, Scunthorpe, DN17 4PY.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5429,
+        "emblem_image_id": 5430,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        49
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5755
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5755"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5755/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5755"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5755"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5755"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

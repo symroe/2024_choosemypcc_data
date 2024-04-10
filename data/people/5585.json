@@ -1,0 +1,124 @@
+{
+    "id": 5585,
+    "date": "2024-04-08T16:19:02",
+    "date_gmt": "2024-04-08T16:19:02",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//emily-spurrell-2/"
+    },
+    "modified": "2024-04-08T16:19:02",
+    "modified_gmt": "2024-04-08T16:19:02",
+    "slug": "emily-spurrell-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/merseyside/emily-spurrell-2/",
+    "title": {
+        "rendered": "Emily Spurrell"
+    },
+    "content": {
+        "rendered": "<p>I was incredibly proud to be elected PCC and have worked tirelessly to be a strong voice for our region. In the last 3 years I have delivered &pound;14 million additional funding for victims and crime prevention, launched the new Victim Care hub, invested &pound;350,000 in opportunities for young people and developed a partnership strategy to tackle violence against women and girls.</p>\n<p>Despite promises of extra police officer numbers from the Tory Government, Merseyside remains 450 officers short of the number we had in 2010. I&rsquo;ll continue to demand better for our residents.</p>\n<p>But even against these challenges, we have seen knife crime and serious violence reduce. We continue to make progress to rid our streets of organised criminal gangs and tackle the anti-social behaviour that causes misery in our communities. But, there&rsquo;s still more to do.</p>\n<p>If re-elected I&rsquo;ll continue to invest in our communities, creating vital opportunities for thousands of young people, all focused on diverting them away from crime and anti-social behaviour. I&rsquo;ll put victims at the heart of the work I do and support the incredible work of our community and voluntary sector across Merseyside, who provide vital support for victims of crime.</p>\n<p>I will make road safety a key priority to reduce the needless deaths and injuries that occur every year on our roads. I will focus on addressing the underlying causes of crime and work to prevent it from happening in the first place.</p>\n<p>And through my scrutiny programme, I will see that Merseyside Police deliver the best service to the people of Merseyside, ensure offenders face justice, and officers and staff uphold the highest standards.</p>\n<p>Promoted by Daniel Barrington on behalf of Emily Spurrell both at at Labour North West, Rutherford House, Warrington Road, WA3 6ZH.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.emily4merseyside.com </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I was incredibly proud to be elected PCC and have worked tirelessly to be a strong voice for our region. In the last 3 years I have delivered &pound;14 million additional funding for victims and crime prevention, launched the new Victim Care hub, invested &pound;350,000 in opportunities for young people and developed a partnership strategy [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Emily",
+        "surname": "Spurrell",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.emily4merseyside.com",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Emily",
+        "ballot_surname": "Spurrell",
+        "police_force": 54,
+        "party": "Labour and Co-operative Party",
+        "user": 0,
+        "statement": "<p>I was incredibly proud to be elected PCC and have worked tirelessly to be a strong voice for our region. In the last 3 years I have delivered &pound;14 million additional funding for victims and crime prevention, launched the new Victim Care hub, invested &pound;350,000 in opportunities for young people and developed a partnership strategy to tackle violence against women and girls.</p>\n<p>Despite promises of extra police officer numbers from the Tory Government, Merseyside remains 450 officers short of the number we had in 2010. I&rsquo;ll continue to demand better for our residents.</p>\n<p>But even against these challenges, we have seen knife crime and serious violence reduce. We continue to make progress to rid our streets of organised criminal gangs and tackle the anti-social behaviour that causes misery in our communities. But, there&rsquo;s still more to do.</p>\n<p>If re-elected I&rsquo;ll continue to invest in our communities, creating vital opportunities for thousands of young people, all focused on diverting them away from crime and anti-social behaviour. I&rsquo;ll put victims at the heart of the work I do and support the incredible work of our community and voluntary sector across Merseyside, who provide vital support for victims of crime.</p>\n<p>I will make road safety a key priority to reduce the needless deaths and injuries that occur every year on our roads. I will focus on addressing the underlying causes of crime and work to prevent it from happening in the first place.</p>\n<p>And through my scrutiny programme, I will see that Merseyside Police deliver the best service to the people of Merseyside, ensure offenders face justice, and officers and staff uphold the highest standards.</p>",
+        "agent_statement": "<p>Promoted by Daniel Barrington on behalf of Emily Spurrell both at at Labour North West, Rutherford House, Warrington Road, WA3 6ZH.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4887,
+        "emblem_image_id": 4888,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        54
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5585
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5585"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5585/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5585"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5585"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5585"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

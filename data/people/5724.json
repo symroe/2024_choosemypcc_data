@@ -1,0 +1,124 @@
+{
+    "id": 5724,
+    "date": "2024-04-08T16:23:37",
+    "date_gmt": "2024-04-08T16:23:37",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//waheed-akbar-2/"
+    },
+    "modified": "2024-04-08T16:23:37",
+    "modified_gmt": "2024-04-08T16:23:37",
+    "slug": "waheed-akbar-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/bedfordshire/waheed-akbar-2/",
+    "title": {
+        "rendered": "Waheed Akbar"
+    },
+    "content": {
+        "rendered": "<p>I&#8217;ve resided in Bedfordshire for 38 years and been actively engaged in the community for 33 years, during these years I&#8217;ve established strong relationships with local councillors, MPs, Ministers, and other various agencies. As your Police and Crime Commissioner, I&#8217;d further leverage my skills and connections to enhance crime prevention and community safety initiatives by fostering partnerships and cooperation between the police force and other agencies.</p>\n<p>My extensive experience as a councillor for 24 years, Mayor, and cabinet member for Social Services, Education, Children Services, Housing, and Environment has equipped me with the skills needed to provide strategic direction, oversee budget allocation, and hold the Chief Constable accountable for the performance of the police force. My current role in Child Protection showcases my dedication to public service and protecting vulnerable members of the community, aligning closely with the PCC&#8217;s responsibility to ensure the safety and security of all residents.&nbsp;</p>\n<p>My experience as a parent highlights the vital role of safety in our community. With a profound commitment to community welfare and extensive governance involvement, I&rsquo;m uniquely prepared to address crime challenges as your PCC. Additionally, my role on the Safer Luton Partnership Board has bolstered local crime prevention efforts. The honorary doctorate I received from the University of Bedfordshire in 2011 recognises my community contributions and underscores my dedication to serving, making me the ideal candidate for your elected PCC</p>\n<p>My pledge as your PCC is to tackle the pressing issues of rising knife crime, drug-related offenses, burglaries, domestic violence, and gang culture in Bedfordshire. I&rsquo;ll ensure that resources are allocated prudently to effectively address these challenges and enhance community safety. Together, we can make Bedfordshire a safer place for all residents.</p>\n<p>Prepared by Shafiq Ahmed, 33 Compton Avenue, Luton, Beds, LU4 9AX</p>\n<p> <Strong>Contact Details</Strong></p>\n<p>  07956658559 </p>\n<p> Waheedakbar1@yahoo.co.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I&#8217;ve resided in Bedfordshire for 38 years and been actively engaged in the community for 33 years, during these years I&#8217;ve established strong relationships with local councillors, MPs, Ministers, and other various agencies. As your Police and Crime Commissioner, I&#8217;d further leverage my skills and connections to enhance crime prevention and community safety initiatives by [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Waheed",
+        "surname": "Akbar",
+        "phone": "07956658559",
+        "email": "Waheedakbar1@yahoo.co.uk",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Waheed",
+        "ballot_surname": "Akbar",
+        "police_force": 33,
+        "party": "Workers Party",
+        "user": 0,
+        "statement": "<p>I've resided in Bedfordshire for 38 years and been actively engaged in the community for 33 years, during these years I've established strong relationships with local councillors, MPs, Ministers, and other various agencies. As your Police and Crime Commissioner, I'd further leverage my skills and connections to enhance crime prevention and community safety initiatives by fostering partnerships and cooperation between the police force and other agencies.</p>\n<p>My extensive experience as a councillor for 24 years, Mayor, and cabinet member for Social Services, Education, Children Services, Housing, and Environment has equipped me with the skills needed to provide strategic direction, oversee budget allocation, and hold the Chief Constable accountable for the performance of the police force. My current role in Child Protection showcases my dedication to public service and protecting vulnerable members of the community, aligning closely with the PCC's responsibility to ensure the safety and security of all residents.&nbsp;</p>\n<p>My experience as a parent highlights the vital role of safety in our community. With a profound commitment to community welfare and extensive governance involvement, I&rsquo;m uniquely prepared to address crime challenges as your PCC. Additionally, my role on the Safer Luton Partnership Board has bolstered local crime prevention efforts. The honorary doctorate I received from the University of Bedfordshire in 2011 recognises my community contributions and underscores my dedication to serving, making me the ideal candidate for your elected PCC</p>\n<p>My pledge as your PCC is to tackle the pressing issues of rising knife crime, drug-related offenses, burglaries, domestic violence, and gang culture in Bedfordshire. I&rsquo;ll ensure that resources are allocated prudently to effectively address these challenges and enhance community safety. Together, we can make Bedfordshire a safer place for all residents.</p>",
+        "agent_statement": "<p>Prepared by Shafiq Ahmed, 33 Compton Avenue, Luton, Beds, LU4 9AX</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5306,
+        "emblem_image_id": 5307,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        33
+    ],
+    "political-party": [
+        380
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5724
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5724"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5724/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5724"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5724"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5724"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

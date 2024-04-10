@@ -1,0 +1,124 @@
+{
+    "id": 5522,
+    "date": "2024-04-08T16:17:02",
+    "date_gmt": "2024-04-08T16:17:02",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//matt-storey-2/"
+    },
+    "modified": "2024-04-08T16:17:02",
+    "modified_gmt": "2024-04-08T16:17:02",
+    "slug": "matt-storey-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/cleveland/matt-storey-2/",
+    "title": {
+        "rendered": "Matt Storey"
+    },
+    "content": {
+        "rendered": "<p>The people of Middlesbrough, Stockton, Hartlepool and Redcar &amp; Cleveland deserve a police force that they can be proud of and that works for them.</p>\n<p>Under a Conservative government, Cleveland has the highest crime rate in the country. It is time for change with Labour.</p>\n<p>As your Police and Crime Commissioner I pledge that I will:</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Give every community a named police officer</strong> as part of my plan to bring back community policing on our streets</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Fund domestic abuse support workers</strong> to work directly with police officers to support victims and increase domestic abuse prosecutions</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Set up a Retail Crime strategy to protect shop workers from assault</strong> and tackle the organised gangs that steal from our High Streets</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Get rough sleepers off our streets</strong> and into permanent housing alongside providing drug treatment and mental health support</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Always act with integrity in the office of the Police and Crime Commissioner </strong>by always following the Nolan principles of public life. Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty and Leadership.</p>\n<p>&nbsp;</p>\n<p>This statement was prepared on behalf of Matthew Storey by Paul Rowling at 22 Smelters Court, Stockton-on-Tees, TS18 2GG.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> mattforpcc@outlook.com  </p>\n<p>Facebook: Matt Storey for Police and Crime Commissioner</p>\n<p>X: MattForPCC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The people of Middlesbrough, Stockton, Hartlepool and Redcar &amp; Cleveland deserve a police force that they can be proud of and that works for them. Under a Conservative government, Cleveland has the highest crime rate in the country. It is time for change with Labour. As your Police and Crime Commissioner I pledge that I [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Matt",
+        "surname": "Storey",
+        "phone": "",
+        "email": "mattforpcc@outlook.com",
+        "email_welsh": "",
+        "website": "",
+        "website_welsh": "",
+        "social_media": "<p>Facebook: Matt Storey for Police and Crime Commissioner</p>\n<p>X: MattForPCC</p>",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Matt",
+        "ballot_surname": "Storey",
+        "police_force": 36,
+        "party": "Labour and Co-operative Party ",
+        "user": 0,
+        "statement": "<p>The people of Middlesbrough, Stockton, Hartlepool and Redcar &amp; Cleveland deserve a police force that they can be proud of and that works for them.</p>\n<p>Under a Conservative government, Cleveland has the highest crime rate in the country. It is time for change with Labour.</p>\n<p>As your Police and Crime Commissioner I pledge that I will:</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Give every community a named police officer</strong> as part of my plan to bring back community policing on our streets</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Fund domestic abuse support workers</strong> to work directly with police officers to support victims and increase domestic abuse prosecutions</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Set up a Retail Crime strategy to protect shop workers from assault</strong> and tackle the organised gangs that steal from our High Streets</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Get rough sleepers off our streets</strong> and into permanent housing alongside providing drug treatment and mental health support</p>\n<p>&middot; &nbsp; &nbsp; &nbsp; <strong>Always act with integrity in the office of the Police and Crime Commissioner </strong>by always following the Nolan principles of public life. Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty and Leadership.</p>\n<p>&nbsp;</p>",
+        "agent_statement": "<p>This statement was prepared on behalf of Matthew Storey by Paul Rowling at 22 Smelters Court, Stockton-on-Tees, TS18 2GG.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 4660,
+        "emblem_image_id": 4661,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        36
+    ],
+    "political-party": [
+        230
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5522
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5522"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5522/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5522"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5522"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5522"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

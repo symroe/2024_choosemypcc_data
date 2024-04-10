@@ -1,0 +1,124 @@
+{
+    "id": 5667,
+    "date": "2024-04-08T16:21:44",
+    "date_gmt": "2024-04-08T16:21:44",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//benet-allen-2/"
+    },
+    "modified": "2024-04-08T16:21:44",
+    "modified_gmt": "2024-04-08T16:21:44",
+    "slug": "benet-allen-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/avon-and-somerset/benet-allen-2/",
+    "title": {
+        "rendered": "Benet Allen"
+    },
+    "content": {
+        "rendered": "<p>I was born in Taunton, and returned to the area in 2014 after a career in TV News to live with Sally and our lovely Democratic Dogs. Formerly Deputy Leader of Somerset West and Taunton Council, a leading light in the local Male Voice Choir and involved with local charity fundraisers for Musgrove Park Hospital, I am familiar with the place where I live and make it a priority to understand the issues and concerns of people living there.</p>\n<p>The Liberal Democrats understand that there&#8217;s more to solving crime than &#8216;looking tough&#8217;. We&#8217;re offering a programme based on care across all government agencies to give young people a better start than a life of crime. Policing is about priorities, and there are no quick fixes. Promises are too easy to make, and too easy to break. It&#8217;s going to take a long, dedicated effort to get the best out of our police, and to repair relations with the community. Every crime matters, and we need to focus on &#8216;broken windows&#8217; &ndash; small crimes that damage confidence and trust, but also work on improving prosecution rates for serious and violent crime. At the same time, we need to fix the police. The recent documentary series &#8216;To Catch a Copper&#8217; and many violent crimes by serving officers that you&#8217;ve seen on the news, are signs that all is not well with the police. We need an end to the climate of complacency. It&#8217;s time for change!</p>\n<p>Prepared by the election agent, Fergus Ustianowski, Liberal Democrats, at 83 Staplegrove Road, Taunton, TA1 1DN.</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.bhblibdems.org.uk/benet-for-pcc </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>I was born in Taunton, and returned to the area in 2014 after a career in TV News to live with Sally and our lovely Democratic Dogs. Formerly Deputy Leader of Somerset West and Taunton Council, a leading light in the local Male Voice Choir and involved with local charity fundraisers for Musgrove Park Hospital, [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Benet",
+        "surname": "Allen",
+        "phone": "",
+        "email": "",
+        "email_welsh": "",
+        "website": "https://www.bhblibdems.org.uk/benet-for-pcc",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Benet",
+        "ballot_surname": "Allen",
+        "police_force": 32,
+        "party": "Liberal Democrats",
+        "user": 0,
+        "statement": "<p>I was born in Taunton, and returned to the area in 2014 after a career in TV News to live with Sally and our lovely Democratic Dogs. Formerly Deputy Leader of Somerset West and Taunton Council, a leading light in the local Male Voice Choir and involved with local charity fundraisers for Musgrove Park Hospital, I am familiar with the place where I live and make it a priority to understand the issues and concerns of people living there.</p>\n<p>The Liberal Democrats understand that there's more to solving crime than 'looking tough'. We're offering a programme based on care across all government agencies to give young people a better start than a life of crime. Policing is about priorities, and there are no quick fixes. Promises are too easy to make, and too easy to break. It's going to take a long, dedicated effort to get the best out of our police, and to repair relations with the community. Every crime matters, and we need to focus on 'broken windows' &ndash; small crimes that damage confidence and trust, but also work on improving prosecution rates for serious and violent crime. At the same time, we need to fix the police. The recent documentary series 'To Catch a Copper' and many violent crimes by serving officers that you've seen on the news, are signs that all is not well with the police. We need an end to the climate of complacency. It's time for change!</p>",
+        "agent_statement": "<p>Prepared by the election agent, Fergus Ustianowski, Liberal Democrats, at 83 Staplegrove Road, Taunton, TA1 1DN.</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 5339,
+        "emblem_image_id": 5327,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        32
+    ],
+    "political-party": [
+        360
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5667
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5667"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5667/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5667"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5667"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5667"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 5603,
+    "date": "2024-04-08T16:19:36",
+    "date_gmt": "2024-04-08T16:19:36",
+    "guid": {
+        "rendered": "https://choosemypcc.org.uk/candidates//kieron-anthony-franks-2/"
+    },
+    "modified": "2024-04-08T16:19:36",
+    "modified_gmt": "2024-04-08T16:19:36",
+    "slug": "kieron-anthony-franks-2",
+    "status": "publish",
+    "type": "candidate",
+    "link": "https://choosemypcc.org.uk/candidates/essex/kieron-anthony-franks-2/",
+    "title": {
+        "rendered": "Kieron Anthony Franks"
+    },
+    "content": {
+        "rendered": "<p>People in Essex feel significantly less safe than people in England as a whole (Essex County Council data). Nearly half of women and over two-thirds of people aged 18-25 don&rsquo;t feel safe in Essex after dark. Too many people feel they aren&rsquo;t listened to when they report things to the police and that nothing gets investigated when they report thefts and vandalism.</p>\n<p><strong>I will push for Essex Police to tackle the crimes that affect people&rsquo;s lives and work with partners to tackle the root causes of crime, such as insecure housing and poor support for our most vulnerable residents. As a Liberal Democrat I am campaigning to fund youth services properly so that we can work with young people to set them on the right path.</strong></p>\n<p>The Liberal Democrats have a track record of making Essex safer for women, such as the pioneering Women&rsquo;s Safety Charter by Lib Dem-led Chelmsford City Council. I want the opportunity to build on initiatives like this.</p>\n<p>Rural crime and community policing desperately need more attention. Only 0.1% of police in England and Wales are dedicated to rural crime teams. Essex&rsquo;s team has only 11 officers which is simply not enough for our needs. Local communities across the county are crying out for more community-focused policing. I am committed to increasing the number of community-based officers, including appropriately trained officers for rural communities.</p>\n<p>Our emergency services work hard to protect our lives and wellbeing but they simply aren&#8217;t given the resources they need. I will hold the Government to account, advocate for proper funding and give a voice to all Essex residents.</p>\n<p><strong>Vote Liberal Democrat on 2nd May 2024 for policing and fire services that work for everyone.</strong></p>\n<p>Prepared by J Whitehouse 7 St Johns Road Epping CM16 5DN</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.essexlibdems.org.uk </p>\n<p> kieron.franks@essexlibdems.org.uk  </p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>People in Essex feel significantly less safe than people in England as a whole (Essex County Council data). Nearly half of women and over two-thirds of people aged 18-25 don&rsquo;t feel safe in Essex after dark. Too many people feel they aren&rsquo;t listened to when they report things to the police and that nothing gets [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 341,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "forenames": "Kieron Anthony",
+        "surname": "Franks",
+        "phone": "",
+        "email": "kieron.franks@essexlibdems.org.uk",
+        "email_welsh": "",
+        "website": "https://www.essexlibdems.org.uk",
+        "website_welsh": "",
+        "social_media": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "city": "",
+        "postcode": "",
+        "ballot_forenames": "Kieron Anthony",
+        "ballot_surname": "Franks",
+        "police_force": 43,
+        "party": "Liberal Democrat",
+        "user": 0,
+        "statement": "<p>People in Essex feel significantly less safe than people in England as a whole (Essex County Council data). Nearly half of women and over two-thirds of people aged 18-25 don&rsquo;t feel safe in Essex after dark. Too many people feel they aren&rsquo;t listened to when they report things to the police and that nothing gets investigated when they report thefts and vandalism.</p>\n<p><strong>I will push for Essex Police to tackle the crimes that affect people&rsquo;s lives and work with partners to tackle the root causes of crime, such as insecure housing and poor support for our most vulnerable residents. As a Liberal Democrat I am campaigning to fund youth services properly so that we can work with young people to set them on the right path.</strong></p>\n<p>The Liberal Democrats have a track record of making Essex safer for women, such as the pioneering Women&rsquo;s Safety Charter by Lib Dem-led Chelmsford City Council. I want the opportunity to build on initiatives like this.</p>\n<p>Rural crime and community policing desperately need more attention. Only 0.1% of police in England and Wales are dedicated to rural crime teams. Essex&rsquo;s team has only 11 officers which is simply not enough for our needs. Local communities across the county are crying out for more community-focused policing. I am committed to increasing the number of community-based officers, including appropriately trained officers for rural communities.</p>\n<p>Our emergency services work hard to protect our lives and wellbeing but they simply aren't given the resources they need. I will hold the Government to account, advocate for proper funding and give a voice to all Essex residents.</p>\n<p><strong>Vote Liberal Democrat on 2nd May 2024 for policing and fire services that work for everyone.</strong></p>",
+        "agent_statement": "<p>Prepared by J Whitehouse 7 St Johns Road Epping CM16 5DN</p>",
+        "statement_welsh": "",
+        "agent_statement_welsh": "",
+        "candidate_image_id": 0,
+        "emblem_image_id": 5113,
+        "rejection_reason": "",
+        "published_id": 0,
+        "pca_managed": true
+    },
+    "area": [
+        43
+    ],
+    "political-party": [
+        12
+    ],
+    "acf": [],
+    "translations": {
+        "en": 5603
+    },
+    "lang": "en",
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5603"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/types/candidate"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/users/341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5603/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/media?parent=5603"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "area",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/area?post=5603"
+            },
+            {
+                "taxonomy": "political-party",
+                "embeddable": true,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/political-party?post=5603"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
