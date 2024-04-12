@@ -5,8 +5,8 @@
     "guid": {
         "rendered": "https://choosemypcc.org.uk/candidates//ben-holden-crowther-2/"
     },
-    "modified": "2024-04-08T16:21:15",
-    "modified_gmt": "2024-04-08T16:21:15",
+    "modified": "2024-04-11T20:57:30",
+    "modified_gmt": "2024-04-11T20:57:30",
     "slug": "ben-holden-crowther-2",
     "status": "publish",
     "type": "candidate",
@@ -15,11 +15,11 @@
         "rendered": "Ben Holden-Crowther"
     },
     "content": {
-        "rendered": "<p><strong>More Police Officers for Thames Valley</strong> &mdash; is an independent democratic initiative, backed by local people, with the goal of improving your police force in the Thames Valley.</p>\n<ul>\n<li><strong>More police officers for YOUR LOCAL AREA\n<p></strong>We simply do not have enough police officers in the Thames Valley, meaning that relatively serious crimes such as shoplifting and burglary are being routinely overlooked. Money being wasted in other areas needs to be urgently directed towards strong local policing for your area.</li>\n<li><strong>Stop wasting YOUR TAXES</strong>\n<p>The Office of the Police and Crime Commissioner spends almost &pound;2 million annually on around 40 members of staff. We will ensure financial prudence and greatly reduce wasteful office expenditure (including the &pound;18,000 recently spent on a pointless website rebranding).</li>\n<li><strong>Keep POLITICS out of OUR POLICE</strong>\n<p>Considering the current state of our police force, it&#8217;s clear that short-term focused political parties should not be tasked with setting the policing priorities for our local area. Your vote for our independent local candidate will help us wrestle back control of policing from inept and uninspiring politicians.</li>\n<li><strong>Don&#8217;t throw away YOUR VOTE</strong>\n<p>In the last election for Police and Crime Commissioner, the turnout in the Thames Valley was just 35.8%, meaning that 1,173,265 people in our area lost their opportunity to vote at this really important election. By voting for More Police Officers for Thames Valley, you can show that you care about making our local area a safer place to live.</li>\n</ul>\n<p>Our official website &mdash; <strong>https://www.morepolice.uk</strong> &mdash; provides more information on our plan for improving policing in the Thames Valley.</p>\n<p>[ <strong>X</strong> ]<strong> </strong>&mdash;<strong> Vote for Ben Holden-Crowther on 2nd May 2024 </strong>&mdash; <br /><strong>for a more efficient and more effective Thames Valley Police.</strong></p>\n<p>Prepared by Ben Holden-Crowther of 400 Thames Valley Park Drive, Reading, RG6 1PT</p>\n<p> <Strong>Contact Details</Strong></p>\n",
+        "rendered": "<p><strong>More Police Officers for Thames Valley</strong> \u2014 is an independent democratic initiative, backed by local people, with the goal of improving your police force in the Thames Valley.</p>\n<ul>\n<li><strong>More police officers for YOUR LOCAL AREA\n<p></strong>We simply do not have enough police officers in the Thames Valley, meaning that relatively serious crimes such as shoplifting and burglary are being routinely overlooked. Money being wasted in other areas needs to be urgently directed towards strong local policing for your area.</li>\n<li><strong>Stop wasting YOUR TAXES</strong>\n<p>The Office of the Police and Crime Commissioner spends almost \u00a32 million annually on around 40 members of staff. We will ensure financial prudence and greatly reduce wasteful office expenditure (including the \u00a318,000 recently spent on a pointless website rebranding).</li>\n<li><strong>Keep POLITICS out of OUR POLICE</strong>\n<p>Considering the current state of our police force, it&#8217;s clear that short-term focused political parties should not be tasked with setting the policing priorities for our local area. Your vote for our independent local candidate will help us wrestle back control of policing from inept and uninspiring politicians.</li>\n<li><strong>Don&#8217;t throw away YOUR VOTE</strong>\n<p>In the last election for Police and Crime Commissioner, the turnout in the Thames Valley was just 35.8%, meaning that 1,173,265 people in our area lost their opportunity to vote at this really important election. By voting for More Police Officers for Thames Valley, you can show that you care about making our local area a safer place to live.</li>\n</ul>\n<p>Our official website \u2014 <strong>https://www.morepolice.uk</strong> \u2014 provides more information on our plan for improving policing in the Thames Valley.</p>\n<p>[ <strong>X</strong> ]<strong> </strong>\u2014<strong> Vote for Ben Holden-Crowther on 2nd May 2024 </strong>\u2014<br />\n<strong>for a more efficient and more effective Thames Valley Police.</strong></p>\n<p>Prepared by Ben Holden-Crowther of 400 Thames Valley Park Drive, Reading, RG6 1PT</p>\n",
         "protected": false
     },
     "excerpt": {
-        "rendered": "<p>More Police Officers for Thames Valley &mdash; is an independent democratic initiative, backed by local people, with the goal of improving your police force in the Thames Valley. More police officers for YOUR LOCAL AREA We simply do not have enough police officers in the Thames Valley, meaning that relatively serious crimes such as shoplifting [&hellip;]</p>\n",
+        "rendered": "<p>More Police Officers for Thames Valley \u2014 is an independent democratic initiative, backed by local people, with the goal of improving your police force in the Thames Valley. More police officers for YOUR LOCAL AREA We simply do not have enough police officers in the Thames Valley, meaning that relatively serious crimes such as shoplifting [&hellip;]</p>\n",
         "protected": false
     },
     "author": 341,
@@ -92,8 +92,14 @@
         ],
         "version-history": [
             {
-                "count": 0,
+                "count": 1,
                 "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5653/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6233,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5653/revisions/6233"
             }
         ],
         "wp:attachment": [

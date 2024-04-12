@@ -5,8 +5,8 @@
     "guid": {
         "rendered": "https://choosemypcc.org.uk/candidates//amanda-onwuemene-2/"
     },
-    "modified": "2024-04-08T16:21:37",
-    "modified_gmt": "2024-04-08T16:21:37",
+    "modified": "2024-04-12T13:35:03",
+    "modified_gmt": "2024-04-12T13:35:03",
     "slug": "amanda-onwuemene-2",
     "status": "publish",
     "type": "candidate",
@@ -15,11 +15,11 @@
         "rendered": "Amanda Onwuemene"
     },
     "content": {
-        "rendered": "<p>Amanda was born and grew up in Toxteth before moving to the Wirral as a child. She worked in Toxteth for many years and currently works in the Sefton Park area as a Psychotherapist.<br />Amanda is also a current, twice elected Green Party Councillor for Birkenhead and Tranmere, and the Green Party National Spokesperson for Policing and Domestic Violence.<br />Merseyside police undertook a review last year which showed that it was &ldquo;Good&rdquo; at listening to communities and reducing crime which is exactly what we want. There were two areas for improvement identified that Amanda would focus on:<br />*Policing vulnerable people &nbsp;<br />*Increasing trained staff and resources to tackle domestic violence and sexual violence against women and girls, and &nbsp;to improve special investigation services.<br />Success in the PCC election would give Amanda the opportunity to tackle anti- social behaviour, especially amongst our youth. Her background in lecturing in Further and Higher Education, Child Development and Adult Mental Health, provide her with an in-depth knowledge and understanding of how and why youths can move into offending.&nbsp;<br />As the PCC, Amanda would have responsibility for the police budget and deciding what resources need to be available to support the police service in providing a safe and secure environment for everyone on Merseyside to live, work and thrive.<br />Amanda would also &nbsp;be responsible for how your area is policed. As a councillor she is very aware of the major issues residents face regarding safety and security.<br />If voted in to represent you, she will ensure that she regularly meets with you to discuss your perspective on policing.</p>\n<p>This address has been prepared by Electoral Agent Alix Cockcroft,&nbsp;<br />5, Seabank Cottages, Bennets Lane<br />Meols Wirral CH47 7BA</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.wirral.gov.uk </p>\n<p> amandaonwuemene@wirral.gov.uk  </p>\n",
+        "rendered": "<p>Amanda was born and grew up in Toxteth before moving to the Wirral as a child. She worked in Toxteth for many years and currently works in the Sefton Park area as a Psychotherapist.<br />\nAmanda is also a current, twice elected Green Party Councillor for Birkenhead and Tranmere, and the Green Party National Spokesperson for Policing and Domestic Violence.<br />\nMerseyside police undertook a review last year which showed that it was \u201cGood\u201d at listening to communities and reducing crime which is exactly what we want. There were two areas for improvement identified that Amanda would focus on:<br />\n*Policing vulnerable people<br />\n*Increasing trained staff and resources to tackle domestic violence and sexual violence against women and girls, and \u00a0to improve special investigation services.<br />\nSuccess in the PCC election would give Amanda the opportunity to tackle anti- social behaviour, especially amongst our youth. Her background in lecturing in Further and Higher Education, Child Development and Adult Mental Health, provide her with an in-depth knowledge and understanding of how and why youths can move into offending.<br />\nAs the PCC, Amanda would have responsibility for the police budget and deciding what resources need to be available to support the police service in providing a safe and secure environment for everyone on Merseyside to live, work and thrive.<br />\nAmanda would also \u00a0be responsible for how your area is policed. As a councillor she is very aware of the major issues residents face regarding safety and security.<br />\nIf voted in to represent you, she will ensure that she regularly meets with you to discuss your perspective on policing.</p>\n<p>This address has been prepared by Electoral Agent Alix Cockcroft,<br />\n5, Seabank Cottages, Bennets Lane<br />\nMeols Wirral CH47 7BA</p>\n<p><strong>Contact Details</strong></p>\n<p>amandaonwuemene@wirral.gov.uk</p>\n",
         "protected": false
     },
     "excerpt": {
-        "rendered": "<p>Amanda was born and grew up in Toxteth before moving to the Wirral as a child. She worked in Toxteth for many years and currently works in the Sefton Park area as a Psychotherapist.Amanda is also a current, twice elected Green Party Councillor for Birkenhead and Tranmere, and the Green Party National Spokesperson for Policing [&hellip;]</p>\n",
+        "rendered": "<p>Amanda was born and grew up in Toxteth before moving to the Wirral as a child. She worked in Toxteth for many years and currently works in the Sefton Park area as a Psychotherapist. Amanda is also a current, twice elected Green Party Councillor for Birkenhead and Tranmere, and the Green Party National Spokesperson for [&hellip;]</p>\n",
         "protected": false
     },
     "author": 341,
@@ -92,8 +92,14 @@
         ],
         "version-history": [
             {
-                "count": 0,
+                "count": 2,
                 "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5663/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6270,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5663/revisions/6270"
             }
         ],
         "wp:attachment": [
