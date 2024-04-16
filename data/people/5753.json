@@ -5,8 +5,8 @@
     "guid": {
         "rendered": "https://choosemypcc.org.uk/candidates//james-sandbach-2/"
     },
-    "modified": "2024-04-08T16:24:30",
-    "modified_gmt": "2024-04-08T16:24:30",
+    "modified": "2024-04-16T09:30:38",
+    "modified_gmt": "2024-04-16T09:30:38",
     "slug": "james-sandbach-2",
     "status": "publish",
     "type": "candidate",
@@ -15,7 +15,7 @@
         "rendered": "James  Sandbach"
     },
     "content": {
-        "rendered": "<p><strong>The Liberal Democrats in Suffolk have a clear commitment to abolish the office of the Police and Crime Commissioner and put that money into frontline police services, crime prevention and victim support.</strong></p>\n<p>The functions of the PCC such as budget setting, scrutiny and crime prevention could be handled at County Council level. We have not seen any added value from the PCC role in Suffolk with no significant change in the funding formula, the poor deal that Suffolk policing gets from central Government (ours is the fourth lowest funded force per resident in the country) or a priority focus on rural policing. Instead, demands for yet more savings, increases in precepts, police station and front desk closures have resulted. There are now just three police stations in Suffolk open for public enquiries, and Suffolk Police have lost 75% of their Police Community Support Officers (PCSOs) since 2015.</p>\n<p>Yet the office of Suffolk PCC has cost the taxpayer around &pound;4.5 million in the last 5 years in running costs, salaries and expenses for the office. This election is your chance to send a message that this waste of money must end. With local crime services stretched, more money should be put directly into the frontline, not political &#8220;sinecures&#8221;. If elected I will refuse to take up the position and will not claim any salary or expenses. My mission will be to campaign to get rid of the PCC in Suffolk and see resources redirected to fighting crime and supporting victims.&nbsp;</p>\n<p><strong>As Lib Dem leader Ed Davey has said &ldquo;Right across the country, Police and Crime Commissioners have failed to tackle rural crime. The role needs to be abolished so that resources can go into what really matters &#8211; improving frontline policing&#8221;.</strong></p>\n<p>Approved: Jon Whitehouse, 9 Marsh Lane, &nbsp;Somerleyton, Suffolk &nbsp;NR32 5QX&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.suffolklibdems.uk/ </p>\n<p> jamessandbach@gmail.com  </p>\n",
+        "rendered": "<p><strong>The Liberal Democrats in Suffolk have a clear commitment to abolish the office of the Police and Crime Commissioner and put that money into frontline police services, crime prevention and victim support.</strong></p>\n<p>The functions of the PCC such as budget setting, scrutiny and crime prevention could be handled at County Council level. We have not seen any added value from the PCC role in Suffolk with no significant change in the funding formula, the poor deal that Suffolk policing gets from central Government (ours is the fourth lowest funded force per resident in the country) or a priority focus on rural policing. Instead, demands for yet more savings, increases in precepts, police station and front desk closures have resulted. There are now just three police stations in Suffolk open for public enquiries, and Suffolk Police have lost 75% of their Police Community Support Officers (PCSOs) since 2015.</p>\n<p>Yet the office of Suffolk PCC has cost the taxpayer around &pound;4.5 million in the last 5 years in running costs, salaries and expenses for the office. This election is your chance to send a message that this waste of money must end. With local crime services stretched, more money should be put directly into the frontline, not political &#8220;sinecures&#8221;. If elected I will refuse to take up the position and will not claim any salary or expenses. My mission will be to campaign to get rid of the PCC in Suffolk and see resources redirected to fighting crime and supporting victims.&nbsp;</p>\n<p><strong>As Lib Dem leader Ed Davey has said &ldquo;Right across the country, Police and Crime Commissioners have failed to tackle rural crime. The role needs to be abolished so that resources can go into what really matters &#8211; improving frontline policing&#8221;.</strong></p>\n<p>Approved: Jon Whitehouse, 9 Marsh Lane, &nbsp;Somerleyton, Suffolk &nbsp;NR32 5QX&nbsp;</p>\n<p> <Strong>Contact Details</Strong></p>\n<p> https://www.suffolklibdems.uk/ </p>\n<p> jamessandbach@hotmail.com  </p>\n",
         "protected": false
     },
     "excerpt": {
@@ -92,8 +92,14 @@
         ],
         "version-history": [
             {
-                "count": 0,
+                "count": 1,
                 "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5753/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6505,
+                "href": "https://choosemypcc.org.uk/wp-json/wp/v2/candidate/5753/revisions/6505"
             }
         ],
         "wp:attachment": [
